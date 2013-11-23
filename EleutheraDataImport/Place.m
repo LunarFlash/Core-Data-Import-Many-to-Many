@@ -27,22 +27,18 @@
 
 - (void) NSLogMe
 {
-    NSLog(@"name=%@", self.name);
-    NSLog(@"address=%@", self.address);
-    NSLog(@"city=%@", self.city);
-    NSLog(@"country=%@", self.country);
-    NSLog(@"details=%@", self.details);
-    NSLog(@"image=%@", self.image);
-    NSLog(@"mapImage=%@", self.mapImage);
-    NSLog(@"phone=%@", self.phone);
-    NSLog(@"state=%@", self.state);
-    NSLog(@"zip=%@", self.zip);
-    NSLog(@"mapURL=%@", self.mapURL);
+    NSString *placeString = [NSString stringWithFormat:@"\n\nname:%@\naddress:%@\ncity:%@\ncountry:%@\ndetails:%@\nimage:%@\nmapImage:%@\nmapURL:%@\nphone:%@\nstate:%@\nzip:%@\n",  self.name, self.address, self.city, self.country,self.details, self.image, self.mapImage, self.mapURL,
+                            self.phone, self.state, self.zip];
     
-    Tag *t = [[Tag alloc] init];
-    for (t in self.tags){
-        NSLog(@"Tag for %@ =%@", self.name, t);
+    NSString *tagsString = @"Tags:";
+    for (Tag *t in self.tags){
+        tagsString = [tagsString stringByAppendingString:t.name];
+        tagsString = [tagsString stringByAppendingString:@", "];
     }
+    tagsString = [tagsString substringToIndex:[tagsString length] - 2];
+    placeString = [placeString stringByAppendingString:tagsString];
+    
+    NSLog(@"%@", placeString);
 }
 
 -(NSDictionary*) translateToNSDictionary

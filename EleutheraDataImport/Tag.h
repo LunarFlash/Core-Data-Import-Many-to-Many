@@ -24,4 +24,6 @@
 - (void)addPlaces:(NSSet *)values;
 - (void)removePlaces:(NSSet *)values;
 
+- (void) NSLogMe;
+
 @end

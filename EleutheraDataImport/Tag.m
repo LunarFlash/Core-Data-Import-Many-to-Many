@@ -18,10 +18,15 @@
 
 - (void) NSLogMe
 {
-    NSLog(@"name=%@", self.name);
+    NSString *tagString = [NSString stringWithFormat:@"\n\nTag:%@\n",self.name];
+    NSString *placesString = @"Places:";
     for (Place *p in self.places){
-        [p NSLogMe];
+        placesString = [placesString stringByAppendingString:p.name];
+        placesString = [placesString stringByAppendingString:@", "];
     }
+    placesString = [placesString substringToIndex:[placesString length] - 2];
+    tagString = [tagString stringByAppendingString:placesString];
+    NSLog(@"%@",tagString);
 }
 
 -(NSDictionary*) translateToNSDictionary
