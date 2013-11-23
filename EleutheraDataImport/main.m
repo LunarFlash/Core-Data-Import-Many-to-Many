@@ -184,7 +184,7 @@ int main(int argc, const char * argv[])
                 
             } // if place does not exist
             else {
-                NSLog(@"*********************This place already exists*********************");
+                NSLog(@"**********************This place already exists*********************");
             }
             
         }];
