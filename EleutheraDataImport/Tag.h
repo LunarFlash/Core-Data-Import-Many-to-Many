@@ -2,8 +2,8 @@
 //  Tag.h
 //  Eleuthera
 //
-//  Created by Yi Wang on 6/2/13.
-//  Copyright (c) 2013 Yi. All rights reserved.
+//  Created by Yi Wang on 1/2/14.
+//  Copyright (c) 2014 Yi. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
@@ -23,7 +23,5 @@
 - (void)removePlacesObject:(Place *)value;
 - (void)addPlaces:(NSSet *)values;
 - (void)removePlaces:(NSSet *)values;
-
-- (void) NSLogMe;
 
 @end

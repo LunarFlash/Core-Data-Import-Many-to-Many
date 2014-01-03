@@ -1,2409 +1,2891 @@
-[
- {
- "name": "Big LA's Liquor Store",
- "city": "Gregory Town",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-5523",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GT2_bigLAs.png",
- "details": "Across the street from Pam's Gift Shop.",
- "image": "NEED_TO_ADD.png",
- "tags": [
-          "alcohol",
-          "beer",
-          "Big LA",
-          "gregory Town",
-          "gregory",
-          "GT",
-          "north eleuthera",
-          "north"
-          ]
- },
- 
- {
- "name": "Bristol Cellars",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-3663",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_bristolwine.png",
- "details": "Located on Cupid's Cay, also called Bacardi's due to the giant logo on the facade.",
- "image": "generic_alcohol.png",
- "tags": [
-          "alcohol",
-          "beer",
-          "liquor",
-          "wine",
-          "Bristol Cellars",
-          "Bacardi's",
-          "Bacardis",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Burrow's One Stop Liquors",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2310",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_burrowsalco.png",
- "details": "Across the street from Pyfrom's, parking in the rear.",
- "image": "generic_alcohol.png",
- "tags": [
-          "alcohol",
-          "beer",
-          "liquor",
-          "Burrows",
-          "Burrow's",
-          "Burrow's One Stop",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Butler and Sands",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2628",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_butlerandsands.png",
- "details": "DETAILS DETAILS.",
- "image": "generic_alcohol.png",
- "tags": [
-          "alcohol",
-          "beer",
-          "liquor",
-          "Butler and Sands",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Jean Bay Liquor Store",
- "city": "Bluff",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-3312",
- "mapURL": "http://www.google.com",
- "mapImage": "map_north_jeansbayliqu.png",
- "details": "Details details details.",
- "image": "generic_alcohol.png",
- "tags": [
-          "alcohol",
-          "beer",
-          "liquor",
-          "jean's bay",
-          "jeans bay",
-          "gene's bay",
-          "genes bay",
-          "Bluff",
-          "North Eleuthera",
-          "North"
-          ]
- },
- 
- {
- "name": "Jimmy's",
- "city": "North",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-2101",
- "mapURL": "http://www.google.com",
- "mapImage": "map_north_ELHliqu.png",
- "details": "Across the street from the North Eleuthera Airport, perfect for passing time before a flight. Open Mon-Sat, 10a-7p, Visa/MC accepted. http://www.bahamianbrewery.com",
- "image": "generic_alcohol.png",
- "tags": [
-          "alcohol",
-          "beer",
-          "liquor",
-          "Jimmy's",
-          "Jimmys",
-          "ELH",
-          "North Eleuthera",
-          "North"
-          ]
- },
- 
- {
- "name": "Mr. Bones Wine and Spirits",
- "city": "Gregory Town",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-5489",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GT2_mrbones.png",
- "details": "Located behind the graveyard.",
- "image": "eat_pyfroms.png",
- "tags": [
-          "alcohol",
-          "beer",
-          "liquor",
-          "wine",
-          "mr bones",
-          "mister bones",
-          "Gregory Town",
-          "Gregory",
-          "GT",
-          "North Eleuthera",
-          "North"
-          ]
- },
- 
- 
- {
- "name": "Pyfrom's Liquor Store",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2650",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_pyfroms.png",
- "details": "Easily found and often used as a landmark for travel. A good selection of beer and liquor.",
- "image": "eat_pyfroms.png",
- "tags": [
-          "alcohol",
-          "beer",
-          "liquor",
-          "Pyfroms",
-          "Pyfrom's",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- 
- {
- "name": "Ronnie's Hi-D Way",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2307",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_ronnies.png",
- "details": "Liquor Store, Sports Bar, Smoke Shop.",
- "tags": [
-          "alcohol",
-          "bar",
-          "live music",
-          "Ronnie's",
-          "Ronnies",
-          "Hi-D Way",
-          "Hi D Way",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Sturrups Liquor Store",
- "city": "Rock Sound",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-334-2219",
- "mapURL": "http://www.google.com",
- "mapImage": "map_RS2_sturrups.png",
- "details": "DETAILS DETAILS.",
- "tags": [
-          "alcohol",
-          "beer",
-          "liquor",
-          "Sturrups"
-          ]
- },
- 
- {
- "name": "North Eleuthera Airport",
- "city": "North",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "See Move>Airline Counters",
- "mapURL": "http://www.google.com",
- "mapImage": "map_north_ELH.png",
- "details": "Northernmost airport.",
- "image": "ADD_IMAGE.png",
- "tags": [
-          "airport",
-          "airline",
-          "flight",
-          "move",
-          "transportation",
-          "American Airlines",
-          "BahamasAir",
-          "Bahamas Air",
-          "Pineapple Express",
-          "Silver",
-          "Silver Airways",
-          "Southern Air",
-          "Southern Air Charter",
-          "ELH",
-          "North Eleuthera",
-          "North Eleuthera Airport"
-          ]
- },
- 
- {
- "name": "Governor's Harbour Airport",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "See Move>Airline Counters",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GHB_GHB.png",
- "details": "DETAILS DETAILS.",
- "image": "ADD_IMAGE.png",
- "tags": [
-          "airport",
-          "airline",
-          "flight",
-          "move",
-          "transportation",
-          "BahamasAir",
-          "Bahamas Air",
-          "Pineapple Express",
-          "Silver",
-          "Silver Airways",
-          "Southern Air",
-          "Southern Air Charter",
-          "GHB",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's Harbour Airport",
-          "Governors Harbour Airport",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Rock Sound Airport",
- "city": "Rock Sound",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "See Move>Airline Counters",
- "mapURL": "http://www.google.com",
- "mapImage": "map_RSD_RSD.png",
- "details": "DETAILS DETAILS.",
- "image": "ADD_IMAGE.png",
- "tags": [
-          "airport",
-          "airline",
-          "flight",
-          "move",
-          "transportation",
-          "BahamasAir",
-          "Bahamas Air",
-          "Pineapple Express",
-          "Southern Air",
-          "Southern Air Charter",
-          "RSD",
-          "Rock Sound",
-          "Rock Sound Airport"
-          ]
- },
- 
- {
- "name": "Three Islands Dock",
- "city": "North",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "See Move>Airline Counters",
- "mapURL": "http://www.google.com",
- "mapImage": "map_north_threeislandsdock.png",
- "details": "Water taxi transportation to Harbour Island Government Dock. Rates are $5 per person and are readily available during the daylight hours.",
- "image": "generic_boat.png",
- "tags": [
-          "water taxi",
-          "Harbour Island",
-          "three islands",
-          "3 islands",
-          "ferry",
-          "dock",
-          "boat dock",
-          "move",
-          "transportation"
-          ]
- },
- 
- {
- "name": "Harbour Island Government Dock",
- "city": "Dunmore Town",
- "state": "Harbour Island",
- "country": "Bahamas",
- "phone": "N/A",
- "mapURL": "http://www.google.com",
- "mapImage": "map_north_HIdock.png",
- "details": "Water taxi transportation to Three Islands Dock on Eleuthera. Rates are $5 per person and are readily available during the daylight hours.",
- "image": "generic_boat.png",
- "tags": [
-          "water taxi",
-          "ferry",
-          "dock",
-          "boat dock",
-          "move",
-          "transportation",
-          "Harbour",
-          "Harbour Island",
-          "HI",
-          "Briland",
-          "Harbor",
-          "Dunmore",
-          "Dunmore Town"
-          ]
- },
- 
- {
- "name": "Jean's Bay Dock",
- "city": "North",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "N/A",
- "mapURL": "http://www.google.com",
- "mapImage": "map_north_jeansbaydock.png",
- "details": "DETAILS DETAILS.",
- "image": "generic_boat.png",
- "tags": [
-          "water taxi",
-          "Spanish Wells",
-          "ferry",
-          "dock",
-          "boat dock",
-          "move",
-          "transportation",
-          "Jean's Bay",
-          "Gene's Bay",
-          "North Eleuthera",
-          "North"
-          ]
- },
- 
- {
- "name": "Spanish Wells Dock",
- "city": "Spanish Wells",
- "state": "St. George's Cay",
- "country": "Bahamas",
- "phone": "N/A",
- "mapURL": "http://www.google.com",
- "mapImage": "map_north_SWdock.png",
- "details": "DETAILS DETAILS.",
- "image": "generic_boat.png",
- "tags": [
-          "water taxi",
-          "SW",
-          "spanish",
-          "Spanish Wells",
-          "Spanish Wells dock",
-          "ferry",
-          "dock",
-          "ferry dock",
-          "boat dock",
-          "move",
-          "transportation"
-          ]
- },
- 
- {
- "name": "Governor's Harbour Ferry Dock",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "phone",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_ferrydock.png",
- "details": "DETAILS DETAILS.",
- "image": "generic_boat.png",
- "tags": [
-          "Bahamas Fast Ferry",
-          "Bahamas Fast Ferries",
-          "Nassau",
-          "ferry",
-          "dock",
-          "ferry dock",
-          "Governor's Harbour Ferry Dock",
-          "boat dock",
-          "move",
-          "transportation",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Cape Eleuthera Marina",
- "city": "Rock Sound",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "phone",
- "mapURL": "http://www.google.com",
- "mapImage": "map_southern_capeeleutheramarina.png",
- "details": "DETAILS DETAILS.",
- "image": "ADD_IMAGE.png",
- "tags": [
-          "dock",
-          "boat dock",
-          "move",
-          "transportation",
-          "Cape Eleuthera",
-          "Cape Eleuthera Marina",
-          "CE",
-          "marina",
-          "south"
-          ]
- },
- 
- {
- "name": "Davis Harbour Marina",
- "city": "Rock Sound",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "See Move>Airline Counters",
- "mapURL": "http://www.google.com",
- "mapImage": "map_southern_davisharbourmarina.png",
- "details": "DETAILS DETAILS.",
- "image": "ADD_IMAGE.png",
- "tags": [
-          "dock",
-          "boat dock",
-          "move",
-          "transportation",
-          "Davis Harbour",
-          "Davis Harbour Marina",
-          "marina"
-          ]
- },
- 
- {
- "name": "Gregory Town Marina",
- "city": "Gregory Town",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GT2_GTmarina.png",
- "details": "DETAILS DETAILS.",
- "image": "ADD_IMAGE.png",
- "tags": [
-          "dock",
-          "boat dock",
-          "move",
-          "transportation",
-          "marina",
-          "Gregory Town Marina",
-          "Gregory Town",
-          "Gregory",
-          "GT",
-          "North Eleuthera",
-          "North"
-          ]
- },
- 
- {
- "name": "Scotia Bank",
- "city": "Lower Bogue",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-1400",
- "mapURL": "http://www.google.com",
- "mapImage": "map_north_scotia.png",
- "details": "http://www.scotiabank.com",
- "image": "ADD_image.png",
- "tags": [
-          "bank",
-          "money",
-          "Scotia Bank",
-          "Lower Bogue",
-          "Lower",
-          "Bogue",
-          "LB",
-          "north"
-          ]
- },
- 
- {
- "name": "Royal Bank of Canada",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2856",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_royalbankcanada.png",
- "details": "http://www.rbcroyalbank.com/",
- "image": "ADD_image.png",
- "tags": [
-          "bank",
-          "money",
-          "RBC",
-          "Royal Bank",
-          "Royal Bank of Canada",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "First Caribbean Bank",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2300",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_firstcaribbank.png",
- "details": "http://www.cibcfcib.com/",
- "image": "ADD_image.png",
- "tags": [
-          "bank",
-          "money",
-          "First Caribbean Bank",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Barclay's Bank",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2300",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_firstcaribbank.png",
- "details": "http://barclays.com",
- "image": "ADD_image.png",
- "tags": [
-          "bank",
-          "money",
-          "Barclay's Bank",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Scotia Bank",
- "city": "Rock Sound",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-334-2620",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_firstcaribbank.png",
- "details": "http://www.scotiabank.com",
- "image": "ADD_image.png",
- "tags": [
-          "bank",
-          "money",
-          "Scotia Bank",
-          "Rock Sound",
-          "RS",
-          "Rock",
-          "south",
-          "southern"
-          ]
- },
- 
- {
- "name": "Da Perk",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2620",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_daPerk.png",
- "details": "The only coffee shop on the island, also serves sandwiches and snacks. Indoor/outdoor seating, air-conditioned.",
- "image": "generic_coffee.png",
- "tags": [
-          "coffee",
-          "restaurant",
-          "restaurant $",
-          "da perk",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Burrow's One Stop Shop",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2999",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_burrowsonestop.png",
- "details": "Open: M-F 6a-6p, Sat 6a-7p, Sun 6a-10a",
- "image": "ADD_image.png",
- "tags": [
-          "grocery",
-          "Burrows",
-          "Burrow's",
-          "Burrows One Stop",
-          "Burrow's One Stop",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Eleuthera Supply",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2728",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_eleutherasupply.png",
- "details": "Open: Mon-Thu 6am-6pm, Fri 6am-630pm, Sat 6am-730pm, Sun 6am-3pm",
- "image": "eat_grocery_elusupply.png",
- "tags": [
-          "grocery",
-          "Eleuthera Supply",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "North Eleuthera Shopping Center",
- "city": "Bluff",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-1880",
- "mapURL": "http://www.google.com",
- "mapImage": "map_north_burchies.png",
- "details": "One of the largest grocery stores on the island, also called Burchies. Mon-Thu 8am-8pm, Fri-Sat 8am-9pm, Sun 7am-10am",
- "image": "ADD_GENERIC.png",
- "tags": [
-          "grocery",
-          "Bluff",
-          "Burchies",
-          "Burchie's",
-          "North Eleuthera",
-          "North"
-          ]
- },
- 
- {
- "name": "Governor's Harbour Bakery",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2071",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_bakery.png",
- "details": "One of the largest grocery stores on the island, also called Burchies. Mon-Thu 8am-8pm, Fri-Sat 8am-9pm, Sun 7am-10am",
- "image": "ADD_GENERIC.png",
- "tags": [
-          "bakery",
-          "bread",
-          "cake",
-          "donuts",
-          "doughnuts",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          
-          ]
- },
- 
- {
- "name": "Island Farm",
- "city": "Palmetto Point",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-0141",
- "mapURL": "http://www.google.com",
- "mapImage": "map_PP_islandfarm.png",
- "details": "The best source for fresh fruit, vegetables, spices, and on select days breads. Open Mon-Sat 9am-4pm www.islandfarmeleuthera.com",
- "image": "eat_grocery_islandfarm_fruits.png",
- "tags": [
-          "grocery",
-          "gift shop",
-          "fruit",
-          "vegetables",
-          "pineapples",
-          "Palmetto Point",
-          "NPP",
-          "PP",
-          "Palmetto",
-          "central"
-          ]
- },
- 
- {
- "name": "The Market",
- "city": "Rock Sound",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-334-2254",
- "mapURL": "http://www.google.com",
- "mapImage": "map_RS2_themarket.png",
- "details": "M/Tu/Th 8am-5pm, W 8am-2pm, Fr/Sat 8am-7pm http://rsp1976.com/marketplace.html",
- "image": "ADD_image.png",
- "tags": [
-          "grocery",
-          "Rock Sound",
-          "RS",
-          "Rock",
-          "south",
-          "southern"
-          ]
- },
- 
- {
- "name": "Bert's for the Best",
- "city": "Tarpum Bay",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-334-4253",
- "mapURL": "http://www.google.com",
- "mapImage": "map_TB2_berts.png",
- "details": "details",
- "image": "ADD_image.png",
- "tags": [
-          "grocery",
-          "Berts",
-          "Bert's",
-          "Berts for the Best",
-          "Bert's for the Best",
-          "Tarpum Bay",
-          "TB",
-          "Tarpum",
-          "south",
-          "southern"
-          ]
- },
- 
- {
- "name": "Millard's Variety Store",
- "city": "North Palmetto Point",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-1239",
- "mapURL": "http://www.google.com",
- "mapImage": "map_pp_millards.png",
- "details": "details",
- "image": "ADD_image.png",
- "tags": [
-          "grocery",
-          "Millards",
-          "Millard's",
-          "Millards Variety Store",
-          "Millard's Variety Store",
-          "Palmetto Point",
-          "North Palmetto Point",
-          "NPP",
-          "PP",
-          "Palmetto",
-          "central"
-          ]
- },
- 
- {
- "name": "Big Rock General",
- "city": "Rainbow Bay",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-6008",
- "mapURL": "http://www.google.com",
- "mapImage": "map_RB_bigrock.png",
- "details": "details",
- "image": "ADD_image.png",
- "tags": [
-          "grocery",
-          "Big",
-          "Big Rock",
-          "Big Rock General",
-          "Rainbow",
-          "Rainbow Bay",
-          "RB",
-          "central"
-          ]
- },
- 
- {
- "name": "Lakia's Variety Store",
- "city": "North Palmetto Point",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-0288",
- "mapURL": "http://www.google.com",
- "mapImage": "map_PP_lakiasvariety.png",
- "details": "Open M-Sat 6a-9p, Sun 6a-11a",
- "image": "ADD_image.png",
- "tags": [
-          "grocery",
-          "Lakias",
-          "Lakia's",
-          "Lakias Variety Store",
-          "Lakia's Variety Store",
-          "North Palmetto Point",
-          "NPP",
-          "PP",
-          "Palmetto",
-          "Palmetto Point",
-          "central"
-          ]
- },
- 
- {
- "name": "Johnson's Grocery Store",
- "city": "Lower Bogue",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-1340",
- "mapURL": "http://www.google.com",
- "mapImage": "map_north3_johnsonsgrocery.png",
- "details": "Open daily 6a-10p",
- "image": "ADD_image.png",
- "tags": [
-          "grocery",
-          "Johnsons",
-          "Johnson's",
-          "Johnsons Grocery Store",
-          "Johnson's Grocery Store",
-          "Lower Bogue",
-          "Lower",
-          "Bogue",
-          "LB",
-          "north"
-          ]
- },
- 
- {
- "name": "Durham Food Store",
- "city": "Current",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-3237",
- "mapURL": "http://www.google.com",
- "mapImage": "map_north3_durhamgrocery.png",
- "details": "details",
- "image": "ADD_image.png",
- "tags": [
-          "grocery",
-          "Durham",
-          "Durham Food",
-          "Durham Food Store",
-          "Current",
-          "north"
-          ]
- },
- 
- {
- "name": "Sharil's Restaurant",
- "city": "Deep Creek",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-334-8111",
- "mapURL": "http://www.google.com",
- "mapImage": "map_southern_sharils.png",
- "details": "Details",
- "image": "restaurant.png",
- "tags": [
-          "restaurant",
-          "restaurant $",
-          "restaurant american",
-          "Deep Creek",
-          "Deep",
-          "creek",
-          "south",
-          "southern",
-          "south eleuthera"
-          ]
- },
- 
- {
- "name": "The Cove Restaurant",
- "city": "Gregory Town",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-5142",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GT_coverestaurant.png",
- "details": "$$$, Details",
- "image": "restaurant.png",
- "tags": [
-          "restaurant",
-          "restaurant $$$",
-          "american",
-          "gregory town",
-          "gregory",
-          "GT",
-          "north",
-          "northern",
-          "north eleuthera"
-          ]
- },
- 
- {
- "name": "The Laughing Lizard Cafe",
- "city": "Gregory Town",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-470-6992",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GT_laughinglizard.png",
- "details": "$$, Open Mon-Sat, L, soup, salad, and sandwiches",
- "image": "restaurant.png",
- "tags": [
-          "restaurant",
-          "restaurant $$$",
-          "american",
-          "gregory town",
-          "gregory",
-          "GT",
-          "north",
-          "northern",
-          "north eleuthera"
-          ]
- },
- 
- {
- "name": "Ida's Ice Cream",
- "city": "Gregory Town",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "-",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GT2_idasdelights.png",
- "details": "$, Details",
- "image": "restaurant.png",
- "tags": [
-          "restaurant",
-          "restaurant $",
-          "ice cream",
-          "gregory town",
-          "gregory",
-          "GT",
-          "north",
-          "northern",
-          "north eleuthera"
-          ]
- },
- 
- {
- "name": "Surfer's Beach Manor Restaurant & Bar",
- "city": "Gregory Town",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-5300",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GT_surfersmanorrestbar.png",
- "details": "$, Details",
- "image": "restaurant.png",
- "tags": [
-          "restaurant",
-          "restaurant $",
-          "bar",
-          "surfers",
-          "surfer's",
-          "surfers beach",
-          "surfer's beach",
-          "surfers beach manor",
-          "surfer's beach manor",
-          "gregory town",
-          "gregory",
-          "GT",
-          "north",
-          "northern",
-          "north eleuthera"
-          ]
- },
- 
- {
- "name": "Daddy Joe's Restaurant & Bar",
- "city": "Gregory Town",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-5688",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GWB_daddyjoes.png",
- "details": "$$, Details",
- "image": "restaurant.png",
- "tags": [
-          "restaurant",
-          "restaurant $$",
-          "bar",
-          "daddy",
-          "daddy joes",
-          "daddy joe's",
-          "surfer's beach",
-          "gregory town",
-          "gregory",
-          "GT",
-          "north",
-          "northern",
-          "north eleuthera"
-          ]
- },
- 
- {
- "name": "The Bistro",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-3422",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GHB_thebistro.png",
- "details": "http://www.skybeachclub.com/the-bistro/ Elegant beachfront dining room and bar. Serves breakfast, lunch, and dinner from an American style menu. Bar features swim-up seating from the infinity pool. Covered seating in dining room and bar.",
- "image": "eat_rest_bistro.png",
- "tags": [
-          "restaurant",
-          "restaurant $$$",
-          "restaurant american",
-          "bistro",
-          "the bistro",
-          "sky",
-          "sky beach",
-          "sky beach club",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Banks Road Deli",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2221",
- "mapURL": "http://www.google.com",
- "mapImage": "map_BR_banksroaddeli.png",
- "details": "http://www.pineapplefields.com/deli.html Featuring meats and cheeses to take home, as well as sandwiches and other light fare. The deli shares space with the Pineapple Fields front desk and also contains some of their branded merchandise.",
- "image": "restaurant_generic",
- "tags": [
-          "restaurant",
-          "restaurant $$",
-          "restaurant american",
-          "deli",
-          "banks road",
-          "banks road deli",
-          "pineapple",
-          "pineapple fields",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- 
- {
- "name": "The Rainbow Inn Seafood, Steakhouse & Bar",
- "city": "Rainbow Bay",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2650",
- "mapURL": "http://www.google.com",
- "mapImage": "map_RB_rainbowinnrest.png",
- "details": "http://www.rainbowinn.com",
- "image": "restaurant.png",
- "tags": [
-          "restaurant",
-          "restaurant $$$",
-          "american",
-          "Rainbow Bay",
-          "RB",
-          "central eleuthera",
-          "central"
-          ]
- },
- 
- 
- 
- {
- "name": "Governor's Harbour Boat Ramp",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_boatramp.png",
- "details": "Buy the catch of the day when the fishermen return around 3PM.",
- "image": "add_image.png",
- "tags": [
-          "fish",
-          "fishing",
-          "boat ramp",
-          "dock",
-          "docks",
-          "pier",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- 
- {
- "name": "Tarpum Bay Fishing Dock",
- "city": "Tarpum Bay",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_TB2_fishingdock.png",
- "details": "Buy the catch of the day when the fishermen return around 3PM.",
- "image": "add_image.png",
- "tags": [
-          "fish",
-          "fishing",
-          "boat ramp",
-          "dock",
-          "docks",
-          "pier",
-          "Tarpum Bay",
-          "TB",
-          "Tarpum",
-          "south",
-          "southern"
-          ]
- },
- 
- {
- "name": "James Cistern Pier",
- "city": "James Cistern",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_boatramp.png",
- "details": "Buy the catch of the day when the fishermen return around 3PM.",
- "image": "add_image.png",
- "tags": [
-          "fish",
-          "fishing",
-          "boat ramp",
-          "dock",
-          "docks",
-          "pier",
-          "James",
-          "James Cistern",
-          "Cistern",
-          "JC",
-          "north",
-          "northern",
-          "north eleuthera"
-          ]
- },
- 
- {
- "name": "Pam's Island Made Gifts",
- "city": "Gregory Town",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-5369",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_pyfroms.png",
- "details": "Mon-Sat, 9am-5pm, island paintings, ornaments, sauces, and the best map of Eleuthera.",
- "image": "do_gift_pams.png",
- "tags": [
-          "gift",
-          "gifts",
-          "gift shop",
-          "souvenir",
-          "souvenirs",
-          "Pam's",
-          "Pams",
-          "Pam's Island Made",
-          "Pam's Island Made Gift Shop",
-          "Pams Island Made",
-          "Pams Island Made Gift Shop",
-          "Gregory Town",
-          "Gregory",
-          "GT",
-          "North Eleuthera",
-          "North",
-          "northern"
-          ]
- },
- 
- {
- "name": "Norma's Gift Shop",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2002",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_normas.png",
- "details": "Gifts and souvenirs, shirts, and beachwear.",
- "image": "do_gift_pams.png",
- "tags": [
-          "gift",
-          "gifts",
-          "gift shop",
-          "souvenir",
-          "souvenirs",
-          "Norma's",
-          "Normas",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Treasures from the Sea",
- "city": "North Palmetto Point",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2647/242-470-3925",
- "mapURL": "http://www.google.com",
- "mapImage": "map_PP_treasuresfromthesea.png",
- "details": "Open 8a-4p.",
- "image": "add_image.png",
- "tags": [
-          "gift",
-          "gifts",
-          "gift shop",
-          "souvenir",
-          "souvenirs",
-          "treasure",
-          "treasures",
-          "treasures from the sea",
-          "North Palmetto Point",
-          "NPP",
-          "PP",
-          "Palmetto",
-          "Palmetto Point",
-          "central"
-          ]
- },
- 
- {
- "name": "The Beach House Gift Shop",
- "city": "Gregory Town",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-3387",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_pyfroms.png",
- "details": "Mon-Sat, 9am-5pm, island paintings, ornaments, sauces, and the best map of Eleuthera.",
- "image": "do_gift_pams.png",
- "tags": [
-          "gift",
-          "gifts",
-          "gift shop",
-          "souvenir",
-          "souvenirs",
-          "Norma's",
-          "Normas",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Rebecca's Beach Shop",
- "city": "Gregory Town",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-5436",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GT2_rebeccasbeachshop.png",
- "details": "details.",
- "image": "add_image.png",
- "tags": [
-          "gift",
-          "gifts",
-          "gift shop",
-          "souvenir",
-          "souvenirs",
-          "Rebecca's",
-          "Rebeccas",
-          "Rebecca's Beach Shop",
-          "Rebeccas Beach Shop",
-          "Gregory Town",
-          "Gregory",
-          "GT",
-          "North Eleuthera",
-          "North",
-          "northern"
-          ]
- },
- 
- {
- "name": "Dilly Dally",
- "city": "Dunmore Town",
- "state": "Harbour Island",
- "country": "Bahamas",
- "phone": "242-333-3109",
- "mapURL": "http://www.google.com",
- "mapImage": "map_HI_dillydally.png",
- "details": "details.",
- "image": "add_image.png",
- "tags": [
-          "gift",
-          "gifts",
-          "gift shop",
-          "souvenir",
-          "souvenirs",
-          "Dilly Dally",
-          "Dilly",
-          "Dunmore Town",
-          "Dunmore",
-          "Harbour",
-          "Harbour Island",
-          "HI"
-          ]
- },
- 
- {
- "name": "The Cove",
- "city": "Gregory Town",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-5142/888-776-3901",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GT_covehotel.png",
- "details": "www.thecoveeleuthera.com",
- "image": "add_image.png",
- "tags": [
-          "accommodations",
-          "hotel",
-          "The Cove",
-          "Cove",
-          "Gregory Town",
-          "Gregory",
-          "GT",
-          "North Eleuthera",
-          "North",
-          "northern",
-          "north eleuthera"
-          ]
- },
- 
- {
- "name": "Surfer's Manor",
- "city": "Gregory Town",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-5300",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GT_surfersmanor.png",
- "details": "http://www.surfersmanor.com/",
- "image": "add_image.png",
- "tags": [
-          "accommodations",
-          "hotel",
-          "surfer's manor",
-          "surfers manor",
-          "surfer's",
-          "surfers",
-          "Gregory Town",
-          "Gregory",
-          "GT",
-          "North Eleuthera",
-          "North",
-          "northern"
-          ]
- },
- 
- {
- "name": "The Rainbow Inn & Restaurant",
- "city": "Rainbow Bay",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-335-0294",
- "mapURL": "http://www.google.com",
- "mapImage": "map_RB_rainbowinn.png",
- "details": "www.rainbowinn.com",
- "image": "add_image.png",
- "tags": [
-          "accommodations",
-          "hotel",
-          "restaurant",
-          "restaurant $$$",
-          "restaurant american",
-          "rainbow inn",
-          "the rainbow inn",
-          "Rainbow",
-          "Rainbow Bay",
-          "RB",
-          "north",
-          "northern",
-          "north eleuthera"
-          ]
- },
- 
- {
- "name": "Cocodimama",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-3150",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GHB_cocohotel.png",
- "details": "www.cocodimama.com Currently closed during renovations, may be available for special events.",
- "image": "add_image.png",
- "tags": [
-          "accommodations",
-          "hotel",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "coco",
-          "cocodimama",
-          "cocodimamas",
-          "cocodimama's",
-          "central"
-          ]
- },
- 
- 
- {
- "name": "Sky Beach Club",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "800-605-9869/242-422-9597",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GHB_skybeachclub.png",
- "details": "www.skybeachclub.com",
- "image": "add_image.png",
- "tags": [
-          "accommodations",
-          "hotel",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central",
-          "sky",
-          "sky beach",
-          "sky beach club",
-          "sbc",
-          "the bistro",
-          "bistro"
-          ]
- },
- 
- {
- "name": "Hut Pointe",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-3530/760-908-6700",
- "homepage": "http://www.hutpointe.com",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GHB_hutpointe.png",
- "details": "2BR condos",
- "image": "add_image.png",
- "tags": [
-          "accommodations",
-          "hotel",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central",
-          "hut",
-          "hut point",
-          "hut pointe"
-          ]
- },
- 
- {
- "name": "The Duck Inn",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2608",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_duckinn.png",
- "details": "http://www.duckinncottages.com",
- "image": "add_image.png",
- "tags": [
-          "accommodations",
-          "hotel",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central",
-          "duck",
-          "duck inn",
-          "the duck inn"
-          ]
- },
- 
- {
- "name": "Pineapple Fields",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2221",
- "mapURL": "http://www.google.com",
- "mapImage": "map_BR_pineapplefields.png",
- "details": "www.pineapplefields.com",
- "image": "add_image.png",
- "tags": [
-          "accommodations",
-          "hotel",
-          "Governor's Harbour",
-          "Governor's Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central",
-          "pineapple",
-          "pineapple fields",
-          "tippy",
-          "tippys",
-          "tippy's",
-          "banks road",
-          "old banks road",
-          "banks road deli"
-          ]
- },
- 
- {
- "name": "Unique Village",
- "city": "North Palmetto Point",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-1830",
- "mapURL": "http://www.google.com",
- "mapImage": "map_PP_uniqueVhotel.png",
- "details": "Tippy's serve awesome and overpriced food",
- "image": "rest__pyfroms.png",
- "tags": [
-          "accommodations",
-          "Palmetto Point",
-          "North Palmetto Point",
-          "NPP",
-          "PP",
-          "Palmetto",
-          "Palmetto Point",
-          "central",
-          "unique",
-          "unique village",
-          "the duck inn",
-          "central"
-          ]
- },
- 
- {
- "name": "Forty’s Sports and Rental Shop",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-3730",
- "mapURL": "http://www.google.com",
- "mapImage": "map_BR_fortys.png",
- "details": "Rents kayaks, bikes, and arranges fishing trips.",
- "image": "add_image.png",
- "tags": [
-          "activities",
-          "kayak",
-          "bike",
-          "bicycle",
-          "cycle",
-          "fishing",
-          "tours",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Clearwater Dive Shop",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2146",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_clearwaterdive.png",
- "details": "Rents snorkel equipment, oxygen tanks, and Hawaiian slings.",
- "image": "add_image.png",
- "tags": [
-          "activities",
-          "snorkel",
-          "dive",
-          "oxygen",
-          "tanks",
-          "oxygen tanks",
-          "sling",
-          "slings",
-          "hawaiian",
-          "hawaiian sling",
-          "scuba",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Ocean Fox - Davis Harbour",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-334-6300",
- "mapURL": "http://www.google.com",
- "mapImage": "map_southern_oceanfoxdavisharbour.png",
- "details": "Scuba and snorkel equipment rentals, training, and charters.",
- "image": "add_image.png",
- "tags": [
-          "activities",
-          "kayak",
-          "bike",
-          "bicycle",
-          "cycle",
-          "fishing",
-          "tours",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Ocean Fox - Harbour Island",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-333-2323",
- "mapURL": "http://www.google.com",
- "mapImage": "map_HI_oceanfoxHI.png",
- "details": "Scuba and snorkel equipment rentals, training, and charters.",
- "image": "add_image.png",
- "tags": [
-          "activities",
-          "kayak",
-          "bike",
-          "bicycle",
-          "cycle",
-          "fishing",
-          "tours",
-          "Harbour",
-          "Harbour Island",
-          "HI",
-          "Briland",
-          "Harbor",
-          "Harbor Island",
-          "Dunmore",
-          "Dunmore Town"
-          ]
- },
- 
- {
- "name": "Valentine's Dive Shop",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-333-2080",
- "mapURL": "http://www.google.com",
- "mapImage": "map_HI_valentinesdive.png",
- "details": "Scuba and snorkel equipment rentals, training, and charters.",
- "image": "add_image.png",
- "tags": [
-          "activities",
-          "kayak",
-          "bike",
-          "bicycle",
-          "cycle",
-          "fishing",
-          "tours",
-          "Harbour",
-          "Harbour Island",
-          "HI",
-          "Briland",
-          "Harbor",
-          "Harbor Island"
-          ]
- },
- 
- {
- "name": "Captain Z's Fishing Charter",
- "city": "Gregory Town",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-551-0641",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GT2_CaptZ.png",
- "details": "Fishing charters.",
- "image": "add_image.png",
- "tags": [
-          "activities",
-          "kayak",
-          "bike",
-          "bicycle",
-          "cycle",
-          "fishing",
-          "tours",
-          "Gregory Town",
-          "Gregory",
-          "GT",
-          "North Eleuthera",
-          "North",
-          "northern"
-          ]
- },
- 
- {
- "name": "Princess Theater",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2735",
- "mapURL": "http://www.google.com",
- "mapImage": "map_BR_fortys.png",
- "details": "Rents kayaks, bikes, and arranges fishing trips.",
- "image": "add_image.png",
- "tags": [
-          "activities",
-          "movies",
-          "movie",
-          "theater",
-          "princess",
-          "princess theater",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Friday Night Fish Fry",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_fishfry.png",
- "details": "$$, Friday nights 6pm-12am.",
- "image": "add_image.png",
- "tags": [
-          "activities",
-          "friday",
-          "friday night",
-          "fish fry",
-          "friday night fish fry",
-          "music",
-          "bbq",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- },
- 
- {
- "name": "Oceanview Farm",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-357-4258",
- "mapURL": "http://www.google.com",
- "mapImage": "map_BR_oceanviewfarms.png",
- "details": "www.oceanview242.com, Mon-Sat 9a-4p, Horseback rides",
- "tags": [
-          "activities",
-          "horse",
-          "horseback",
-          "horseback rides",
-          "farm",
-          "oceanview",
-          "oceanview farm",
-          "oceanview farms",
-          "ocean view",
-          "ocean view farm",
-          "ocean view farms",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- 
- },
- 
- {
- "name": "Preacher's Cave",
- "city": "North",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-357-4258",
- "mapURL": "http://www.google.com",
- "mapImage": "map_north_preacherscave.png",
- "details": "-",
- "tags": [
-          "sights",
-          "preacher's",
-          "preachers",
-          "preacher's cave",
-          "preachers cave",
-          "cave",
-          "heritage",
-          "heritage site",
-          "north",
-          "northern",
-          "north eleuthera"
-          ]
- 
- },
- 
- {
- "name": "Glass Window Bridge",
- "city": "North",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GWB_glasswindowbridge.png",
- "details": "-",
- "tags": [
-          "sights",
-          "glass",
-          "glass window",
-          "glass window bridge",
-          "bridge",
-          "heritage",
-          "heritage site",
-          "north",
-          "northern",
-          "north eleuthera"
-          ]
- 
- },
- 
- {
- "name": "Queen's Bath",
- "city": "North",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GWB_queensbath.png",
- "details": "-",
- "tags": [
-          "sights",
-          "queen",
-          "queens",
-          "queen's",
-          "queen's bath",
-          "queens bath",
-          "heritage",
-          "heritage site",
-          "north",
-          "northern",
-          "north eleuthera"
-          ]
- 
- },
- 
- {
- "name": "Cow & Bull",
- "city": "North",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GWB_cowandbull.png",
- "details": "-",
- "tags": [
-          "sights",
-          "cow",
-          "cow and bull",
-          "cow & bull",
-          "bull",
-          "heritage",
-          "heritage site",
-          "north",
-          "northern",
-          "north eleuthera"
-          ]
- 
- },
- 
- {
- "name": "Hatchet Bay Caves",
- "city": "Hatchet Bay",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_HB_caves.png",
- "details": "-",
- "tags": [
-          "sights",
-          "Hatchet",
-          "Hatchet Bay",
-          "cave",
-          "caves",
-          "HB",
-          "heritage",
-          "heritage site",
-          "north",
-          "northern",
-          "north eleuthera"
-          ]
- 
- },
- 
- {
- "name": "Rainbow Cliffs",
- "city": "Rainbow Bay",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "NEED_MAP.png",
- "details": "Towering cliffs over the Atlantic offers ",
- "tags": [
-          "sights",
-          "Rainbow",
-          "Rainbow Bay",
-          "Rainbow Bay Cliffs",
-          "RB",
-          "cliff",
-          "cliffs",
-          "heritage",
-          "heritage site",
-          "north",
-          "northern",
-          "north eleuthera"
-          ]
- 
- },
- 
- {
- "name": "Leon Levy Plant Preserve",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_BR_leonlevyplant.png",
- "details": "www.levypreserve.org",
- "tags": [
-          "sights",
-          "leon",
-          "leon levy",
-          "leon levy plant",
-          "leon levy plant preserve",
-          "plant",
-          "plant preserve",
-          "heritage",
-          "heritage site",
-          "central"
-          ]
- 
- },
- 
- {
- "name": "Ocean Hole",
- "city": "Rock Sound",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_RS2_oceanhole.png",
- "details": "-",
- "tags": [
-          "sights",
-          "ocean",
-          "ocean hole",
-          "rock sound",
-          "rock",
-          "RS",
-          "heritage",
-          "heritage site",
-          "south",
-          "southern",
-          "south eleuthera"
-          ]
- 
- },
- 
- {
- "name": "Gully Hole",
- "city": "Deep Creek",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "NEED_MAP.png",
- "details": "-",
- "tags": [
-          "sights",
-          "gully",
-          "gully hole",
-          "hole",
-          "deep",
-          "deep creek",
-          "DC",
-          "creek",
-          "central"
-          ]
- 
- },
- 
- {
- "name": "The Lone Tree",
- "city": "Dunmore Town",
- "state": "Harbour Island",
- "country": "Bahamas",
- "phone": "242-357-4258",
- "mapURL": "http://www.google.com",
- "mapImage": "map_HI_thelonetree.png",
- "details": "-",
- "tags": [
-          "sights",
-          "Harbour",
-          "Harbour Island",
-          "HI",
-          "Briland",
-          "Harbor",
-          "Harbor Island",
-          "Dunmore",
-          "Dunmore Town"
-          ]
- 
- },
- 
- {
- "name": "Hayne's Library",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-332-2877",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_hayneslib.png",
- "details": "www.hayneslibrary.org",
- "tags": [
-          "library",
-          "hayne's",
-          "haynes",
-          "hayne's library",
-          "haynes library",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- 
- },
- 
- {
- "name": "Tarpum Bay Library",
- "city": "Tarpum Bay",
- "state": "Eleuthera",
- "country": "Bahamas",
- "phone": "242-334-4603",
- "mapURL": "http://www.google.com",
- "mapImage": "map_TB2_library.png",
- "details": "tarpumbaylibrary@yahoo.com",
- "tags": [
-          "library",
-          "hayne's",
-          "haynes",
-          "hayne's library",
-          "haynes library",
-          "Tarpum Bay",
-          "TB",
-          "Tarpum",
-          "south",
-          "southern"
-          ]
- 
- },
- 
- {
- "name": "Texaco",
- "city": "North",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_north_texaco.png",
- "details": "-",
- "tags": [
-          "gas",
-          "gas station",
-          "petrol",
-          "petrol station",
-          "move",
-          "transportation",
-          "texaco",
-          "north"
-          ]
- 
- },
- 
- {
- "name": "Shell - Governor's Harbour",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_shell.png",
- "details": "-",
- "tags": [
-          "gas",
-          "gas station",
-          "petrol",
-          "petrol station",
-          "move",
-          "transportation",
-          "texaco",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- 
- },
- 
- {
- "name": "Esso",
- "city": "Governor's Harbour",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_GH_esso.png",
- "details": "-",
- "tags": [
-          "gas",
-          "gas station",
-          "petrol",
-          "petrol station",
-          "move",
-          "transportation",
-          "esso",
-          "Governor's Harbour",
-          "Governors Harbour",
-          "Governor's",
-          "Governors",
-          "GH",
-          "central"
-          ]
- 
- },
- 
- {
- "name": "Shell - Rock Sound",
- "city": "Rock Sound",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_RS2_marketgas.png",
- "details": "-",
- "tags": [
-          "gas",
-          "gas station",
-          "petrol",
-          "petrol station",
-          "move",
-          "transportation",
-          "shell",
-          "Rock Sound",
-          "RS",
-          "Rock",
-          "south",
-          "southern"
-          ]
- 
- },
- 
- {
- "name": "Gas - Rock Sound",
- "city": "Rock Sound",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_RS2_gas.png",
- "details": "-",
- "tags": [
-          "gas",
-          "gas station",
-          "petrol",
-          "petrol station",
-          "move",
-          "transportation",
-          "Rock Sound",
-          "RS",
-          "Rock",
-          "south",
-          "southern"
-          ]
- 
- },
- 
- {
- "name": "Gas - James Cistern",
- "city": "North",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_JC_gas.png",
- "details": "-",
- "tags": [
-          "gas",
-          "gas station",
-          "petrol",
-          "petrol station",
-          "move",
-          "transportation",
-          "texaco",
-          "north"
-          ]
- 
- },
- 
- {
- "name": "Gas - Palmetto Point",
- "city": "Palmetto Point",
- "state": "Eleuthera",
- "country": "Bahamas",
- "mapURL": "http://www.google.com",
- "mapImage": "map_PP_gas.png",
- "details": "-",
- "tags": [
-          "gas",
-          "gas station",
-          "petrol",
-          "petrol station",
-          "move",
-          "transportation",
-          "texaco",
-          "north"
-          ]
- 
- },
- 
- {
- "name": "Gusty's",
- "address": "Cocconut Grove Avenue",
- "city": "Dunmore Town",
- "state": "Harbour Island",
- "country": "Bahamas",
- "phone": "242-333-2165",
- "mapURL": "http://www.google.com",
- "mapImage": "map_HI_gustys.png",
- "details": "Tippy's serve awesome and overpriced food",
- "tags": [
-          "night club",
-          "alcohol",
-          "Harbour",
-          "Harbour Island",
-          "HI",
-          "Briland",
-          "Harbor",
-          "Harbor Island",
-          "Dunmore",
-          "Dunmore Town"
-          ]
- },
- 
- {
- "name": "VicHum's",
- "address": "Barrack Street",
- "city": "Dunmore Town",
- "state": "Harbour Island",
- "country": "Bahamas",
- "phone": "242-333-2161",
- "mapURL": "http://www.google.com",
- "mapImage": "map_HI_vichums.png",
- "details": "Tippy's serve awesome and overpriced food",
- "tags": [
-          "night club",
-          "alcohol",
-          "Harbour",
-          "Harbour Island",
-          "HI",
-          "Briland",
-          "Harbor",
-          "Harbor Island",
-          "Dunmore",
-          "Dunmore Town"
-          ]
- }
- 
- ]
+ [
+  {
+  "name": "Big LA's Liquor Store",
+  "city": "Gregory Town",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-5523",
+  "website": "http://www.google.com",
+  "mapImage": "map_GT2_bigLAs.png",
+  "details": "Across the street from Pam's Gift Shop.",
+  "image": "NEED_TO_ADD.png",
+  "coordinates": [25.392136,-76.556589], 
+  "tags": [
+           "alcohol",
+           "beer",
+           "GT",
+           "north"
+           ]
+  },
+  
+  {
+  "name": "Bristol Cellars",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-3663",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_bristolwine.png",
+  "details": "Located on Cupid's Cay, also called Bacardi's due to the giant logo on the facade, known for their wine selection.",
+  "coordinates": [25.191763,-76.24909],
+  "tags": [
+            "alcohol",
+            "beer",
+            "liquor",
+            "wine",
+            "Bacardi's",
+            "Bacardis",
+            "GH",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "Burrow's One Stop Liquors",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2310",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_burrowsalco.png",
+  "details": "Recently relocated from up the hill, now next to Burrow's grocery store.",
+  "coordinates": [25.193835,-76.242725],
+  "tags": [
+            "alcohol",
+            "beer",
+            "liquor",
+            "GH",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "Butler and Sands",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2628",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_butlerandsands.png",
+  "details": "Near the Shell station in town, next to the First Caribbean Bank.",
+  "coordinates": [25.19485,-76.243642],
+  "tags": [
+            "alcohol",
+            "beer",
+            "liquor",
+            "GH",
+            "central"
+           ]
+  },
+ 
+  {
+  "name": "Gene's Bay Liquor Store",
+  "city": "Bluff",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-3312",
+  "website": "http://www.google.com",
+  "mapImage": "map_north_jeansbayliqu.png",
+  "details": "The last chance to pick up alcohol on the way to the dry island of Spanish Wells.",
+  "coordinates": [25.546677,-76.731866],
+  "tags": [
+            "alcohol",
+            "beer",
+            "liquor",
+            "gene's bay",
+            "genes bay",
+            "Bluff",
+            "North"
+           ]
+  },
+ 
+  {
+  "name": "Jimmy's",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-2101",
+  "website": "http://www.google.com",
+  "mapImage": "map_north_ELHliqu.png",
+  "details": "Across the street from the North Eleuthera Airport, perfect for passing time before a flight. Open Mon-Sat, 10a-7p, Visa/MC accepted. http://www.bahamianbrewery.com",
+  "coordinates": [25.476849,-76.68199],
+  "tags": [
+            "alcohol",
+            "beer",
+            "liquor",
+            "ELH"
+           ]
+  },
+  
+  {
+  "name": "Mr. Bones Wine and Spirits",
+  "city": "Gregory Town",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-5489",
+  "website": "http://www.google.com",
+  "mapImage": "map_GT2_mrbones.png",
+  "details": "Located behind the graveyard, turn East at the intersection just North of Pam's Gift Shop.",
+  "coordinates": [25.39233,-76.555924],
+  "tags": [
+            "alcohol",
+            "beer",
+            "liquor",
+            "wine",
+            "mister bones",
+            "North"
+           ]
+  },
+  
+  
+  {
+  "name": "Pyfrom's Liquor Store",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2650",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_pyfroms.png",
+  "details": "Easily found and often used as a landmark for travel due to the bright yellow on the building. A good selection of beer and liquor.",
+  "image": "eat_pyfroms.png",
+  "coordinates": [25.19602,-76.244141],
+  "tags": [
+            "alcohol",
+            "beer",
+            "liquor",
+            "GH",
+            "central"
+           ]
+  },
+
+  
+  {
+  "name": "Ronnie's Hi-D Way",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2307",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_ronnies.png",
+  "details": "Liquor Store, Sports Bar, and Smoke Shop. Live music on select nights.",
+  "coordinates": [25.191937,-76.249283],
+  "tags": [
+            "alcohol",
+            "bar",
+            "live music",
+            "GH",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "Sturrups Liquor Store",
+  "city": "Rock Sound",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-2219",
+  "website": "http://www.google.com",
+  "mapImage": "map_RS2_sturrups.png",
+  "details": "DETAILS DETAILS.",
+  "coordinates": [24.873601,-76.162642],
+  "tags": [
+            "alcohol",
+            "beer",
+            "liquor"
+           ]
+  },
+  
+  {
+  "name": "North Eleuthera Airport",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "See Move>Airline Counters",
+  "website": "http://www.google.com",
+  "mapImage": "map_north_ELH.png",
+  "details": "The northernmost airport, ELH, receives the majority of the foreign visitors to the island. Outside of the terminal, taxi service to Harbour Island water transport is readily available. Across the street you will find snacks and beverages.",
+  "image": "ADD_IMAGE.png",
+  "coordinates": [25.47652,-76.681674],
+  "tags": [
+            "airport",
+            "airline",
+            "flight",
+            "move",
+            "transport",
+            "transportation",
+            "American Airlines",
+            "BahamasAir",
+            "Bahamas Air",
+            "Pineapple Express",
+            "Silver",
+            "Silver Airways",
+            "Southern Air",
+            "Southern Air Charter",
+            "ELH"
+           ]
+  },
+ 
+  {
+  "name": "Governor's Harbour Airport",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "See Move>Airline Counters",
+  "website": "http://www.google.com",
+  "mapImage": "map_GHB_GHB.png",
+  "details": "The central airport, GHB, is closest to most vehicle rental agents and generally allows avoidance of car delivery fees. Some snacks are available inside the terminal, while a bar is just outside.",
+  "image": "ADD_IMAGE.png",
+  "coordinates": [25.279199,-76.323784],
+  "tags": [
+            "airport",
+            "airline",
+            "flight",
+            "move",
+            "transport",
+            "transportation",
+            "BahamasAir",
+            "Bahamas Air",
+            "Pineapple Express",
+            "Silver",
+            "Silver Airways",
+            "Southern Air",
+            "Southern Air Charter",
+            "GHB",
+            "GH",
+            "central"
+           ]
+  },
+ 
+  {
+  "name": "Rock Sound Airport",
+  "city": "Rock Sound",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "See Move>Airline Counters",
+  "website": "http://www.google.com",
+  "mapImage": "map_RSD_RSD.png",
+  "details": "The southernmost airport, RSD, receives the least amount of foreign travelers.",
+  "image": "ADD_IMAGE.png",
+  "coordinates": [24.889074,-76.16891],
+  "tags": [
+            "airport",
+            "airline",
+            "flight",
+            "move",
+            "transport",
+            "transportation",
+            "BahamasAir",
+            "Bahamas Air",
+            "Pineapple Express",
+            "Southern Air",
+            "Southern Air Charter",
+            "RSD"
+           ]
+  },
+  
+  {
+  "name": "Three Islands Dock",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "See Move>Airline Counters",
+  "website": "http://www.google.com",
+  "mapImage": "map_north_threeislandsdock.png",
+  "details": "Water taxi transportation to Harbour Island Government Dock. Rates are $5 per person and are readily available during the daylight hours.",
+  "coordinates": [25.489077,-76.663724],
+  "tags": [
+            "water taxi",
+            "Harbour Island",
+            "3 islands",
+            "ferry",
+            "dock",
+            "boat dock",
+            "move",
+            "transport",
+            "transportation"
+           ]
+  },
+
+  {
+  "name": "Harbour Island Government Dock",
+  "city": "Dunmore Town",
+  "state": "Harbour Island",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_north_HIdock.png",
+  "details": "Water taxi transportation to Three Islands Dock on Eleuthera. Rates are $5 per person and are readily available during the daylight hours.",
+  "coordinates": [25.499676,-76.638147],
+  "tags": [
+            "water taxi",
+            "ferry",
+            "dock",
+            "boat dock",
+            "move",
+            "transport",
+            "transportation",
+            "HI",
+            "Briland",
+            "Dunmore",
+            "Dunmore Town"
+           ]
+  },
+  
+  {
+  "name": "Gene's Bay Dock",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_north_jeansbaydock.png",
+  "details": "Sometimes spelled 'Jean's,' this Northwest dock provides water taxi transportation to Spanish Wells for $5 per passenger.",
+  "coordinates": [25.546422,-76.73167],
+  "tags": [
+            "water taxi",
+            "Spanish Wells",
+            "ferry",
+            "boat dock",
+            "move",
+            "transport",
+            "transportation",
+            "Jean Bay",
+            "Jeans Bay",
+            "Jean's Bay"
+           ]
+  },
+
+  {
+  "name": "Spanish Wells Dock",
+  "city": "Spanish Wells",
+  "state": "St. George's Cay",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_north_SWdock.png",
+  "details": "Water taxi dock for return transportation to Gene's Bay Dock.",
+  "coordinates": [25.542623,-76.748868],
+  "tags": [
+            "water taxi",
+            "SW",
+            "ferry",
+            "ferry dock",
+            "boat dock",
+            "move",
+            "transport",
+            "transportation"
+           ]
+  },
+
+  {
+  "name": "Governor's Harbour Ferry Dock",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_ferrydock.png",
+  "details": "Landing point for the Bahamas Fast Ferries serving Nassau.",
+  "coordinates": [25.194039,-76.251029],
+  "tags": [
+            "Bahamas Ferry",
+            "Bahamas Ferries",
+            "Nassau",
+            "ferry",
+            "dock",
+            "ferry dock",
+            "boat dock",
+            "move",
+            "transport",
+            "transportation",
+            "GH",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Cape Eleuthera Marina",
+  "city": "Rock Sound",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-8500",
+  "website": "http://www.capeeleuthera.com/",
+  "mapImage": "map_south_capeeleuthera.png",
+  "details": "details.",
+  "image": "ADD_IMAGE.png",
+  "coordinates": [24.839312,-76.339273],
+  "tags": [
+            "dock",
+            "boat dock",
+            "move",
+            "transport",
+            "transportation",
+            "CE",
+            "marina",
+            "south"
+           ]
+  },
+
+  {
+  "name": "Davis Harbour Marina",
+  "city": "South",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-6303",
+  "website": "http://www.google.com",
+  "mapImage": "map_south_davisharbour.png",
+  "details": "Though it's called Davis Harbour @ Cotton Bay, this marina is actually on the 'Caribbean' side of the island, about 2 miles Southwest of Cotton Bay. http://www.discovercottonbay.com/marina.html.",
+  "coordinates": [24.738763,-76.232929],
+  "tags": [
+            "dock",
+            "boat dock",
+            "move",
+            "transport",
+            "transportation",
+            "south"
+           ]
+  },
+
+  {
+  "name": "Gregory Town Marina",
+  "city": "Gregory Town",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "",
+  "website": "http://www.google.com",
+  "mapImage": "map_GT2_GTmarina.png",
+  "details": "DETAILS DETAILS.",
+  "coordinates": [25.391223,-76.556726],
+  "tags": [
+            "dock",
+            "boat dock",
+            "move",
+            "transport",
+            "transportation",
+            "GT",
+            "North Eleuthera",
+            "North"
+           ]
+  },
+
+  {
+  "name": "Scotia Bank",
+  "city": "Lower Bogue",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-1400",
+  "website": "http://www.google.com",
+  "mapImage": "map_north_scotia.png",
+  "details": "http://www.scotiabank.com",
+  "coordinates": [1, 2],
+  "tags": [
+            "bank",
+            "money",
+            "LB",
+            "north"
+           ]
+  },
+
+  {
+  "name": "Royal Bank of Canada",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2856",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_royalbankcanada.png",
+  "details": "http://www.rbcroyalbank.com/",
+  "coordinates": [25.195059,-76.243765],
+  "tags": [
+            "bank",
+            "money",
+            "RBC",
+            "GH",
+            "central"
+           ]
+  },
+    
+  {
+  "name": "First Caribbean Bank",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2300",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_firstcaribbank.png",
+  "details": "http://www.cibcfcib.com/",
+  "coordinates": [25.192583,-76.241341],
+  "tags": [
+            "bank",
+            "money",
+            "GH",
+            "central"
+           ]
+  },
+ 
+  {
+  "name": "Barclay's Bank",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2300",
+  "website": "http://barclays.com",
+  "mapImage": "map_GH_firstcaribbank.png",
+  "details": "details",
+  "coordinates": [1, 2],
+  "tags": [
+            "bank",
+            "money",
+            "GH",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Scotia Bank",
+  "city": "Rock Sound",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-2620",
+  "website": "http://www.scotiabank.com",
+  "mapImage": "map_RS2_scotia.png",
+  "details": "details", 
+  "image": "ADD_image.png",
+  "coordinates": [24.874251,-76.162097],
+  "tags": [
+            "bank",
+            "money",
+            "RS",
+            "Rock",
+            "south",
+            "southern"
+           ]
+  },
+  
+  {
+  "name": "Da Perk",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2620",
+  "website": "facebook.com/daperkcoffeeshop",
+  "mapImage": "map_GH_daPerk.png",
+  "details": "The only coffee shop on the island, also serves sandwiches and snacks. Indoor/outdoor seating, air-conditioned.",
+  "coordinates": [25.195964,-76.244098],
+  "tags": [
+            "coffee",
+            "restaurant",
+            "restaurant $",
+            "indoor",
+            "GH",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Cocoa",
+  "city": "Dunmore Town",
+  "state": "Harbour Island",
+  "country": "Bahamas",
+  "phone": "-",
+  "website": "http://www.google.com",
+  "mapImage": "map_HI_cocoa.png",
+  "details": "Serves Starbucks.",
+  "coordinates": [25.497112,-76.636899],
+  "tags": [
+            "coffee",
+            "restaurant",
+            "restaurant $",
+            "indoor",
+            "HI"
+           ]
+  },
+
+  {
+  "name": "Burrow's One Stop Shop",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2999",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_burrowsonestop.png",
+  "details": "Open: M-F 6a-6p, Sat 6a-7p, Sun 6a-10a",
+  "image": "ADD_image.png",
+  "coordinates": [25.193916,-76.242896],
+  "tags": [
+            "grocery",
+            "GH",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Eleuthera Supply",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2728",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_eleutherasupply.png",
+  "details": "Open: Mon-Thu 6am-6pm, Fri 6am-630pm, Sat 6am-730pm, Sun 6am-3pm",
+  "image": "eat_grocery_elusupply.png",
+  "coordinates": [25.19559,-76.243768],
+  "tags": [
+            "grocery",
+            "GH",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "North Eleuthera Shopping Center",
+  "city": "Bluff",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-1880",
+  "website": "http://www.google.com",
+  "mapImage": "map_north_burchies.png",
+  "details": "One of the largest grocery stores on the island, also called Burchies. Mon-Thu 8am-8pm, Fri-Sat 8am-9pm, Sun 7am-10am",
+  "coordinates": [25.488912,-76.728204],
+  "tags": [
+            "grocery",
+            "Bluff",
+            "Burchies",
+            "Burchie's"
+           ]
+  },
+
+  {
+  "name": "Governor's Harbour Bakery",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2071",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_bakery.png",
+  "details": "details",
+  "coordinates": [25.192578,-76.242296],
+  "tags": [
+            "bakery",
+            "bread",
+            "cake",
+            "donuts",
+            "doughnuts",
+            "GH",
+            "central"
+           
+           ]
+  },
+  
+  {
+  "name": "Island Farm",
+  "city": "Palmetto Point",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-0141",
+  "website": "http://www.google.com",
+  "mapImage": "map_PP_islandfarm.png",
+  "details": "The best source for fresh fruit, vegetables, spices, and on select days breads. Open Mon-Sat 9am-4pm www.islandfarmeleuthera.com",
+  "image": "eat_grocery_islandfarm_fruits.png",
+  "coordinates": [25.15327,-76.173293],
+  "tags": [
+            "grocery",
+            "gift shop",
+            "fruit",
+            "vegetables",
+            "pineapples",
+            "NPP",
+            "PP",
+            "central"
+           ]
+  },
+
+  {
+  "name": "The Market",
+  "city": "Rock Sound",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-2254",
+  "website": "http://www.google.com",
+  "mapImage": "map_RS2_themarket.png",
+  "details": "M/Tu/Th 8am-5pm, W 8am-2pm, Fr/Sat 8am-7pm http://rsp1976.com/marketplace.html",
+  "image": "ADD_image.png",
+  "coordinates": [24.873418,-76.162637],
+  "tags": [
+            "grocery",
+            "RS",
+            "Rock",
+            "south",
+            "southern"
+           ]
+  },
+
+  {
+  "name": "Bert's for the Best",
+  "city": "Tarpum Bay",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-4253",
+  "website": "http://www.google.com",
+  "mapImage": "map_TB2_berts.png",
+  "details": "details",
+  "coordinates": [24.971125,-76.183872],
+  "tags": [
+            "grocery",
+            "Tarpum Bay",
+            "TB",
+            "Tarpum",
+            "south",
+            "southern"
+           ]
+  },
+  
+  {
+  "name": "Millard's Variety Store",
+  "city": "North Palmetto Point",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-1239",
+  "website": "http://www.google.com",
+  "mapImage": "map_pp_millards.png",
+  "details": "details",
+  "coordinates": [25.164372,-76.175514],
+  "tags": [
+            "grocery",
+            "Palmetto Point",
+            "North Palmetto Point",
+            "NPP",
+            "PP",
+            "Palmetto",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "Big Rock General",
+  "city": "Rainbow Bay",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-6008",
+  "website": "http://www.google.com",
+  "mapImage": "map_RB_bigrock.png",
+  "details": "details",
+  "coordinates": [25.33318,-76.401393],
+  "tags": [
+            "grocery",
+            "Rainbow",
+            "Rainbow Bay",
+            "RB",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "Lakia's Variety Store",
+  "city": "North Palmetto Point",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-0288",
+  "website": "http://www.google.com",
+  "mapImage": "map_PP_lakiasvariety.png",
+  "details": "Open M-Sat 6a-9p, Sun 6a-11a",
+  "coordinates": [25.165887,-76.177391],
+  "tags": [
+            "grocery",
+            "North Palmetto Point",
+            "NPP",
+            "PP",
+            "Palmetto",
+            "Palmetto Point",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "Johnson's Grocery Store",
+  "city": "Lower Bogue",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-1340",
+  "website": "http://www.google.com",
+  "mapImage": "map_north3_johnsonsgrocery.png",
+  "details": "Open daily 6a-10p",
+  "coordinates": [25.4514,-76.705333],
+  "tags": [
+            "grocery",
+            "Lower Bogue",
+            "Lower",
+            "Bogue",
+            "LB",
+            "north"
+           ]
+  },
+  
+  {
+  "name": "Durham Food Store",
+  "city": "Current",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-3237",
+  "website": "http://www.google.com",
+  "mapImage": "map_north3_durhamgrocery.png",
+  "details": "details",
+  "coordinates": [1, 2],
+  "tags": [
+            "grocery",
+            "Current",
+            "north"
+           ]
+  },
+
+  {
+  "name": "Sharil's Restaurant",
+  "city": "Deep Creek",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-8111",
+  "website": "http://www.google.com",
+  "mapImage": "map_south_sharils.png",
+  "details": "Details",
+  "coordinates": [1, 2],
+  "tags": [
+            "restaurant",
+            "restaurant $",
+            "restaurant american",
+            "Deep Creek",
+            "Deep",
+            "creek",
+            "south",
+            "southern",
+            "south eleuthera"
+           ]
+  },
+
+  {
+  "name": "The Cove Restaurant",
+  "city": "Gregory Town",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-5142",
+  "website": "http://www.google.com",
+  "mapImage": "map_GT_coverestaurant.png",
+  "details": "$$$, Details",
+  "coordinates": [25.400687,-76.573184],
+  "tags": [
+            "restaurant",
+            "restaurant $$$",
+            "american",
+            "gregory town",
+            "gregory",
+            "GT",
+            "north",
+            "northern",
+            "north eleuthera"
+           ]
+  },
+
+  {
+  "name": "The Laughing Lizard Cafe",
+  "city": "Gregory Town",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-470-6992",
+  "website": "http://www.google.com",
+  "mapImage": "map_GT_laughinglizard.png",
+  "details": "$$, Open Mon-Sat, L, soup, salad, and sandwiches",
+  "coordinates": [25.401005,-76.563619],
+  "tags": [
+            "restaurant",
+            "restaurant $$$",
+            "american",
+            "gregory town",
+            "gregory",
+            "GT",
+            "north",
+            "northern",
+            "north eleuthera"
+           ]
+  },
+
+  {
+  "name": "Ida's Ice Cream",
+  "city": "Gregory Town",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_GT2_idasdelights.png",
+  "details": "$, Details",
+  "coordinates": [1, 2],
+  "tags": [
+            "restaurant",
+            "restaurant $",
+            "ice cream",
+            "gregory town",
+            "gregory",
+            "GT",
+            "north",
+            "northern",
+            "north eleuthera"
+           ]
+  },
+ 
+   {
+  "name": "Surfer's Beach Manor Restaurant & Bar",
+  "city": "Gregory Town",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-5300",
+  "website": "http://www.google.com",
+  "mapImage": "map_GT_surfersmanorrestbar.png",
+  "details": "$, Details",
+  "coordinates": [1, 2],
+  "tags": [
+            "restaurant",
+            "restaurant $",
+            "bar",
+            "gregory town",
+            "gregory",
+            "GT",
+            "north",
+            "northern",
+            "north eleuthera"
+           ]
+  },
+
+  {
+  "name": "Daddy Joe's Restaurant & Bar",
+  "city": "Gregory Town",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-5688",
+  "website": "http://www.google.com",
+  "mapImage": "map_GWB_daddyjoes.png",
+  "details": "$$, Details",
+  "coordinates": [25.425786,-76.59197],
+  "tags": [
+            "restaurant",
+            "restaurant $$",
+            "bar",
+            "surfer's beach",
+            "GT",
+            "north",
+            "northern",
+            "north eleuthera"
+           ]
+  },
+
+  {
+  "name": "The Bistro",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-3422",
+  "website": "http://www.skybeachclub.com/the-bistro/",
+  "mapImage": "map_GHB_thebistro.png",
+  "details": "Elegant beachfront dining room and bar. Serves breakfast, lunch, and dinner from an American style menu. Bar features swim-up seating from the infinity pool. Covered seating in dining room and bar.",
+  "image": "eat_rest_bistro.png",
+  "coordinates": [25.229819,-76.270266],
+  "tags": [
+            "restaurant",
+            "restaurant $$$",
+            "restaurant american",
+            "sky",
+            "sky beach",
+            "sky beach club",
+            "waterfront",
+            "GH",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Banks Road Deli",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2221",
+  "website": "http://pineapplefields.com/index.php/dining/banks-road-deli.html",
+  "mapImage": "map_BR_banksroaddeli.png",
+  "details": "Featuring meats and cheeses to take home, as well as sandwiches and other light fare. The deli shares space with the Pineapple Fields front desk and also contains some of their branded merchandise.",
+  "coordinates": [25.189205,-76.212394],
+  "tags": [
+            "restaurant",
+            "restaurant $$",
+            "restaurant american",
+            "pineapple",
+            "pineapple fields",
+            "GH",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "Tippy's",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-3150",
+  "website": "http://pineapplefields.com/index.php/tippys.html",
+  "mapImage": "map_BR_tippys.png",
+  "details": "description",
+  "image": "IMAGE_IS_AVAIL.png",
+  "coordinates": [25.190205,-76.208639],
+  "tags": [
+            "restaurant",
+            "restaurant $$",
+            "restaurant american",
+            "pineapple",
+            "pineapple fields",
+            "banks road",
+            "waterfront",
+            "GH",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Sunset Inn Restaurant & Bar",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2487",
+  "website": "http://www.google.com",
+  "mapImage": "map_BR_sunsetinn.png",
+  "details": "description",
+  "image": "IMAGE_IS_AVAIL.png",
+  "coordinates": [25.186933,-76.236169],
+  "tags": [
+            "restaurant",
+            "restaurant $$",
+            "restaurant american",
+            "waterfront",
+            "GH",
+            "central"
+           ]
+  },
+ 
+  {
+  "name": "The Beach House Restaurant & Tapas Bar",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-3387",
+  "website": "http://www.google.com",
+  "mapImage": "map_BR_beachhouserestaurant.png",
+  "details": "description",
+  "image": "IMAGE_IS_AVAIL.png",
+  "coordinates": [25.198088,-76.227871],
+  "tags": [
+            "restaurant",
+            "restaurant $$",
+            "restaurant american",
+            "banks road",
+            "waterfront",
+            "GH",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Twin Brothers",
+  "city": "Hatchet Bay",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-0730",
+  "website": "http://www.google.com",
+  "mapImage": "map_HB_twinbrothers.png",
+  "details": "www.twinbrothersbahamas.com",
+  "coordinates": [25.349524,-76.484196],
+  "tags": [
+            "restaurant",
+            "restaurant $$",
+            "restaurant american",
+            "HB",
+            "central"
+           ]
+  },
+
+  {
+  "name": "The Front Porch",
+  "city": "Hatchet Bay",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-0727",
+  "website": "http://www.google.com",
+  "mapImage": "map_HB_thefrontporch.png",
+  "details": "-",
+  "coordinates": [25.351063,-76.485853],
+  "tags": [
+            "restaurant",
+            "restaurant $$",
+            "restaurant american",
+            "HB",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "The Rainbow Inn Seafood, Steakhouse & Bar",
+  "city": "Rainbow Bay",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2650",
+  "website": "http://www.google.com",
+  "mapImage": "map_RB_rainbowinnrest.png",
+  "details": "http://www.rainbowinn.com",
+  "coordinates": [25.340758,-76.449561],
+  "tags": [
+            "restaurant",
+            "restaurant $$$",
+            "american",
+            "waterfront",
+            "RB",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Pascal's Caribbean Fusion",
+  "city": "Rock Sound",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-2778",
+  "website": "http://www.google.com",
+  "mapImage": "map_RS2_pascals.png",
+  "details": "Located at the 4 Points Marina Village, Pascal's offers traditional and eclectic plates with prime water views at tables or the large bar. Serves lunch and dinner.",
+  "coordinates": [24.870163,-76.162859],
+  "tags": [
+            "restaurant",
+            "restaurant $$$",
+            "american",
+            "waterfront",
+            "RS",
+            "south"
+           ]
+  },
+  
+  {
+  "name": "Sammy's Place",
+  "city": "Rock Sound",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-2121",
+  "website": "http://www.google.com",
+  "mapImage": "map_RS2_sammys.png",
+  "details": "Affordable breakfast, lunch, and dinner options are available at Sammy for dine-in or carry-out. Popular for picnic lunches at Southern beaches.",
+  "image": "PIC_AVAILABLE.png",
+  "coordinates": [24.868904,-76.157221],
+  "tags": [
+            "restaurant",
+            "restaurant $$$",
+            "american",
+            "RS",
+            "south"
+           ]
+  },
+  
+  {
+  "name": "Sip Sip",
+  "city": "Dunmore Town",
+  "state": "Harbour Island",
+  "country": "Bahamas",
+  "phone": "242-333-3316",
+  "website": "http://www.google.com",
+  "mapImage": "map_HI_sipsip.png",
+  "details": "-",
+  "image": "IMAGE_IS_AVAIL.png",
+  "coordinates": [25.500983,-76.632214],
+  "tags": [
+            "restaurant",
+            "restaurant $$",
+            "restaurant american",
+            "banks road",
+            "waterfront",
+            "GH",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "Queen Conch",
+  "city": "Dunmore Town",
+  "state": "Harbour Island",
+  "country": "Bahamas",
+  "phone": "242-333-3811",
+  "website": "http://www.google.com",
+  "mapImage": "map_HI_queenconch.png",
+  "details": "-",
+  "coordinates": [25.502961,-76.639287],
+  "tags": [
+            "restaurant",
+            "restaurant $$$",
+            "american",
+            "waterfront",
+            "RB",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Governor's Harbour Boat Ramp",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_boatramp.png",
+  "details": "Buy the catch of the day when the fishermen return around 3PM.",
+  "coordinates": [25.195869,-76.244414],
+  "tags": [
+            "fish",
+            "fishing",
+            "boat ramp",
+            "dock",
+            "docks",
+            "pier",
+            "GH",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Tarpum Bay Fishing Dock",
+  "city": "Tarpum Bay",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_TB2_fishingdock.png",
+  "details": "Buy the catch of the day when the fishermen return around 3PM.",
+  "image": "add_image.png",
+  "coordinates": [24.972365,-76.185315],
+  "tags": [
+            "fish",
+            "fishing",
+            "boat ramp",
+            "dock",
+            "docks",
+            "pier",
+            "TB",
+            "Tarpum",
+            "south",
+            "southern"
+           ]
+  },
+
+  {
+  "name": "James Cistern Pier",
+  "city": "James Cistern",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_boatramp.png",
+  "details": "Buy the catch of the day when the fishermen return around 3PM.",
+  "coordinates": [1, 2],
+  "tags": [
+            "fish",
+            "fishing",
+            "boat ramp",
+            "dock",
+            "docks",
+            "pier",
+            "JC",
+            "north"
+           ]
+  },
+    
+  {
+  "name": "Pam's Island Made Gifts",
+  "city": "Gregory Town",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-5369",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_pyfroms.png",
+  "details": "Mon-Sat, 9am-5pm, island paintings, ornaments, sauces, and numerous souvenirs of Eleuthera. Typically carries a great road map.",
+  "image": "do_gift_pams.png",
+  "coordinates": [25.392168,-76.55679],
+  "tags": [
+            "gift",
+            "gifts",
+            "gift shop",
+            "souvenir",
+            "souvenirs",
+            "GT",
+            "North"
+           ]
+  },
+
+  {
+  "name": "Norma's Gift Shop",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2002",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_normas.png",
+  "details": "Gifts, souvenirs, shirts, and beachwear.",
+  "image": "ADD_IMAGE.png",
+  "coordinates": [25.195452,-76.244079],
+  "tags": [
+            "gift",
+            "gifts",
+            "gift shop",
+            "souvenir",
+            "souvenirs",
+            "GH",
+            "central"
+           ]
+  },
+  
+   {
+  "name": "Treasures from the Sea",
+  "city": "North Palmetto Point",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2647/242-470-3925",
+  "website": "http://www.google.com",
+  "mapImage": "map_PP_treasuresfromthesea.png",
+  "details": "Open 8a-4p.",
+  "coordinates": [1, 2],
+  "tags": [
+            "gift",
+            "gifts",
+            "gift shop",
+            "souvenir",
+            "souvenirs",
+            "NPP",
+            "PP",
+            "central"
+           ]
+  },
+ 
+   {
+  "name": "The Beach House Gift Shop",
+  "city": "Gregory Town",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-3387",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_pyfroms.png",
+  "details": "Mon-Sat, 9am-5pm, island paintings, ornaments, sauces, and the best map of Eleuthera.",
+  "image": "do_gift_pams.png",
+  "coordinates": [25.198088,-76.227871],
+  "tags": [
+            "gift",
+            "gifts",
+            "gift shop",
+            "souvenir",
+            "souvenirs",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "Governor's",
+            "Governors",
+            "GH",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Rebecca's Beach Shop",
+  "city": "Gregory Town",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-5436",
+  "website": "http://www.google.com",
+  "mapImage": "map_GT2_rebeccasbeachshop.png",
+  "details": "details.",
+  "coordinates": [1, 2],
+  "tags": [
+            "gift",
+            "gifts",
+            "gift shop",
+            "souvenir",
+            "souvenirs",
+            "GT",
+            "North Eleuthera",
+            "North",
+            "northern"
+           ]
+  },
+
+  {
+  "name": "Dilly Dally",
+  "city": "Dunmore Town",
+  "state": "Harbour Island",
+  "country": "Bahamas",
+  "phone": "242-333-3109",
+  "website": "http://www.google.com",
+  "mapImage": "map_HI_dillydally.png",
+  "details": "details.",
+  "image": "add_image.png",
+  "coordinates": [25.501056,-76.63673],
+  "tags": [
+            "gift",
+            "gifts",
+            "gift shop",
+            "souvenir",
+            "souvenirs",
+            "HI"
+           ]
+  },  
+
+  {
+  "name": "The Cove",
+  "city": "Gregory Town",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-5142/888-776-3901",
+  "website": "http://www.google.com",
+  "mapImage": "map_GT_covehotel.png",
+  "details": "www.thecoveeleuthera.com",
+  "coordinates": [25.400687,-76.573184],
+  "tags": [
+            "accommodations",
+            "hotel",
+            "GT",
+            "North Eleuthera",
+            "North",
+            "northern",
+            "north eleuthera"
+           ]
+  },
+
+  {
+  "name": "Surfer's Manor",
+  "city": "Gregory Town",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-5300",
+  "website": "http://www.google.com",
+  "mapImage": "map_GT_surfersmanor.png",
+  "details": "http://www.surfersmanor.com/",
+  "coordinates": [1, 2],
+  "tags": [
+            "accommodations",
+            "hotel",
+            "GT",
+            "North Eleuthera",
+            "North",
+            "northern"
+           ]
+  },
+
+  {
+  "name": "The Rainbow Inn & Restaurant",
+  "city": "Rainbow Bay",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-0294",
+  "website": "http://www.google.com",
+  "mapImage": "map_RB_rainbowinn.png",
+  "details": "www.rainbowinn.com",
+  "coordinates": [25.340758,-76.449561],
+  "tags": [
+            "accommodations",
+            "hotel",
+            "RB",
+            "north",
+            "northern",
+            "north eleuthera"
+           ]
+  },
+
+  {
+  "name": "Cocodimama",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-3150",
+  "website": "http://www.cocodimama.com/",
+  "mapImage": "map_GHB_cocohotel.png",
+  "details": "Currently closed during renovations, seaside hotel is available for private rentals during construction.",
+  "coordinates": [25.264015,-76.317226],
+  "tags": [
+            "accommodations",
+            "hotel",
+            "GH",
+            "coco",
+            "central"
+           ]
+  },
+
+  
+  {
+  "name": "Sky Beach Club",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "800-605-9869/242-422-9597",
+  "website": "http://www.skybeachcclub.com",
+  "mapImage": "map_GHB_skybeachclub.png",
+  "details": "Luxurious multi-bedroom villas and romantic bungalows with ocean views. Infinity pool, restaurant and bar on-site. www.skybeachclub.com",
+  "image": "add_image.png",
+  "coordinates": [25.229819,-76.270266],
+  "tags": [
+            "accommodations",
+            "hotel",
+            "GH",
+            "central",
+            "sbc",
+            "the bistro",
+            "bistro"
+           ]
+  },
+
+  {
+  "name": "Hut Pointe",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-3530/760-908-6700",
+  "homepage": "http://www.hutpointe.com",
+  "website": "http://www.google.com",
+  "mapImage": "map_GHB_hutpointe.png",
+  "details": "2BR condos",
+  "image": "add_image.png",
+  "coordinates": [25.229052,-76.275609],
+  "tags": [
+            "accommodations",
+            "hotel",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "Governor's",
+            "Governors",
+            "GH",
+            "central"
+           ]
+  },
+
+  {
+  "name": "The Duck Inn",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2608",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_duckinn.png",
+  "details": "http://www.duckinncottages.com",
+  "coordinates": [25.196512,-76.244109],
+  "tags": [
+            "accommodations",
+            "hotel",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "Governor's",
+            "Governors",
+            "GH",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Pineapple Fields",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2221",
+  "website": "http://pineapplefields.com/",
+  "mapImage": "map_BR_pineapplefields.png",
+  "details": "Condo style hotel",
+  "image": "add_image.png",
+  "coordinates": [25.189855,-76.208864],
+  "tags": [
+            "accommodations",
+            "hotel",
+            "Governor's Harbour",
+            "Governor's Harbour",
+            "Governor's",
+            "Governors",
+            "GH",
+            "central",
+            "tippy",
+            "tippys",
+            "tippy's",
+            "banks road",
+            "old banks road",
+            "banks road deli"
+           ]
+  },
+
+  {
+  "name": "Unique Village",
+  "city": "North Palmetto Point",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-1830",
+  "website": "http://www.google.com",
+  "mapImage": "map_PP_uniqueVhotel.png",
+  "details": "Tippy's serve awesome and overpriced food",
+  "coordinates": [25.168169,-76.166974],
+  "tags": [
+            "accommodations",
+            "Palmetto Point",
+            "North Palmetto Point",
+            "NPP",
+            "PP",
+            "Palmetto",
+            "Palmetto Point",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Northside Inn",
+  "city": "Rock Sound",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-2573",
+  "website": "http://www.google.com",
+  "mapImage": "map_RS_northsideinn.png",
+  "details": "www.northsideinneleuthera.com",
+  "coordinates": [24.878168,-76.135849],
+  "tags": [
+            "accommodations",
+            "hotel",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "Governor's",
+            "Governors",
+            "GH",
+            "central"
+           ]
+  },
+    
+  {
+  "name": "Forty’s Sports and Rental Shop",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-3730",
+  "website": "http://www.google.com",
+  "mapImage": "map_BR_fortys.png",
+  "details": "Rents kayaks, bikes, and arranges fishing trips.",
+  "coordinates": [25.189214,-76.21197],
+  "tags": [
+            "activities",
+            "kayak",
+            "bike",
+            "bicycle",
+            "cycle",
+            "fishing",
+            "tours",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "Governor's",
+            "Governors",
+            "GH",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Clearwater Dive Shop",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2146",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_clearwaterdive.png",
+  "details": "Rents snorkel equipment, oxygen tanks, and Hawaiian slings.",
+  "coordinates": [25.19502,-76.243449],
+  "tags": [
+            "activities",
+            "snorkel",
+            "dive",
+            "oxygen",
+            "tanks",
+            "oxygen tanks",
+            "sling",
+            "slings",
+            "hawaiian",
+            "hawaiian sling",
+            "scuba",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "Governor's",
+            "Governors",
+            "GH",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "Ocean Fox - Davis Harbour",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-6300",
+  "website": "http://www.google.com",
+  "mapImage": "map_south_oceanfox.png",
+  "details": "Scuba and snorkel equipment rentals, training, and charters.",
+  "image": "add_image.png",
+  "coordinates": [24.738763,-76.232929],
+  "tags": [
+            "activities",
+            "kayak",
+            "bike",
+            "bicycle",
+            "cycle",
+            "fishing",
+            "tours",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "Governor's",
+            "Governors",
+            "GH",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "Ocean Fox - Harbour Island",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-333-2323",
+  "website": "http://www.google.com",
+  "mapImage": "map_HI_oceanfoxHI.png",
+  "details": "Scuba and snorkel equipment rentals, training, and charters.",
+  "image": "add_image.png",
+  "coordinates": [25.490292,-76.63672],
+  "tags": [
+            "activities",
+            "kayak",
+            "bike",
+            "bicycle",
+            "cycle",
+            "fishing",
+            "tours",
+            "Harbour",
+            "Harbour Island",
+            "HI",
+            "Briland",
+            "Harbor",
+            "Harbor Island",
+            "Dunmore",
+            "Dunmore Town"
+           ]
+  },
+  
+  {
+  "name": "Valentine's Dive Shop",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-333-2080",
+  "website": "http://www.google.com",
+  "mapImage": "map_HI_valentinesdive.png",
+  "details": "Scuba and snorkel equipment rentals, training, and charters.",
+  "coordinates": [25.497328,-76.637165],
+  "tags": [
+            "activities",
+            "kayak",
+            "bike",
+            "bicycle",
+            "cycle",
+            "fishing",
+            "tours",
+            "Harbour",
+            "Harbour Island",
+            "HI",
+            "Briland",
+            "Harbor",
+            "Harbor Island"
+           ]
+  },
+  
+  {
+  "name": "Captain Z's Fishing Charter",
+  "city": "Gregory Town",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-551-0641",
+  "website": "http://www.google.com",
+  "mapImage": "map_GT2_CaptZ.png",
+  "details": "Fishing charters.",
+  "coordinates": [25.391204,-76.557251],
+  "tags": [
+            "activities",
+            "kayak",
+            "bike",
+            "bicycle",
+            "cycle",
+            "fishing",
+            "tours",
+            "GT",
+            "North Eleuthera",
+            "North",
+            "northern"
+           ]
+  },
+  
+  {
+  "name": "Princess Theater",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2735",
+  "website": "http://www.google.com",
+  "mapImage": "add_image.png",
+  "details": "Nightly 8:15pm movie showings, except Thursday.",
+  "coordinates": [25.192314,-76.241062],
+  "tags": [
+            "activities",
+            "globe",
+            "movies",
+            "movie",
+            "GH",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "Friday Night Fish Fry",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_fishfry.png",
+  "details": "$$, Friday nights 6pm-12am.",
+  "coordinates": [25.192651,-76.246791],
+  "tags": [
+            "activities",
+            "music",
+            "bbq",
+            "GH",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "Oceanview Farm",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-357-4258",
+  "website": "http://www.google.com",
+  "mapImage": "map_BR_oceanviewfarms.png",
+  "details": "www.oceanview242.com, Mon-Sat 9a-4p, Horseback rides",
+  "coordinates": [25.188826,-76.207636],
+  "tags": [
+            "activities",
+            "horse",
+            "horseback",
+            "horseback rides",
+            "GH",
+            "central"
+           ]
+  
+  },
+
+  {
+  "name": "Cape Eleuthera Institute / Island School",
+  "city": "Rock Sound",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-8552",
+  "website": "http://www.google.com",
+  "mapImage": "map_BR_fortys.png",
+  "details": "www.ceibahamas.org",
+  "image": "add_image.png",
+  "coordinates": [24.834317,-76.327761],
+  "tags": [
+            "activities",
+            "tour",
+            "tours",
+            "island school",
+            "south",
+            "southern"
+           ]
+  },
+
+  {
+  "name": "Preacher's Cave",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-357-4258",
+  "website": "http://www.google.com",
+  "mapImage": "map_north_preacherscave.png",
+  "details": "-",
+  "image": "add_image.png",
+  "coordinates": [25.557329,-76.696061],
+  "tags": [
+            "sights",
+            "heritage",
+            "heritage site",
+            "north",
+            "northern",
+            "north eleuthera"
+           ]
+  
+  },
+
+  {
+  "name": "Glass Window Bridge",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_GWB_glasswindowbridge.png",
+  "details": "Formerly the narrowest land bridge in the world, the rebuilt road crosses the point where the deep raging Atlantic waters meet the calm shallow water of the Great Bahama Bank.",
+  "image": "add_image.png",
+  "coordinates": [25.43752,-76.604211],
+  "tags": [
+            "sights",
+            "heritage",
+            "heritage site",
+            "north",
+            "northern",
+            "north eleuthera"
+           ]
+  
+  },
+
+  {
+  "name": "Queen's Bath",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_GWB_queensbath.png",
+  "details": "Located adjacent to the Cow & Bull rock formation, the Queen's Bath's are shallow pools of water found at low tide that offer a place to cool off, and an unbeatable view.",
+  "image": "add_image.png",
+  "coordinates": [25.432389,-76.597635],
+  "tags": [
+            "sights",
+            "heritage",
+            "heritage site",
+            "north",
+            "northern",
+            "north eleuthera"
+           ]
+  
+  },
+
+  {
+  "name": "Cow & Bull",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_GWB_cowandbull.png",
+  "details": "A rock formation overlooking the ocean. Erosion has given them their bovine-like shapes, further highlighted by a distinct roar through the air on a windy day.",
+  "image": "add_image.png",
+  "coordinates": [25.432065,-76.597061],
+  "tags": [
+            "sights",
+            "heritage",
+            "heritage site",
+            "north",
+            "northern",
+            "north eleuthera"
+           ]
+  
+  },
+
+  {
+  "name": "Hatchet Bay Caves",
+  "city": "Hatchet Bay",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_HB_caves.png",
+  "details": "-",
+  "coordinates": [25.366639,-76.520222],
+  "tags": [
+            "sights",
+            "HB",
+            "heritage",
+            "heritage site",
+            "north",
+            "northern",
+            "north eleuthera"
+           ]
+  
+  },
+
+  {
+  "name": "Rainbow Cliffs",
+  "city": "Rainbow Bay",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "NEED_MAP.png",
+  "details": "Towering cliffs over the Atlantic form a wave like pattern along the coast. Known for it's cliff diving (use caution) and natural infinity pools formed at low tide.",
+  "image": "add_image.png",
+  "coordinates": [25.336361,-76.409027],
+  "tags": [
+            "sights",
+            "RB",
+            "cliff",
+            "cliffs",
+            "heritage",
+            "heritage site",
+            "north",
+            "northern",
+            "north eleuthera"
+           ]
+  
+  },
+
+  {
+  "name": "Leon Levy Plant Preserve",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_BR_leonlevyplant.png",
+  "details": "www.levypreserve.org",
+  "coordinates": [25.188098,-76.212394],
+  "tags": [
+            "sights",
+            "heritage",
+            "heritage site",
+            "central"
+           ]
+  
+  },
+
+  {
+  "name": "Ocean Hole",
+  "city": "Rock Sound",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_RS2_oceanhole.png",
+  "details": "-",
+  "image": "add_image.png",
+  "coordinates": [24.863903477332855,-76.15557432174683],
+  "tags": [
+            "sights",
+            "rock sound",
+            "rock",
+            "RS",
+            "heritage",
+            "heritage site",
+            "south",
+            "southern",
+            "south eleuthera"
+           ]
+  
+  },
+
+  {
+  "name": "Gully Hole",
+  "city": "Deep Creek",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "NEED_MAP.png",
+  "details": "-",
+  "coordinates": [24.783072,-76.283612],
+  "tags": [
+            "sights",
+            "deep",
+            "deep creek",
+            "DC",
+            "creek",
+            "central"
+           ]
+  
+  },
+
+  {
+  "name": "The Lone Tree",
+  "city": "Dunmore Town",
+  "state": "Harbour Island",
+  "country": "Bahamas",
+  "phone": "242-357-4258",
+  "website": "http://www.google.com",
+  "mapImage": "map_HI_thelonetree.png",
+  "details": "-",
+  "coordinates": [25.506881,-76.638817],
+  "tags": [
+            "sights",
+            "Harbour",
+            "Harbour Island",
+            "HI",
+            "Briland",
+            "Harbor",
+            "Harbor Island",
+            "Dunmore",
+            "Dunmore Town"
+           ]
+  
+  },
+
+  {
+  "name": "Hayne's Library",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2877",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_hayneslib.png",
+  "details": "www.hayneslibrary.org",
+  "coordinates": [25.192775,-76.246316],
+  "tags": [
+            "library",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "Governor's",
+            "Governors",
+            "GH",
+            "central"
+           ]
+  
+  },
+
+  {
+  "name": "Tarpum Bay Library",
+  "city": "Tarpum Bay",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-4603",
+  "website": "http://www.google.com",
+  "mapImage": "map_TB2_library.png",
+  "details": "tarpumbaylibrary@yahoo.com",
+  "coordinates": [24.971718,-76.179902],
+  "tags": [
+            "library",
+            "Tarpum Bay",
+            "TB",
+            "Tarpum",
+            "south",
+            "southern"
+           ]
+  
+  },
+
+  {
+  "name": "Texaco",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_north_texaco.png",
+  "details": "-",
+  "coordinates": [25.470002,-76.705191],
+  "tags": [
+            "gas",
+            "gas station",
+            "petrol",
+            "petrol station",
+            "move",
+            "transportation",
+            "texaco",
+            "north"
+           ]
+  
+  },
+
+  {
+  "name": "Shell - Governor's Harbour",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_shell.png",
+  "details": "-",
+  "coordinates": [25.195452,-76.243808],
+  "tags": [
+            "gas",
+            "gas station",
+            "petrol",
+            "petrol station",
+            "move",
+            "transportation",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "Governor's",
+            "Governors",
+            "GH",
+            "central"
+           ]
+  
+  },
+
+  {
+  "name": "Esso",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_esso.png",
+  "details": "-",
+  "coordinates": [25.191794,-76.24052],
+  "tags": [
+            "gas",
+            "gas station",
+            "petrol",
+            "petrol station",
+            "move",
+            "transportation",
+            "esso",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "Governor's",
+            "Governors",
+            "GH",
+            "central"
+           ]
+  
+  },
+
+  {
+  "name": "Shell - Rock Sound",
+  "city": "Rock Sound",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_RS2_marketgas.png",
+  "details": "-",
+  "image": "add_image.png",
+  "coordinates": [24.873326,-76.162452],
+  "tags": [
+            "gas",
+            "gas station",
+            "petrol",
+            "petrol station",
+            "move",
+            "transportation",
+            "shell",
+            "RS",
+            "south"
+           ]
+  
+  },
+
+  {
+  "name": "Gas - Rock Sound",
+  "city": "Rock Sound",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_RS2_gas.png",
+  "details": "-",
+  "coordinates": [24.872284,-76.162012],
+  "tags": [
+            "gas",
+            "gas station",
+            "petrol",
+            "petrol station",
+            "move",
+            "transportation",
+            "RS",
+            "south"
+           ]
+  
+  },
+ 
+  {
+  "name": "Gas - James Cistern",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_JC_gas.png",
+  "details": "-",
+  "coordinates": [1, 2],
+  "tags": [
+            "gas",
+            "gas station",
+            "petrol",
+            "petrol station",
+            "move",
+            "transportation",
+            "texaco",
+            "james cistern",
+            "north"
+           ]
+  
+  },
+
+  {
+  "name": "Gas - Palmetto Point",
+  "city": "Palmetto Point",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_PP_gas.png",
+  "details": "-",
+  "coordinates": [1, 2],
+  "tags": [
+            "gas",
+            "gas station",
+            "petrol",
+            "petrol station",
+            "move",
+            "transportation",
+            "texaco",
+            "Palmetto Point",
+            "North Palmetto Point",
+            "NPP",
+            "PP",
+            "Palmetto",
+            "Palmetto Point",
+            "central"
+           ]
+  
+  },
+  
+  {
+  "name": "Gusty's",
+  "address": "Cocconut Grove Avenue",
+  "city": "Dunmore Town",
+  "state": "Harbour Island",
+  "country": "Bahamas",
+  "phone": "242-333-2165",
+  "website": "http://www.google.com",
+  "mapImage": "map_HI_gustys.png",
+  "details": "Tippy's serve awesome and overpriced food",
+  "coordinates": [1, 2],
+  "tags": [
+            "night club",
+            "alcohol",
+            "Harbour",
+            "Harbour Island",
+            "HI",
+            "Briland",
+            "Harbor",
+            "Harbor Island",
+            "Dunmore",
+            "Dunmore Town"
+           ]
+  },
+
+  {
+  "name": "VicHum's",
+  "address": "Barrack Street",
+  "city": "Dunmore Town",
+  "state": "Harbour Island",
+  "country": "Bahamas",
+  "phone": "242-333-2161",
+  "website": "http://www.google.com",
+  "mapImage": "map_HI_vichums.png",
+  "details": "Tippy's serve awesome and overpriced food",
+  "coordinates": [25.503353,-76.63654],
+  "tags": [
+            "night club",
+            "alcohol",
+            "Harbour",
+            "Harbour Island",
+            "HI",
+            "Briland",
+            "Harbor",
+            "Harbor Island",
+            "Dunmore",
+            "Dunmore Town"
+           ]
+  },
+  
+  {
+  "name": "Upper Cove Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "NEED_MAP.png",
+  "details": "-",
+  "coordinates": [25.405988,-76.781012],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+
+  
+  {
+  "name": "Tay Bay Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_north_taybaybeach.png",
+  "details": "-",
+  "coordinates": [25.559013,-76.695299],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Ben Bay Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_north_benbaybeach.png",
+  "details": "-",
+  "coordinates": [25.558181,-76.724203],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+
+  
+  {
+  "name": "Salt Kettle Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_north_saltkettlebeach.png",
+  "details": "-",
+  "coordinates": [25.557939,-76.734052],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Current Bay Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_north_currentbaybeach.png",
+  "details": "-",
+  "coordinates": [25.556138,-76.686598],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Cistern Bay Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_north_cisternbaybeach.png",
+  "details": "-",
+  "coordinates": [1, 2],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Cotton Bay Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_south_cottonbaybeach.png",
+  "details": "-",
+  "coordinates": [1, 2],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Jack's Bay Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_south_jacksbaybeach.png",
+  "details": "-",
+  "coordinates": [1, 2],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Gaulding Cay Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_GWB_gauldingcaybeach.png",
+  "details": "-",
+  "coordinates": [25.424056,-76.594668],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Surfer's Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_GT_surfersbeach.png",
+  "details": "-",
+  "coordinates": [1, 2],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Rainbow Bay Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_RB_rainbowbeach.png",
+  "details": "-",
+  "coordinates": [1, 2],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Twin Cove Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "NEED_MAP.png",
+  "details": "-",
+  "coordinates": [1, 2],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Twin Beaches",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "NEED_MAP.png",
+  "details": "-",
+  "image": "add_image.png",
+  "coordinates": [25.336443,-76.419783],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "James Point Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_JC_jamespointbeach.png",
+  "details": "-",
+  "coordinates": [1, 2],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Airport Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_GHB_airportbeach.png",
+  "details": "-",
+  "coordinates": [25.260998,-76.30228],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Alabaster Bay Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_GHB_alabasterbay.png",
+  "details": "-",
+  "coordinates": [25.262065,-76.318223],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Sky Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_GH_skybeach.png",
+  "details": "-",
+  "image": "add_image.png",
+  "coordinates": [25.230643,-76.269944],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+ 
+  {
+  "name": "French Leave Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_BR_frenchleavebeach.png",
+  "details": "-",
+  "image": "add_image.png",
+  "coordinates": [25.201155,-76.23117],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+
+  {
+  "name": "Tippy's Beach",
+  "city": "-",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_BR_tippysbeach.png",
+  "details": "-",
+  "image": "add_image.png",
+  "coordinates": [1, 2],
+  "tags": [
+            "beach",
+            "atlantic",
+            "shade",
+            "-"
+           ]
+  
+  },  
+
+  {
+  "name": "Poponi Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_PP_Poponibeach.png",
+  "details": "-",
+  "coordinates": [1, 2],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Double Bay Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "NEED_MAP.png",
+  "details": "-",
+  "coordinates": [25.135728,-76.127615],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Winding Bay Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "NEED_MAP.png",
+  "details": "-",
+  "coordinates": [1, 2],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Whiteland Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_RSD_whitelandbeach.png",
+  "details": "-",
+  "coordinates": [24.841347,-76.140651],
+  "tags": [
+            "beach",
+            "atlantic",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Lighthouse Bay Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_LH_lhb.png",
+  "details": "-",
+  "image": "add_image.png",
+  "coordinates": [24.616511,-76.150875],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Lighthouse Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_LH_lh.png",
+  "details": "-",
+  "image": "add_image.png",
+  "coordinates": [24.616999,-76.145425],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Northside Beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_RS_northsidebeach.png",
+  "details": "-",
+  "coordinates": [24.870893,-76.134996],
+  "tags": [
+            "beach",
+            "atlantic",
+            "shade",
+            "north"
+           ]
+  
+  },
+  
+  {
+  "name": "Pink Sands Beach",
+  "city": "Dunmore Town",
+  "state": "Harbour Island",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_HI_pinksandsbeach.png",
+  "details": "-",
+  "coordinates": [25.50079,-76.631248],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "north"
+           ]
+  
+  },
+
+  {
+  "name": "Princess Cays",
+  "city": "-",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "website": "http://www.google.com",
+  "mapImage": "map_LH_pc.png",
+  "details": "-",
+  "coordinates": [24.636739,-76.174468],
+  "tags": [
+            "beach",
+            "caribbean",
+            "shade",
+            "-"
+           ]
+  
+  }  
+  
+  
+  ]

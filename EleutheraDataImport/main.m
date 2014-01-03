@@ -14,6 +14,8 @@
 
 #import "Tag.h"
 #import "Place.h"
+#import "PlaceMgr.h"
+#import "TagMgr.h"
 
 static NSManagedObjectModel *managedObjectModel()
 {
@@ -110,22 +112,22 @@ int main(int argc, const char * argv[])
             NSArray *fetchedPlaces = [context executeFetchRequest:fetchRequest error:&error];
             if (![fetchedPlaces count]){ //only insert this place into data store if it does not already exist
                 
-                
-                
                 Place *place = [NSEntityDescription insertNewObjectForEntityForName:@"Place" inManagedObjectContext:context];
                 place.address = [obj objectForKey:@"address"];
                 place.city = [obj objectForKey:@"city"];
                 place.country = [obj objectForKey:@"country"];
                 place.details = [obj objectForKey:@"details"];
-                place.image = [obj objectForKey:@"image"];
-                place.mapImage = [obj objectForKey:@"mapImage"];
-                place.mapURL = [obj objectForKey:@"mapURL"];
+                //place.image = [obj objectForKey:@"image"];  //This is binary, will get from Parse
+                //place.mapImage = [obj objectForKey:@"mapImage"];  // Will just use name to get the file
                 place.name = [obj objectForKey:@"name"];
                 place.phone = [obj objectForKey:@"phone"];
                 place.state = [obj objectForKey:@"state"];
+                place.website = [obj objectForKey:@"website"];
                 //place.tags =  [NSSet setWithArray:[obj objectForKey:@"tags"]];
                 place.zip = [obj objectForKey:@"zip"];
-                
+                NSArray *coordinates = [obj objectForKey:@"coordinates"];
+                place.latitude = coordinates[0];
+                place.longitude = coordinates[1];
                 
                 NSSet *tagsStringSet = [NSSet setWithArray:[obj objectForKey:@"tags"]]; //eliminates duplicates from array
                 //NSLog(@"tagsStringSet:%@", tagsStringSet);
@@ -199,7 +201,8 @@ int main(int argc, const char * argv[])
         [fetchRequest setEntity:entity];
         NSArray *fetchedObjects = [context executeFetchRequest:fetchRequest error:&error];
         for (Place *place in fetchedObjects) {
-            [place NSLogMe];
+            [PlaceMgr NSLogMe:place];
+            
         }
         
         // List all Tags from the store
@@ -207,7 +210,7 @@ int main(int argc, const char * argv[])
         [fetchRequest setEntity:entity];
         fetchedObjects = [context executeFetchRequest:fetchRequest error:&error];
         for (Tag *tag in fetchedObjects) {
-            [tag NSLogMe];
+            [TagMgr NSLogMe:tag];
         }
         
         
