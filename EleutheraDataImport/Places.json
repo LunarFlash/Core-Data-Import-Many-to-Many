@@ -1,18 +1,17 @@
  [
   {
   "name": "Big LA's Liquor Store",
+  "type": "alcohol",
   "city": "Gregory Town",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-335-5523",
-  "website": "http://www.google.com",
-  "mapImage": "map_GT2_bigLAs.png",
-  "details": "Across the street from Pam's Gift Shop.",
-  "image": "NEED_TO_ADD.png",
+  "details": "LIQUOR STORE. Across the street from Pam's Gift Shop.",
   "coordinates": [25.392136,-76.556589], 
   "tags": [
            "alcohol",
            "beer",
+           "Gregory Town",
            "GT",
            "north"
            ]
@@ -20,13 +19,13 @@
   
   {
   "name": "Bristol Cellars",
+  "type": "alcohol",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-3663",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_bristolwine.png",
-  "details": "Located on Cupid's Cay, also called Bacardi's due to the giant logo on the facade, known for their wine selection.",
+  "website": "http://www.bristolbahamas.com/",
+  "details": "LIQUOR STORE. Located on Cupid's Cay, also called Bacardi's due to the giant logo on the facade, known for their wine selection.",
   "coordinates": [25.191763,-76.24909],
   "tags": [
             "alcohol",
@@ -35,6 +34,8 @@
             "wine",
             "Bacardi's",
             "Bacardis",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
@@ -42,18 +43,19 @@
   
   {
   "name": "Burrow's One Stop Liquors",
+  "type": "alcohol",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2310",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_burrowsalco.png",
-  "details": "Recently relocated from up the hill, now next to Burrow's grocery store.",
+  "details": "LIQUOR STORE. Recently relocated from up the hill, now next to Burrow's grocery store.",
   "coordinates": [25.193835,-76.242725],
   "tags": [
             "alcohol",
             "beer",
             "liquor",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
@@ -61,18 +63,19 @@
   
   {
   "name": "Butler and Sands",
+  "type": "alcohol",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2628",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_butlerandsands.png",
-  "details": "Near the Shell station in town, next to the First Caribbean Bank.",
+  "details": "LIQUOR STORE. Near the Shell station in town, next to the First Caribbean Bank.",
   "coordinates": [25.19485,-76.243642],
   "tags": [
             "alcohol",
             "beer",
             "liquor",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
@@ -80,79 +83,81 @@
  
   {
   "name": "Gene's Bay Liquor Store",
+  "type": "alcohol",
   "city": "Bluff",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-335-3312",
-  "website": "http://www.google.com",
-  "mapImage": "map_north_jeansbayliqu.png",
-  "details": "The last chance to pick up alcohol on the way to the dry island of Spanish Wells.",
+  "details": "LIQUOR STORE. The last chance to pick up alcohol on the way to the dry island of Spanish Wells.",
   "coordinates": [25.546677,-76.731866],
   "tags": [
             "alcohol",
             "beer",
             "liquor",
-            "gene's bay",
             "genes bay",
             "Bluff",
-            "North"
+            "north"
            ]
   },
  
   {
   "name": "Jimmy's",
+  "type": "alcohol",
   "city": "North",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-335-2101",
-  "website": "http://www.google.com",
-  "mapImage": "map_north_ELHliqu.png",
-  "details": "Across the street from the North Eleuthera Airport, perfect for passing time before a flight. Open Mon-Sat, 10a-7p, Visa/MC accepted. http://www.bahamianbrewery.com",
+  "website": "http://www.bahamianbrewery.com",
+  "details": "LIQUOR STORE. Across the street from the North Eleuthera Airport. Open Mon-Sat, 10a-6p, Visa/MC accepted.",
   "coordinates": [25.476849,-76.68199],
   "tags": [
             "alcohol",
             "beer",
             "liquor",
-            "ELH"
+            "wine",
+            "ELH",
+            "north"
            ]
   },
   
   {
   "name": "Mr. Bones Wine and Spirits",
+  "type": "alcohol",
   "city": "Gregory Town",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-335-5489",
-  "website": "http://www.google.com",
-  "mapImage": "map_GT2_mrbones.png",
-  "details": "Located behind the graveyard, turn East at the intersection just North of Pam's Gift Shop.",
+  "details": "LIQUOR STORE. Located behind the graveyard, turn East at the intersection just North of Pam's Gift Shop.",
   "coordinates": [25.39233,-76.555924],
   "tags": [
             "alcohol",
             "beer",
             "liquor",
             "wine",
+            "mr bones",
             "mister bones",
-            "North"
+            "Gregory Town",
+            "GT",
+            "north"
            ]
   },
   
   
   {
   "name": "Pyfrom's Liquor Store",
+  "type": "alcohol",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2650",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_pyfroms.png",
-  "details": "Easily found and often used as a landmark for travel due to the bright yellow on the building. A good selection of beer and liquor.",
-  "image": "eat_pyfroms.png",
+  "details": "LIQUOR STORE. Easily found and often used as a landmark for travel due to the bright yellow paint on the building.",
   "coordinates": [25.19602,-76.244141],
   "tags": [
             "alcohol",
             "beer",
             "liquor",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
@@ -161,18 +166,20 @@
   
   {
   "name": "Ronnie's Hi-D Way",
+  "type": "alcohol",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2307",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_ronnies.png",
-  "details": "Liquor Store, Sports Bar, and Smoke Shop. Live music on select nights.",
+  "website": "https://www.facebook.com/RonniesEleuthera",
+  "details": "LIQUOR STORE, sports bar, and smoke shop. Live music on select nights.",
   "coordinates": [25.191937,-76.249283],
   "tags": [
             "alcohol",
             "bar",
             "live music",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
@@ -180,34 +187,34 @@
   
   {
   "name": "Sturrups Liquor Store",
+  "type": "alcohol",
   "city": "Rock Sound",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-334-2219",
-  "website": "http://www.google.com",
-  "mapImage": "map_RS2_sturrups.png",
-  "details": "DETAILS DETAILS.",
+  "website": "http://rsp1976.com/stirrupsliquor.html",
+  "details": "LIQUOR STORE. Located in the Market Place Shopping Center.",
   "coordinates": [24.873601,-76.162642],
   "tags": [
             "alcohol",
             "beer",
-            "liquor"
+            "liquor",
+            "wine",
+            "RS",
+            "south"
            ]
   },
   
   {
   "name": "North Eleuthera Airport",
+  "type": "airport",
   "city": "North",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "See Move>Airline Counters",
-  "website": "http://www.google.com",
-  "mapImage": "map_north_ELH.png",
-  "details": "The northernmost airport, ELH, receives the majority of the foreign visitors to the island. Outside of the terminal, taxi service to Harbour Island water transport is readily available. Across the street you will find snacks and beverages.",
-  "image": "ADD_IMAGE.png",
+  "details": "TRANSPORT. The northernmost airport, ELH, receives the majority of the foreign visitors to the island. Outside of the terminal, taxi service to Harbour Island water transport is readily available. Across the street you will find snacks and beverages.",
   "coordinates": [25.47652,-76.681674],
   "tags": [
-            "airport",
             "airline",
             "flight",
             "move",
@@ -219,25 +226,23 @@
             "Pineapple Express",
             "Silver",
             "Silver Airways",
-            "Southern Air",
+            "SouthernAir",
             "Southern Air Charter",
-            "ELH"
+            "ELH",
+            "north"
            ]
   },
  
   {
   "name": "Governor's Harbour Airport",
+  "type": "airport",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "See Move>Airline Counters",
-  "website": "http://www.google.com",
-  "mapImage": "map_GHB_GHB.png",
-  "details": "The central airport, GHB, is closest to most vehicle rental agents and generally allows avoidance of car delivery fees. Some snacks are available inside the terminal, while a bar is just outside.",
-  "image": "ADD_IMAGE.png",
+  "details": "TRANSPORT. The central airport, GHB, is closest to most vehicle rental agents and generally allows avoidance of car delivery fees. Some snacks are available inside the terminal, while a bar is just outside.",
   "coordinates": [25.279199,-76.323784],
   "tags": [
-            "airport",
             "airline",
             "flight",
             "move",
@@ -248,8 +253,9 @@
             "Pineapple Express",
             "Silver",
             "Silver Airways",
-            "Southern Air",
+            "SouthernAir",
             "Southern Air Charter",
+            "Governors Harbour",
             "GHB",
             "GH",
             "central"
@@ -258,17 +264,14 @@
  
   {
   "name": "Rock Sound Airport",
+  "type": "airport",
   "city": "Rock Sound",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "See Move>Airline Counters",
-  "website": "http://www.google.com",
-  "mapImage": "map_RSD_RSD.png",
-  "details": "The southernmost airport, RSD, receives the least amount of foreign travelers.",
-  "image": "ADD_IMAGE.png",
+  "details": "TRANSPORT. The southernmost airport, RSD, receives the least amount of foreign travelers.",
   "coordinates": [24.889074,-76.16891],
   "tags": [
-            "airport",
             "airline",
             "flight",
             "move",
@@ -277,21 +280,20 @@
             "BahamasAir",
             "Bahamas Air",
             "Pineapple Express",
-            "Southern Air",
+            "SouthernAir",
             "Southern Air Charter",
-            "RSD"
+            "RSD",
+            "south"
            ]
   },
   
   {
   "name": "Three Islands Dock",
+  "type": "transport",
   "city": "North",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "phone": "See Move>Airline Counters",
-  "website": "http://www.google.com",
-  "mapImage": "map_north_threeislandsdock.png",
-  "details": "Water taxi transportation to Harbour Island Government Dock. Rates are $5 per person and are readily available during the daylight hours.",
+  "details": "TRANSPORT. Water taxi transportation to Harbour Island Government Dock. Rates are $5 per person and are readily available during the daylight hours.",
   "coordinates": [25.489077,-76.663724],
   "tags": [
             "water taxi",
@@ -302,18 +304,18 @@
             "boat dock",
             "move",
             "transport",
-            "transportation"
+            "transportation",
+            "north"
            ]
   },
 
   {
   "name": "Harbour Island Government Dock",
+  "type": "transport",
   "city": "Dunmore Town",
   "state": "Harbour Island",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_north_HIdock.png",
-  "details": "Water taxi transportation to Three Islands Dock on Eleuthera. Rates are $5 per person and are readily available during the daylight hours.",
+  "details": "TRANSPORT. Water taxi transportation to Three Islands Dock on Eleuthera. Rates are $5 per person and are readily available during the daylight hours.",
   "coordinates": [25.499676,-76.638147],
   "tags": [
             "water taxi",
@@ -321,23 +323,20 @@
             "dock",
             "boat dock",
             "move",
-            "transport",
             "transportation",
             "HI",
             "Briland",
-            "Dunmore",
             "Dunmore Town"
            ]
   },
   
   {
   "name": "Gene's Bay Dock",
+  "type": "transport",
   "city": "North",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_north_jeansbaydock.png",
-  "details": "Sometimes spelled 'Jean's,' this Northwest dock provides water taxi transportation to Spanish Wells for $5 per passenger.",
+  "details": "TRANSPORT. Sometimes spelled 'Jean's,' this Northwest dock provides water taxi transportation to Spanish Wells for $5 per passenger.",
   "coordinates": [25.546422,-76.73167],
   "tags": [
             "water taxi",
@@ -347,53 +346,50 @@
             "move",
             "transport",
             "transportation",
+            "Genes Bay",
             "Jean Bay",
             "Jeans Bay",
-            "Jean's Bay"
+            "Jean's Bay",
+            "north"
            ]
   },
 
   {
   "name": "Spanish Wells Dock",
+  "type": "transport",
   "city": "Spanish Wells",
   "state": "St. George's Cay",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_north_SWdock.png",
-  "details": "Water taxi dock for return transportation to Gene's Bay Dock.",
+  "details": "TRANSPORT. Water taxi dock for return transportation to Gene's Bay Dock.",
   "coordinates": [25.542623,-76.748868],
   "tags": [
             "water taxi",
             "SW",
-            "ferry",
             "ferry dock",
             "boat dock",
             "move",
-            "transport",
             "transportation"
            ]
   },
 
   {
   "name": "Governor's Harbour Ferry Dock",
+  "type": "transport",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_ferrydock.png",
-  "details": "Landing point for the Bahamas Fast Ferries serving Nassau.",
+  "website": "http://www.bahamasferries.com/",
+  "details": "TRANSPORT. Landing point for the Bahamas Ferries serving Nassau.",
   "coordinates": [25.194039,-76.251029],
   "tags": [
             "Bahamas Ferry",
             "Bahamas Ferries",
             "Nassau",
-            "ferry",
-            "dock",
             "ferry dock",
             "boat dock",
             "move",
-            "transport",
             "transportation",
+            "Governors Harbour",
             "GH",
             "central"
            ]
@@ -401,101 +397,63 @@
 
   {
   "name": "Cape Eleuthera Marina",
+  "type": "transport",
   "city": "Rock Sound",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-334-8500",
   "website": "http://www.capeeleuthera.com/",
-  "mapImage": "map_south_capeeleuthera.png",
-  "details": "details.",
-  "image": "ADD_IMAGE.png",
+  "details": "TRANSPORT. Has water, electricity, and fuel, with capacity for up to 200' boats.",
   "coordinates": [24.839312,-76.339273],
   "tags": [
-            "dock",
             "boat dock",
             "move",
-            "transport",
             "transportation",
             "CE",
-            "marina",
+            "Rock Sound",
+            "RS",
             "south"
            ]
   },
 
   {
   "name": "Davis Harbour Marina",
-  "city": "South",
+  "type": "transport",
+  "city": "Wemyss Bight",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-334-6303",
-  "website": "http://www.google.com",
-  "mapImage": "map_south_davisharbour.png",
-  "details": "Though it's called Davis Harbour @ Cotton Bay, this marina is actually on the 'Caribbean' side of the island, about 2 miles Southwest of Cotton Bay. http://www.discovercottonbay.com/marina.html.",
+  "website": "http://www.discovercottonbay.com/marina.html",
+  "details": "TRANSPORT. Accommodates boats up to 80' with water, electricity, and fuel hookups. Called Davis Harbour @ Cotton Bay, this marina is actually on the 'Caribbean' side of the island, about 2 miles southwest of Cotton Bay.",
   "coordinates": [24.738763,-76.232929],
   "tags": [
-            "dock",
             "boat dock",
             "move",
-            "transport",
             "transportation",
+            "Wemyss Bight",
+            "WB",
             "south"
            ]
   },
 
   {
-  "name": "Gregory Town Marina",
-  "city": "Gregory Town",
-  "state": "Eleuthera",
-  "country": "Bahamas",
-  "phone": "",
-  "website": "http://www.google.com",
-  "mapImage": "map_GT2_GTmarina.png",
-  "details": "DETAILS DETAILS.",
-  "coordinates": [25.391223,-76.556726],
-  "tags": [
-            "dock",
-            "boat dock",
-            "move",
-            "transport",
-            "transportation",
-            "GT",
-            "North Eleuthera",
-            "North"
-           ]
-  },
-
-  {
-  "name": "Scotia Bank",
-  "city": "Lower Bogue",
-  "state": "Eleuthera",
-  "country": "Bahamas",
-  "phone": "242-335-1400",
-  "website": "http://www.google.com",
-  "mapImage": "map_north_scotia.png",
-  "details": "http://www.scotiabank.com",
-  "coordinates": [1, 2],
-  "tags": [
-            "bank",
-            "money",
-            "LB",
-            "north"
-           ]
-  },
-
-  {
   "name": "Royal Bank of Canada",
+  "type": "bank",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2856",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_royalbankcanada.png",
-  "details": "http://www.rbcroyalbank.com/",
+  "website": "http://www.rbcroyalbank.com",
+  "details": "Open Monday-Thursday 930a-3p, Friday 930a-430p",
   "coordinates": [25.195059,-76.243765],
   "tags": [
             "bank",
+            "atm",
             "money",
             "RBC",
+            "royal bank",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
@@ -503,113 +461,121 @@
     
   {
   "name": "First Caribbean Bank",
+  "type": "bank",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2300",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_firstcaribbank.png",
-  "details": "http://www.cibcfcib.com/",
+  "website": "http://www.cibcfcib.com/",
+  "details": "Open Monday-Thursday 9a-3p, Friday 9a-4p",
   "coordinates": [25.192583,-76.241341],
   "tags": [
             "bank",
+            "atm",
             "money",
+            "barclay's",
+            "barclays",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
   },
  
   {
-  "name": "Barclay's Bank",
-  "city": "Governor's Harbour",
-  "state": "Eleuthera",
-  "country": "Bahamas",
-  "phone": "242-332-2300",
-  "website": "http://barclays.com",
-  "mapImage": "map_GH_firstcaribbank.png",
-  "details": "details",
-  "coordinates": [1, 2],
-  "tags": [
-            "bank",
-            "money",
-            "GH",
-            "central"
-           ]
-  },
-
-  {
-  "name": "Scotia Bank",
+  "name": "Scotia Bank - RS",
+  "type": "bank",
   "city": "Rock Sound",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-334-2620",
-  "website": "http://www.scotiabank.com",
-  "mapImage": "map_RS2_scotia.png",
-  "details": "details", 
-  "image": "ADD_image.png",
+  "website": "http://www.bahamas.scotiabank.com",
+  "details": "Open Moday-Thursday 830a-430p, Friday 9a-5p", 
   "coordinates": [24.874251,-76.162097],
   "tags": [
             "bank",
             "money",
             "RS",
-            "Rock",
-            "south",
-            "southern"
+            "Rock Sound",
+            "south"
            ]
   },
   
   {
   "name": "Da Perk",
+  "type": "coffee",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2620",
   "website": "facebook.com/daperkcoffeeshop",
-  "mapImage": "map_GH_daPerk.png",
-  "details": "The only coffee shop on the island, also serves sandwiches and snacks. Indoor/outdoor seating, air-conditioned.",
+  "details": "COFFEE $, The only coffee shop on mainland Eleuthera, also serves sandwiches and snacks. Indoor/outdoor seating, air-conditioned, with free wifi. Open Monday-Saturday 7a-4p.",
   "coordinates": [25.195964,-76.244098],
   "tags": [
             "coffee",
             "restaurant",
-            "restaurant $",
             "indoor",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
   },
 
   {
-  "name": "Cocoa",
+  "name": "Cocoa Coffee House",
+  "type": "coffee",
   "city": "Dunmore Town",
   "state": "Harbour Island",
   "country": "Bahamas",
-  "phone": "-",
-  "website": "http://www.google.com",
-  "mapImage": "map_HI_cocoa.png",
-  "details": "Serves Starbucks.",
+  "phone": "242-333-1323",
+  "website": "https://www.facebook.com/cocoacoffeehouse",
+  "details": "COFFEE $, The only coffee shop on Harbour Island, open Monday-Saturday 8a-4p, serves Starbucks.",
   "coordinates": [25.497112,-76.636899],
   "tags": [
             "coffee",
             "restaurant",
-            "restaurant $",
             "indoor",
-            "HI"
+            "Harbour Island",
+            "HI",
+            "Briland",
+            "Dunmore Town"
+           ]
+  },
+  
+  {
+  "name": "North Eleuthera Shopping Center",
+  "type": "grocery",
+  "city": "Bluff",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-1880",
+  "details": "GROCERY. One of the largest grocery stores on the island, also called Burchies. Mon-Thu 8am-8pm, Fri-Sat 8am-9pm, Sun 7am-10am",
+  "coordinates": [25.488912,-76.728204],
+  "tags": [
+            "grocery",
+            "market",
+            "Bluff",
+            "Burchies",
+            "Burchie's",
+            "north"
            ]
   },
 
   {
   "name": "Burrow's One Stop Shop",
+  "type": "grocery",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2999",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_burrowsonestop.png",
-  "details": "Open: M-F 6a-6p, Sat 6a-7p, Sun 6a-10a",
-  "image": "ADD_image.png",
+  "details": "GROCERY. Open Monday-Friday 6a-6p, Saturday 6a-7p, Sunday 6a-10a",
   "coordinates": [25.193916,-76.242896],
   "tags": [
             "grocery",
+            "market",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
@@ -617,49 +583,31 @@
 
   {
   "name": "Eleuthera Supply",
+  "type": "grocery",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2728",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_eleutherasupply.png",
-  "details": "Open: Mon-Thu 6am-6pm, Fri 6am-630pm, Sat 6am-730pm, Sun 6am-3pm",
-  "image": "eat_grocery_elusupply.png",
+  "details": "GROCERY. Open Monday-Thursday 6a-6p, Friday 6a-630p, Saturday 6a-730p, Sunday 6a-3p",
   "coordinates": [25.19559,-76.243768],
   "tags": [
             "grocery",
+            "market",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
-           ]
-  },
-  
-  {
-  "name": "North Eleuthera Shopping Center",
-  "city": "Bluff",
-  "state": "Eleuthera",
-  "country": "Bahamas",
-  "phone": "242-335-1880",
-  "website": "http://www.google.com",
-  "mapImage": "map_north_burchies.png",
-  "details": "One of the largest grocery stores on the island, also called Burchies. Mon-Thu 8am-8pm, Fri-Sat 8am-9pm, Sun 7am-10am",
-  "coordinates": [25.488912,-76.728204],
-  "tags": [
-            "grocery",
-            "Bluff",
-            "Burchies",
-            "Burchie's"
            ]
   },
 
   {
   "name": "Governor's Harbour Bakery",
+  "type": "eat",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2071",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_bakery.png",
-  "details": "details",
+  "details": "DINING $. Open Monday-Friday 7a-5p, Saturday 7a-2p",
   "coordinates": [25.192578,-76.242296],
   "tags": [
             "bakery",
@@ -667,328 +615,367 @@
             "cake",
             "donuts",
             "doughnuts",
+            "Governors Harbour",
             "GH",
             "central"
            
            ]
   },
-  
-  {
-  "name": "Island Farm",
-  "city": "Palmetto Point",
-  "state": "Eleuthera",
-  "country": "Bahamas",
-  "phone": "242-332-0141",
-  "website": "http://www.google.com",
-  "mapImage": "map_PP_islandfarm.png",
-  "details": "The best source for fresh fruit, vegetables, spices, and on select days breads. Open Mon-Sat 9am-4pm www.islandfarmeleuthera.com",
-  "image": "eat_grocery_islandfarm_fruits.png",
-  "coordinates": [25.15327,-76.173293],
-  "tags": [
-            "grocery",
-            "gift shop",
-            "fruit",
-            "vegetables",
-            "pineapples",
-            "NPP",
-            "PP",
-            "central"
-           ]
-  },
 
   {
-  "name": "The Market",
-  "city": "Rock Sound",
+  "name": "7 Eleven",
+  "type": "grocery",
+  "city": "Gregory Town",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "phone": "242-334-2254",
-  "website": "http://www.google.com",
-  "mapImage": "map_RS2_themarket.png",
-  "details": "M/Tu/Th 8am-5pm, W 8am-2pm, Fr/Sat 8am-7pm http://rsp1976.com/marketplace.html",
-  "image": "ADD_image.png",
-  "coordinates": [24.873418,-76.162637],
+  "phone": "242-335-5711",
+  "details": "GROCERY. Open daily 6a-9p, sells groceries and electronics",
+  "coordinates": [25.393811,-76.556897],
   "tags": [
             "grocery",
-            "RS",
-            "Rock",
-            "south",
-            "southern"
-           ]
-  },
-
-  {
-  "name": "Bert's for the Best",
-  "city": "Tarpum Bay",
-  "state": "Eleuthera",
-  "country": "Bahamas",
-  "phone": "242-334-4253",
-  "website": "http://www.google.com",
-  "mapImage": "map_TB2_berts.png",
-  "details": "details",
-  "coordinates": [24.971125,-76.183872],
-  "tags": [
-            "grocery",
-            "Tarpum Bay",
-            "TB",
-            "Tarpum",
-            "south",
-            "southern"
-           ]
-  },
-  
-  {
-  "name": "Millard's Variety Store",
-  "city": "North Palmetto Point",
-  "state": "Eleuthera",
-  "country": "Bahamas",
-  "phone": "242-332-1239",
-  "website": "http://www.google.com",
-  "mapImage": "map_pp_millards.png",
-  "details": "details",
-  "coordinates": [25.164372,-76.175514],
-  "tags": [
-            "grocery",
-            "Palmetto Point",
-            "North Palmetto Point",
-            "NPP",
-            "PP",
-            "Palmetto",
-            "central"
+           	"Gregory Town",
+            "GT",
+            "north"
            ]
   },
   
   {
   "name": "Big Rock General",
-  "city": "Rainbow Bay",
+  "type": "grocery",
+  "city": "James Cistern",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-335-6008",
-  "website": "http://www.google.com",
-  "mapImage": "map_RB_bigrock.png",
-  "details": "details",
+  "details": "GROCERY. Just outside of Rainbow Bay, next to... the big rock.",
   "coordinates": [25.33318,-76.401393],
   "tags": [
             "grocery",
-            "Rainbow",
+            "market",
             "Rainbow Bay",
             "RB",
+            "James Cistern",
+            "JC",
             "central"
            ]
   },
-  
-  {
-  "name": "Lakia's Variety Store",
-  "city": "North Palmetto Point",
-  "state": "Eleuthera",
-  "country": "Bahamas",
-  "phone": "242-332-0288",
-  "website": "http://www.google.com",
-  "mapImage": "map_PP_lakiasvariety.png",
-  "details": "Open M-Sat 6a-9p, Sun 6a-11a",
-  "coordinates": [25.165887,-76.177391],
-  "tags": [
-            "grocery",
-            "North Palmetto Point",
-            "NPP",
-            "PP",
-            "Palmetto",
-            "Palmetto Point",
-            "central"
-           ]
-  },
-  
+
   {
   "name": "Johnson's Grocery Store",
+  "type": "grocery",
   "city": "Lower Bogue",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-335-1340",
-  "website": "http://www.google.com",
-  "mapImage": "map_north3_johnsonsgrocery.png",
-  "details": "Open daily 6a-10p",
+  "details": "GROCERY. Open daily 6a-10p",
   "coordinates": [25.4514,-76.705333],
   "tags": [
             "grocery",
             "Lower Bogue",
-            "Lower",
-            "Bogue",
             "LB",
             "north"
            ]
   },
   
   {
-  "name": "Durham Food Store",
-  "city": "Current",
+  "name": "Island Farm",
+  "type": "grocery",
+  "city": "Palmetto Point",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "phone": "242-335-3237",
-  "website": "http://www.google.com",
-  "mapImage": "map_north3_durhamgrocery.png",
-  "details": "details",
-  "coordinates": [1, 2],
+  "phone": "242-332-0141",
+  "website": "http://www.islandfarmeleuthera.com",
+  "details": "GROCERY. The best source for fresh fruit, vegetables, spices, and on select days breads. Open Monday-Saturday 9a-4p",
+  "coordinates": [25.15327,-76.173293],
   "tags": [
             "grocery",
-            "Current",
+            "market",
+            "gift shop",
+            "fruit",
+            "vegetables",
+            "pineapples",
+            "North Palmetto Point",
+            "NPP",
+            "central"
+           ]
+  },
+    
+  {
+  "name": "Millard's Variety Store",
+  "type": "grocery",
+  "city": "North Palmetto Point",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-1239",
+  "details": "GROCERY. Small store on the right as you head north from the 4-way intersection.",
+  "coordinates": [25.164372,-76.175514],
+  "tags": [
+            "grocery",
+            "market",
+            "Palmetto",
+            "North Palmetto Point",
+            "NPP",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "Lakia's Variety Store",
+  "type": "grocery",
+  "city": "North Palmetto Point",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-0288",
+  "details": "GROCERY. Open Monday-Saturday 6a-9p, Sunday 6a-11a",
+  "coordinates": [25.165887,-76.177391],
+  "tags": [
+            "grocery",
+            "market",
+            "Lakias",
+            "North Palmetto Point",
+            "NPP",
+            "central"
+           ]
+  },
+
+  {
+  "name": "The Market",
+  "type": "grocery",
+  "city": "Rock Sound",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-2254",
+  "website": "http://rsp1976.com/marketplace.html",
+  "details": "GROCERY. Open Monday/Tuesday/Thursday 8a-5p, Wednesday 8a-2p, Friday/Saturday 8a-7p",
+  "coordinates": [24.873418,-76.162637],
+  "tags": [
+            "grocery",
+            "Rock Sound",
+            "RS",
+            "south"
+           ]
+  },
+
+  {
+  "name": "Bert's for the Best",
+  "type": "grocery",
+  "city": "Tarpum Bay",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-4253",
+  "details": "GROCERY. Small store right along the main road near the pier.",
+  "coordinates": [24.971125,-76.183872],
+  "tags": [
+            "grocery",
+            "market",
+            "berts",
+            "Tarpum Bay",
+            "TB",
+            "south"
+           ]
+  },
+  
+  {
+  "name": "Sharil's Restaurant",
+  "type": "eat",
+  "city": "Deep Creek",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-8111",
+  "details": "DINING $$. The only dining for miles, serves american and seafood dishes, call for current menu items, prepare for a wait.",
+  "coordinates": [24.781253,-76.279758],
+  "tags": [
+            "restaurant",
+            "Deep Creek",
+            "sheryl's",
+            "south"
+           ]
+  },
+
+  {
+  "name": "Freedom Restaurant and Sushi Bar",
+  "type": "eat",
+  "city": "Gregory Town",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-5142",
+  "website": "http://www.thecoveeleuthera.com",
+  "details": "DINING $$$. Located at The Cove, serves elegant dishes for breakfast, lunch, and dinner. The closest thing to fine dining on the island.",
+  "coordinates": [25.400687,-76.573184],
+  "tags": [
+            "restaurant",
+            "The Cove",
+            "Gregory Town",
+            "GT",
             "north"
            ]
   },
 
   {
-  "name": "Sharil's Restaurant",
-  "city": "Deep Creek",
-  "state": "Eleuthera",
-  "country": "Bahamas",
-  "phone": "242-334-8111",
-  "website": "http://www.google.com",
-  "mapImage": "map_south_sharils.png",
-  "details": "Details",
-  "coordinates": [1, 2],
-  "tags": [
-            "restaurant",
-            "restaurant $",
-            "restaurant american",
-            "Deep Creek",
-            "Deep",
-            "creek",
-            "south",
-            "southern",
-            "south eleuthera"
-           ]
-  },
-
-  {
-  "name": "The Cove Restaurant",
+  "name": "Gregory Town Grill",
+  "type": "eat",
   "city": "Gregory Town",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-335-5142",
-  "website": "http://www.google.com",
-  "mapImage": "map_GT_coverestaurant.png",
-  "details": "$$$, Details",
+  "website": "http://www.thecoveeleuthera.com",
+  "details": "DINING $$. Located at The Cove, serves Mexican inspired dishes.",
   "coordinates": [25.400687,-76.573184],
   "tags": [
             "restaurant",
-            "restaurant $$$",
-            "american",
-            "gregory town",
-            "gregory",
+            "The Cove",
+            "Gregory Town",
             "GT",
-            "north",
-            "northern",
-            "north eleuthera"
+            "north"
            ]
   },
 
   {
   "name": "The Laughing Lizard Cafe",
+  "type": "eat",
   "city": "Gregory Town",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-470-6992",
-  "website": "http://www.google.com",
-  "mapImage": "map_GT_laughinglizard.png",
-  "details": "$$, Open Mon-Sat, L, soup, salad, and sandwiches",
+  "website": "http://www.laughinglizardcafe.com/",
+  "details": "DINING $. Open Monday-Saturday for breakfast and lunch, serves light fare such as soup, salad, and sandwiches",
   "coordinates": [25.401005,-76.563619],
   "tags": [
             "restaurant",
-            "restaurant $$$",
-            "american",
-            "gregory town",
-            "gregory",
+            "Gregory Town",
             "GT",
-            "north",
-            "northern",
-            "north eleuthera"
+            "north"
            ]
   },
 
   {
-  "name": "Ida's Ice Cream",
+  "name": "Ida's Delights",
+  "type": "eat",
   "city": "Gregory Town",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_GT2_idasdelights.png",
-  "details": "$, Details",
-  "coordinates": [1, 2],
+  "details": "DINING $. Ice cream!",
+  "coordinates": [25.392052,-76.556854],
   "tags": [
             "restaurant",
-            "restaurant $",
             "ice cream",
-            "gregory town",
-            "gregory",
+            "Gregory Town",
             "GT",
-            "north",
-            "northern",
-            "north eleuthera"
+            "north"
            ]
   },
  
    {
-  "name": "Surfer's Beach Manor Restaurant & Bar",
+  "name": "Surfers Manor Restaurant and Bar",
+  "type": "eat",
   "city": "Gregory Town",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-335-5300",
-  "website": "http://www.google.com",
-  "mapImage": "map_GT_surfersmanorrestbar.png",
-  "details": "$, Details",
-  "coordinates": [1, 2],
+  "website": "http://www.surfersmanor.com",
+  "details": "DINING $. American and Bahamian breakfast, lunch, and dinner.",
+  "coordinates": [25.375699,-76.529013],
   "tags": [
             "restaurant",
-            "restaurant $",
             "bar",
-            "gregory town",
-            "gregory",
+            "Gregory Town",
             "GT",
-            "north",
-            "northern",
-            "north eleuthera"
+            "north"
            ]
   },
 
   {
-  "name": "Daddy Joe's Restaurant & Bar",
+  "name": "Daddy Joe's Restaurant and Bar",
+  "type": "eat",
   "city": "Gregory Town",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-335-5688",
-  "website": "http://www.google.com",
-  "mapImage": "map_GWB_daddyjoes.png",
-  "details": "$$, Details",
+  "website": "https://www.facebook.com/pages/DADDY-JOES-ELEUTHERA/77853052176",
+  "details": "DINING $$. Live music on select nights.",
   "coordinates": [25.425786,-76.59197],
   "tags": [
             "restaurant",
-            "restaurant $$",
             "bar",
-            "surfer's beach",
+            "Gregory Town",
             "GT",
-            "north",
-            "northern",
-            "north eleuthera"
+            "north"
            ]
   },
 
   {
   "name": "The Bistro",
+  "type": "eat",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-3422",
   "website": "http://www.skybeachclub.com/the-bistro/",
-  "mapImage": "map_GHB_thebistro.png",
-  "details": "Elegant beachfront dining room and bar. Serves breakfast, lunch, and dinner from an American style menu. Bar features swim-up seating from the infinity pool. Covered seating in dining room and bar.",
+  "details": "DINING $$$. Elegant beachfront dining room and bar. Serves breakfast, lunch, and dinner. Bar features swim-up seating from the infinity pool. Covered seating in dining room and bar.  Credit cards are accepted.",
   "image": "eat_rest_bistro.png",
   "coordinates": [25.229819,-76.270266],
   "tags": [
             "restaurant",
-            "restaurant $$$",
-            "restaurant american",
-            "sky",
-            "sky beach",
+            "bar",
             "sky beach club",
             "waterfront",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "GH",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Buccaneer Club",
+  "type": "eat",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2000",
+  "details": "DINING $$. Indoor and outdoor seating on the patio, serves breakfast, lunch, and dinner.",
+  "coordinates": [25.196294,-76.243237],
+  "tags": [
+            "restaurant",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "GH",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Harbour Inn Restaurant",
+  "type": "eat",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2686",
+  "details": "DINING $. Local eatery for casual takeaway.",
+  "coordinates": [25.192403,-76.249733],
+  "tags": [
+            "restaurant",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "GH",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Sunset Inn Restaurant and Bar",
+  "type": "eat",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-2487",
+  "details": "DINING $$. indoor seating or sunset views from the outdoor patio, closed on Thursdays.",
+  "coordinates": [25.186933,-76.236169],
+  "tags": [
+            "restaurant",
+            "bar",
+            "waterfront",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
@@ -996,20 +983,19 @@
 
   {
   "name": "Banks Road Deli",
+  "type": "eat",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2221",
   "website": "http://pineapplefields.com/index.php/dining/banks-road-deli.html",
-  "mapImage": "map_BR_banksroaddeli.png",
-  "details": "Featuring meats and cheeses to take home, as well as sandwiches and other light fare. The deli shares space with the Pineapple Fields front desk and also contains some of their branded merchandise.",
+  "details": "DINING $. Featuring meats and cheeses to take home, as well as sandwiches and other light fare. The deli shares space with the Pineapple Fields front desk and also contains some of their branded merchandise. Credit cards are accepted.",
   "coordinates": [25.189205,-76.212394],
   "tags": [
             "restaurant",
-            "restaurant $$",
-            "restaurant american",
-            "pineapple",
             "pineapple fields",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
@@ -1017,85 +1003,62 @@
   
   {
   "name": "Tippy's",
+  "type": "eat",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-3150",
   "website": "http://pineapplefields.com/index.php/tippys.html",
-  "mapImage": "map_BR_tippys.png",
-  "details": "description",
-  "image": "IMAGE_IS_AVAIL.png",
+  "details": "DINING $$. Casual beachfront dining with a chalkboard menu featuring American style entrees. Reservations recommended for dinner. Credit cards are accepted.",
   "coordinates": [25.190205,-76.208639],
   "tags": [
             "restaurant",
-            "restaurant $$",
-            "restaurant american",
-            "pineapple",
             "pineapple fields",
+            "tippys",
             "banks road",
             "waterfront",
-            "GH",
-            "central"
-           ]
-  },
-
-  {
-  "name": "Sunset Inn Restaurant & Bar",
-  "city": "Governor's Harbour",
-  "state": "Eleuthera",
-  "country": "Bahamas",
-  "phone": "242-332-2487",
-  "website": "http://www.google.com",
-  "mapImage": "map_BR_sunsetinn.png",
-  "details": "description",
-  "image": "IMAGE_IS_AVAIL.png",
-  "coordinates": [25.186933,-76.236169],
-  "tags": [
-            "restaurant",
-            "restaurant $$",
-            "restaurant american",
-            "waterfront",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
   },
  
   {
-  "name": "The Beach House Restaurant & Tapas Bar",
+  "name": "The Beach House Restaurant and Tapas Bar",
+  "type": "eat",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-3387",
-  "website": "http://www.google.com",
-  "mapImage": "map_BR_beachhouserestaurant.png",
-  "details": "description",
-  "image": "IMAGE_IS_AVAIL.png",
+  "website": "https://www.facebook.com/pages/The-Beach-House-Eleuthera/197579855940",
+  "details": "DINING $$$. Set on French Leave Beach, open for lunch Monday-Sunday, reservations required for dinner on Monday and Thursday. Credit cards accepted.",
   "coordinates": [25.198088,-76.227871],
   "tags": [
             "restaurant",
-            "restaurant $$",
-            "restaurant american",
             "banks road",
             "waterfront",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
   },
 
   {
-  "name": "Twin Brothers",
+  "name": "Twin Brothers Seafood and Steakhouse",
+  "type": "eat",
   "city": "Hatchet Bay",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-335-0730",
-  "website": "http://www.google.com",
-  "mapImage": "map_HB_twinbrothers.png",
-  "details": "www.twinbrothersbahamas.com",
+  "website": "www.twinbrothersbahamas.com",
+  "details": "DINING $$. Outdoor seating and bar for lunch, dinner, and drinks.",
   "coordinates": [25.349524,-76.484196],
   "tags": [
             "restaurant",
-            "restaurant $$",
-            "restaurant american",
+            "bar",
+            "Hatchet Bay",
             "HB",
             "central"
            ]
@@ -1103,58 +1066,198 @@
 
   {
   "name": "The Front Porch",
+  "type": "eat",
   "city": "Hatchet Bay",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-335-0727",
-  "website": "http://www.google.com",
-  "mapImage": "map_HB_thefrontporch.png",
-  "details": "-",
+  "website": "https://www.facebook.com/pages/The-Front-Porch-Eleuthera/258587804203306",
+  "details": "DINING $$$. Known for their great food and water views. Open for breakfast, lunch, and dinner, reservations encouraged.",
   "coordinates": [25.351063,-76.485853],
   "tags": [
             "restaurant",
-            "restaurant $$",
-            "restaurant american",
+            "waterfront",
+            "Hatchet Bay",
             "HB",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Waters Edge Cafe",
+  "type": "eat",
+  "city": "Hatchet Bay",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-0679",
+  "details": "DINING $. Internet cafe open Monday-Saturday, also provides computer services.",
+  "coordinates": [25.345914,-76.483882],
+  "tags": [
+            "restaurant",
+            "HB",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Kel-d's Bar and Grill",
+  "type": "eat",
+  "city": "James Cistern",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-6061",
+  "details": "DINING $$. Local hangout, serves breakfast, lunch, and dinner. Nondescript structure is easy to miss, watch for undersea mural on building.",
+  "coordinates": [25.324428,-76.364502],
+  "tags": [
+            "restaurant",
+            "bar",
+            "James Cistern",
+            "Kelds",
+            "JC",
             "central"
            ]
   },
   
   {
-  "name": "The Rainbow Inn Seafood, Steakhouse & Bar",
+  "name": "Stubbs BBQ",
+  "type": "eat",
+  "city": "James Cistern",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-6111",
+  "details": "DINING $. BBQ lunch on Fridays and Saturday starting at 11am. Show up early before they sell out.",
+  "coordinates": [25.328652,-76.374577],
+  "tags": [
+            "restaurant",
+            "James Cistern",
+            "JC",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Seven Seas",
+  "type": "eat",
+  "city": "Lower Bogue",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-335-1011",
+  "details": "DINING $$. Local eatery with bar style menu for lunch and dinner.",
+  "coordinates": [25.45242,-76.703705],
+  "tags": [
+            "restaurant",
+            "Lower Bogue",
+            "LB",
+            "north"
+           ]
+  },
+  
+  {
+  "name": "Unique Village Restaurant and Bar",
+  "type": "eat",
+  "city": "North Palmetto Point",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-1830",
+  "website": "http://www.uniquevillage.com/",
+  "details": "DINING $$. Indoor and ocean view outdoor seating. Open for breakfast, lunch, and dinner. Live music on Tuesday nights.",
+  "coordinates": [25.156404,-76.180857],
+  "tags": [
+            "restaurant",
+            "bar",
+            "Palmetto Point",
+            "NPP",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Mate and Jenny's",
+  "type": "eat",
+  "city": "South Palmetto Point",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-1504",
+  "details": "DINING $$. Open Wed-Mon for lunch and dinner. Serves fresh-made pizza, credit cards are accepted",
+  "coordinates": [25.156404,-76.180857],
+  "tags": [
+            "restaurant",
+            "pizza",
+            "South Palmetto Point",
+            "SPP",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "The Rainbow Inn Seafood, Steakhouse, and Bar",
+  "type": "eat",
   "city": "Rainbow Bay",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2650",
-  "website": "http://www.google.com",
-  "mapImage": "map_RB_rainbowinnrest.png",
-  "details": "http://www.rainbowinn.com",
+  "website": "http://www.rainbowinn.com",
+  "details": "DINING $$$. Open for breakfast, lunch, and dinner, serves seafood, steak, and pasta dishes using ingredients grown in their own garden. Pizza on Monday nights, live music select nights. Indoor/outdoor seating with ocean views. Credit cards are accepted.",
   "coordinates": [25.340758,-76.449561],
   "tags": [
             "restaurant",
-            "restaurant $$$",
-            "american",
+            "bar",
+            "live music",
             "waterfront",
+            "Rainbow Bay",
+            "RB",
+            "central"
+           ]
+  },
+  
+  {
+  "name": "DJ's Take-a-Way",
+  "type": "eat",
+  "city": "Rainbow Bay",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-6566",
+  "details": "DINING $. Local carry-out next to Big Rock General.",
+  "coordinates": [25.333108,-76.401243],
+  "tags": [
+            "restaurant",
             "RB",
             "central"
            ]
   },
 
   {
+  "name": "Rock Sound Club",
+  "type": "eat",
+  "city": "Rock Sound",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-2700",
+  "website": "http://www.rocksoundclub.com/",
+  "details": "DINING $$. Indoor dining, has small bar area. Open for breakfast, lunch, and dinner.",
+  "coordinates": [24.907126,-76.181468],
+  "tags": [
+            "restaurant",
+            "RS",
+            "south"
+           ]
+  },
+
+  {
   "name": "Pascal's Caribbean Fusion",
+  "type": "eat",
   "city": "Rock Sound",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-334-2778",
-  "website": "http://www.google.com",
-  "mapImage": "map_RS2_pascals.png",
-  "details": "Located at the 4 Points Marina Village, Pascal's offers traditional and eclectic plates with prime water views at tables or the large bar. Serves lunch and dinner.",
+  "website": "https://www.facebook.com/pages/Pascals-Caribbean-Fusion-Bar-and-Resturant/217205624963886",
+  "details": "DINING $$. Located at the 4 Points Marina Village, Pascal's offers traditional and eclectic plates with prime water views at tables or the large bar. Serves lunch and dinner. Popular restaurant for cruise ship passengers.",
   "coordinates": [24.870163,-76.162859],
   "tags": [
             "restaurant",
-            "restaurant $$$",
-            "american",
             "waterfront",
+            "pascals",
+            "Rock Sound",
             "RS",
             "south"
            ]
@@ -1162,19 +1265,54 @@
   
   {
   "name": "Sammy's Place",
+  "type": "eat",
   "city": "Rock Sound",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-334-2121",
-  "website": "http://www.google.com",
-  "mapImage": "map_RS2_sammys.png",
-  "details": "Affordable breakfast, lunch, and dinner options are available at Sammy for dine-in or carry-out. Popular for picnic lunches at Southern beaches.",
-  "image": "PIC_AVAILABLE.png",
+  "details": "DINING $$. Affordable breakfast, lunch, and dinner options are available for dine-in or carry-out. Popular for picnic lunches at southern beaches.",
   "coordinates": [24.868904,-76.157221],
   "tags": [
             "restaurant",
-            "restaurant $$$",
-            "american",
+            "Sammys",
+            "Rock Sound",
+            "RS",
+            "south"
+           ]
+  },
+
+  {
+  "name": "Barbie's Snacks and Notions",
+  "type": "eat",
+  "city": "Tarpum Bay",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-4028",
+  "details": "DINING $$. local cuisine, open daily for lunch, dinner, and takeaway.",
+  "coordinates": [24.971526,-76.183518],
+  "tags": [
+            "restaurant",
+            "Barbies",
+            "Tarpum Bay",
+            "TB",
+            "south"
+           ]
+  },
+  
+  {
+  "name": "Shantzii's Seafood Restaurant and Sports Bar",
+  "type": "eat",
+  "city": "Tarpum Bay",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-334-4505",
+  "details": "DINING $$. Karaoke on Thursday nights.",
+  "coordinates": [24.967006,-76.183185],
+  "tags": [
+            "restaurant",
+            "bar",
+            "karaoke",
+            "Rock Sound",
             "RS",
             "south"
            ]
@@ -1182,199 +1320,208 @@
   
   {
   "name": "Sip Sip",
+  "type": "eat",
   "city": "Dunmore Town",
   "state": "Harbour Island",
   "country": "Bahamas",
   "phone": "242-333-3316",
-  "website": "http://www.google.com",
-  "mapImage": "map_HI_sipsip.png",
-  "details": "-",
-  "image": "IMAGE_IS_AVAIL.png",
+  "details": "DINING $$$. Indoor/outdoor seating, known for great food with a view of the water. Open for lunch, closed on Tuesdays.",
   "coordinates": [25.500983,-76.632214],
   "tags": [
             "restaurant",
-            "restaurant $$",
-            "restaurant american",
-            "banks road",
             "waterfront",
-            "GH",
-            "central"
+            "Harbour Island",
+            "HI",
+            "Briland",
+            "Dunmore Town"
            ]
   },
   
   {
   "name": "Queen Conch",
+  "type": "eat",
   "city": "Dunmore Town",
   "state": "Harbour Island",
   "country": "Bahamas",
   "phone": "242-333-3811",
-  "website": "http://www.google.com",
-  "mapImage": "map_HI_queenconch.png",
-  "details": "-",
+  "details": "DINING $$. Popular roadside eatery serving tasty seafood. Outdoor seating over the water. Open for lunch and dinner.",
   "coordinates": [25.502961,-76.639287],
   "tags": [
             "restaurant",
-            "restaurant $$$",
-            "american",
             "waterfront",
-            "RB",
-            "central"
+            "Harbour Island",
+            "HI",
+            "Briland",
+            "Dunmore Town"
            ]
   },
 
   {
   "name": "Governor's Harbour Boat Ramp",
+  "type": "fish",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_boatramp.png",
-  "details": "Buy the catch of the day when the fishermen return around 3PM.",
+  "details": "FRESH FISH. Buy the catch of the day when the fishermen return around 3PM.",
   "coordinates": [25.195869,-76.244414],
   "tags": [
-            "fish",
             "fishing",
             "boat ramp",
-            "dock",
             "docks",
             "pier",
+            "Governors Harbour",
             "GH",
             "central"
            ]
   },
 
   {
-  "name": "Tarpum Bay Fishing Dock",
+  "name": "Tarpum Bay Fishing Pier",
+  "type": "fish",
   "city": "Tarpum Bay",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_TB2_fishingdock.png",
-  "details": "Buy the catch of the day when the fishermen return around 3PM.",
-  "image": "add_image.png",
+  "details": "FRESH FISH. Buy the catch of the day when the fishermen return around 3PM.",
   "coordinates": [24.972365,-76.185315],
   "tags": [
-            "fish",
             "fishing",
             "boat ramp",
-            "dock",
             "docks",
             "pier",
             "TB",
-            "Tarpum",
-            "south",
-            "southern"
+            "south"
            ]
   },
 
   {
-  "name": "James Cistern Pier",
+  "name": "James Cistern Fishing Pier",
+  "type": "fish",
   "city": "James Cistern",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_boatramp.png",
-  "details": "Buy the catch of the day when the fishermen return around 3PM.",
-  "coordinates": [1, 2],
+  "details": "FRESH FISH. Buy the catch of the day when the fishermen return around 3PM.",
+  "coordinates": [25.324457,-76.364948],
   "tags": [
-            "fish",
             "fishing",
             "boat ramp",
-            "dock",
             "docks",
             "pier",
             "JC",
-            "north"
+            "central"
            ]
   },
     
   {
   "name": "Pam's Island Made Gifts",
+  "type": "gift",
   "city": "Gregory Town",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-335-5369",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_pyfroms.png",
-  "details": "Mon-Sat, 9am-5pm, island paintings, ornaments, sauces, and numerous souvenirs of Eleuthera. Typically carries a great road map.",
-  "image": "do_gift_pams.png",
+  "details": "SHOPPING. Mon-Sat, 9am-5pm, island paintings, ornaments, sauces, and numerous souvenirs of Eleuthera. Typically stocks a great road map.",
   "coordinates": [25.392168,-76.55679],
   "tags": [
-            "gift",
-            "gifts",
             "gift shop",
-            "souvenir",
             "souvenirs",
+            "Gregory Town",
             "GT",
-            "North"
+            "north"
+           ]
+  },
+
+  {
+  "name": "Clipper Imports Boutique and Gifts",
+  "type": "gift",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "details": "SHOPPING. Fashions, jewelry, and gifts, open Monday-Saturday 11a-4p.",
+  "coordinates": [25.196381,-76.243481],
+  "tags": [
+            "gift shop",
+            "souvenirs",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "GH",
+            "central"
            ]
   },
 
   {
   "name": "Norma's Gift Shop",
+  "type": "gift",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2002",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_normas.png",
-  "details": "Gifts, souvenirs, shirts, and beachwear.",
-  "image": "ADD_IMAGE.png",
+  "details": "SHOPPING. Gifts, souvenirs, shirts, and beachwear. Open Monday-Saturday 9a-6p.",
   "coordinates": [25.195452,-76.244079],
   "tags": [
-            "gift",
-            "gifts",
-            "gift shop",
-            "souvenir",
             "souvenirs",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
   },
-  
-   {
-  "name": "Treasures from the Sea",
+
+  {
+  "name": "The Harbour Boutique",
+  "type": "gift",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "phone": "242-332-3888",
+  "details": "SHOPPING. Open Monday-Friday 12p-5p, Saturday 10a-5p. Carries womens clothing and locally made gifts.",
+  "coordinates": [25.193248,-76.250063],
+  "tags": [
+            "clothes",
+            "clothing",
+            "gift shop",
+            "souvenirs",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "GH",
+            "central"
+           ]
+  },
+    
+  {
+  "name": "Treasures of the Sea",
+  "type": "gift",
   "city": "North Palmetto Point",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "phone": "242-332-2647/242-470-3925",
-  "website": "http://www.google.com",
-  "mapImage": "map_PP_treasuresfromthesea.png",
-  "details": "Open 8a-4p.",
-  "coordinates": [1, 2],
+  "phone": "242-332-2647",
+  "website": "https://www.facebook.com/pages/Treasures-of-the-Sea-Gift-Shop/345850868857150?ref=stream",
+  "details": "SHOPPING. Open Monday-Saturday 8a-4p.",
+  "coordinates": [25.171325,-76.185213],
   "tags": [
-            "gift",
             "gifts",
             "gift shop",
-            "souvenir",
             "souvenirs",
+            "North Palmetto Point",
             "NPP",
-            "PP",
             "central"
            ]
   },
  
    {
-  "name": "The Beach House Gift Shop",
-  "city": "Gregory Town",
+  "name": "The Beach House Boutique",
+  "type": "gift",
+  "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "phone": "242-332-3387",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_pyfroms.png",
-  "details": "Mon-Sat, 9am-5pm, island paintings, ornaments, sauces, and the best map of Eleuthera.",
-  "image": "do_gift_pams.png",
+  "phone": "242-470-5219",
+  "website": "https://www.facebook.com/TheBeachHouseBoutique",
+  "details": "SHOPPING. Beachwear, artwork, jewelry and more. Open Monday/Thursday 12p-9p, Tuesday-Wednesday / Friday-Saturday 12p-5p, Sunday 12p-3p.",
   "coordinates": [25.198088,-76.227871],
   "tags": [
-            "gift",
             "gifts",
             "gift shop",
-            "souvenir",
             "souvenirs",
             "Governor's Harbour",
             "Governors Harbour",
-            "Governor's",
-            "Governors",
             "GH",
             "central"
            ]
@@ -1382,170 +1529,154 @@
 
   {
   "name": "Rebecca's Beach Shop",
+  "type": "gift",
   "city": "Gregory Town",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-335-5436",
-  "website": "http://www.google.com",
-  "mapImage": "map_GT2_rebeccasbeachshop.png",
-  "details": "details.",
-  "coordinates": [1, 2],
+  "details": "SHOPPING. Open daily. Assorted gift items such as clothing and artwork, also rents surfboards.",
+  "coordinates": [25.39178263484591,-76.55676573514938],
   "tags": [
-            "gift",
             "gifts",
             "gift shop",
-            "souvenir",
             "souvenirs",
+            "surfboard",
+            "Gregory Town",
             "GT",
-            "North Eleuthera",
-            "North",
-            "northern"
+            "north"
            ]
   },
 
   {
   "name": "Dilly Dally",
+  "type": "gift",
   "city": "Dunmore Town",
   "state": "Harbour Island",
   "country": "Bahamas",
   "phone": "242-333-3109",
-  "website": "http://www.google.com",
-  "mapImage": "map_HI_dillydally.png",
-  "details": "details.",
-  "image": "add_image.png",
+  "details": "SHOPPING. Clothing, souvenirs, books, postcards, and more. Open Monday-Saturday.",
   "coordinates": [25.501056,-76.63673],
   "tags": [
-            "gift",
             "gifts",
             "gift shop",
-            "souvenir",
             "souvenirs",
-            "HI"
+            "Harbour Island",
+            "HI",
+            "Briland",
+            "Dunmore Town"
            ]
   },  
 
   {
   "name": "The Cove",
+  "type": "hotel",
   "city": "Gregory Town",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "phone": "242-335-5142/888-776-3901",
-  "website": "http://www.google.com",
-  "mapImage": "map_GT_covehotel.png",
-  "details": "www.thecoveeleuthera.com",
+  "phone": "242-335-5142 / 888-776-3901",
+  "website": "http://www.thecoveeleuthera.com",
+  "details": "HOTEL $$$. Completely rebuilt, The Cove reopened in 2013 with new rooms, a new beach, and two new restaurants. Has pool and fitness center, free wifi, suites and villas are available. Flight packages are available on The Cove Express.",
   "coordinates": [25.400687,-76.573184],
   "tags": [
-            "accommodations",
             "hotel",
+            "Gregory Town",
             "GT",
-            "North Eleuthera",
-            "North",
-            "northern",
-            "north eleuthera"
+            "north"
            ]
   },
 
   {
-  "name": "Surfer's Manor",
+  "name": "Surfers Manor",
+  "type": "hotel",
   "city": "Gregory Town",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-335-5300",
-  "website": "http://www.google.com",
-  "mapImage": "map_GT_surfersmanor.png",
-  "details": "http://www.surfersmanor.com/",
-  "coordinates": [1, 2],
+  "website": "http://www.surfersmanor.com/",
+  "details": "HOTEL $. 9-room budget hotel is popular for it's location near Surfer's Beach. Restaurant on-site.",
+  "coordinates": [25.375699,-76.529013],
   "tags": [
-            "accommodations",
             "hotel",
+            "surfer's",
+            "Gregory Town",
             "GT",
-            "North Eleuthera",
-            "North",
-            "northern"
+            "north"
            ]
   },
 
   {
-  "name": "The Rainbow Inn & Restaurant",
+  "name": "The Rainbow Inn",
+  "type": "hotel",
   "city": "Rainbow Bay",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-335-0294",
-  "website": "http://www.google.com",
-  "mapImage": "map_RB_rainbowinn.png",
-  "details": "www.rainbowinn.com",
+  "website": "www.rainbowinn.com",
+  "details": "HOTEL $. Studio style units with kitchenettes, and villa unit with full kitchen. Restaurant on-site, wifi throughout. Short drive to Rainbow Beach, Hatchet Bay Caves, and other popular dining and attractions.",
   "coordinates": [25.340758,-76.449561],
   "tags": [
-            "accommodations",
             "hotel",
+            "Rainbow Bay",
             "RB",
-            "north",
-            "northern",
-            "north eleuthera"
+            "north"
            ]
   },
 
   {
   "name": "Cocodimama",
+  "type": "hotel",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-3150",
   "website": "http://www.cocodimama.com/",
-  "mapImage": "map_GHB_cocohotel.png",
-  "details": "Currently closed during renovations, seaside hotel is available for private rentals during construction.",
+  "details": "HOTEL. Currently closed during renovations, seaside hotel is available for private rentals during construction.",
   "coordinates": [25.264015,-76.317226],
   "tags": [
-            "accommodations",
             "hotel",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "coco",
             "central"
            ]
   },
-
   
   {
   "name": "Sky Beach Club",
+  "type": "hotel",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "phone": "800-605-9869/242-422-9597",
-  "website": "http://www.skybeachcclub.com",
-  "mapImage": "map_GHB_skybeachclub.png",
-  "details": "Luxurious multi-bedroom villas and romantic bungalows with ocean views. Infinity pool, restaurant and bar on-site. www.skybeachclub.com",
-  "image": "add_image.png",
+  "phone": "800-605-9869 / 242-422-9597",
+  "website": "http://www.skybeachclub.com",
+  "details": "HOTEL $$$. Luxurious multi-bedroom villas and romantic bungalows with ocean views. Villas have kitchens, wifi, washer/dryer, and plunge pool. Infinity pool, restaurant, and bar on-site.",
   "coordinates": [25.229819,-76.270266],
   "tags": [
-            "accommodations",
             "hotel",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
-            "central",
             "sbc",
             "the bistro",
-            "bistro"
+            "central"
            ]
   },
 
   {
   "name": "Hut Pointe",
+  "type": "hotel",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "phone": "242-332-3530/760-908-6700",
-  "homepage": "http://www.hutpointe.com",
-  "website": "http://www.google.com",
-  "mapImage": "map_GHB_hutpointe.png",
-  "details": "2BR condos",
-  "image": "add_image.png",
+  "phone": "242-332-3530 / 760-908-6700",
+  "website": "http://www.hutpointe.com",
+  "details": "HOTEL $$. 2-bedroom condo style units with kitchens and wifi. Hotel is directly along main road.",
   "coordinates": [25.229052,-76.275609],
   "tags": [
-            "accommodations",
             "hotel",
             "Governor's Harbour",
             "Governors Harbour",
-            "Governor's",
-            "Governors",
             "GH",
             "central"
            ]
@@ -1553,21 +1684,18 @@
 
   {
   "name": "The Duck Inn",
+  "type": "hotel",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2608",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_duckinn.png",
-  "details": "http://www.duckinncottages.com",
+  "website": "http://www.duckinncottages.com",
+  "details": "HOTEL $$. Three detached units located in town, all with kitchens. Walking distance to fishing, dining, grocery, shopping, and all the necessities (beer).",
   "coordinates": [25.196512,-76.244109],
   "tags": [
-            "accommodations",
             "hotel",
             "Governor's Harbour",
             "Governors Harbour",
-            "Governor's",
-            "Governors",
             "GH",
             "central"
            ]
@@ -1575,72 +1703,59 @@
 
   {
   "name": "Pineapple Fields",
+  "type": "hotel",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2221",
   "website": "http://pineapplefields.com/",
-  "mapImage": "map_BR_pineapplefields.png",
-  "details": "Condo style hotel",
-  "image": "add_image.png",
+  "details": "HOTEL $$. Condo style hotel comprised of eight buildings with 1- and 2-bedroom units, all with kitchens, washer/dryer, and wifi. Has community pool. Restaurant and beach located directly across street.",
   "coordinates": [25.189855,-76.208864],
   "tags": [
-            "accommodations",
             "hotel",
             "Governor's Harbour",
             "Governor's Harbour",
-            "Governor's",
-            "Governors",
             "GH",
-            "central",
-            "tippy",
             "tippys",
             "tippy's",
-            "banks road",
             "old banks road",
-            "banks road deli"
+            "banks road deli",
+            "central"
            ]
   },
 
   {
   "name": "Unique Village",
+  "type": "hotel",
   "city": "North Palmetto Point",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-1830",
-  "website": "http://www.google.com",
-  "mapImage": "map_PP_uniqueVhotel.png",
-  "details": "Tippy's serve awesome and overpriced food",
+  "website": "http://www.uniquevillage.com/",
+  "details": "HOTEL $. Fourteen unit property set on the beach. Activities include pool and tennis courts. On-site restaurant.",
   "coordinates": [25.168169,-76.166974],
   "tags": [
-            "accommodations",
-            "Palmetto Point",
+            "hotel",
             "North Palmetto Point",
             "NPP",
-            "PP",
-            "Palmetto",
-            "Palmetto Point",
             "central"
            ]
   },
 
   {
   "name": "Northside Inn",
+  "type": "hotel",
   "city": "Rock Sound",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-334-2573",
-  "website": "http://www.google.com",
-  "mapImage": "map_RS_northsideinn.png",
-  "details": "www.northsideinneleuthera.com",
+  "website": "www.northsideinneleuthera.com",
+  "details": "HOTEL $. Three cottages on the hillside overlooking the beach with ocean views. Restaurant on-site.",
   "coordinates": [24.878168,-76.135849],
   "tags": [
-            "accommodations",
             "hotel",
             "Governor's Harbour",
             "Governors Harbour",
-            "Governor's",
-            "Governors",
             "GH",
             "central"
            ]
@@ -1648,13 +1763,12 @@
     
   {
   "name": "Forty’s Sports and Rental Shop",
+  "type": "activities",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-3730",
-  "website": "http://www.google.com",
-  "mapImage": "map_BR_fortys.png",
-  "details": "Rents kayaks, bikes, and arranges fishing trips.",
+  "details": "ACTIVITIES. Rents kayaks, bikes, and arranges fishing trips.",
   "coordinates": [25.189214,-76.21197],
   "tags": [
             "activities",
@@ -1666,8 +1780,6 @@
             "tours",
             "Governor's Harbour",
             "Governors Harbour",
-            "Governor's",
-            "Governors",
             "GH",
             "central"
            ]
@@ -1675,102 +1787,80 @@
 
   {
   "name": "Clearwater Dive Shop",
+  "type": "activities",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2146",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_clearwaterdive.png",
-  "details": "Rents snorkel equipment, oxygen tanks, and Hawaiian slings.",
+  "details": "ACTIVITIES. Rents snorkel equipment, oxygen tanks, and Hawaiian slings.",
   "coordinates": [25.19502,-76.243449],
   "tags": [
             "activities",
-            "snorkel",
-            "dive",
-            "oxygen",
-            "tanks",
+            "snorkeling",
+            "diving",
             "oxygen tanks",
-            "sling",
-            "slings",
-            "hawaiian",
-            "hawaiian sling",
+            "hawaiian slings",
             "scuba",
             "Governor's Harbour",
             "Governors Harbour",
-            "Governor's",
-            "Governors",
             "GH",
             "central"
            ]
   },
   
   {
-  "name": "Ocean Fox - Davis Harbour",
-  "city": "Governor's Harbour",
+  "name": "Ocean Fox - Cotton Bay",
+  "type": "activities",
+  "city": "Davis Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-334-6300",
-  "website": "http://www.google.com",
-  "mapImage": "map_south_oceanfox.png",
-  "details": "Scuba and snorkel equipment rentals, training, and charters.",
-  "image": "add_image.png",
+  "website": "http://oceanfoxcottonbay.com/",
+  "details": "ACTIVITIES. Scuba and snorkel equipment rentals, training, and charters. Departs from Davis Harbour.",
   "coordinates": [24.738763,-76.232929],
   "tags": [
             "activities",
             "kayak",
-            "bike",
-            "bicycle",
-            "cycle",
             "fishing",
             "tours",
-            "Governor's Harbour",
-            "Governors Harbour",
-            "Governor's",
-            "Governors",
-            "GH",
-            "central"
+            "scuba",
+            "snorkel",
+            "south"
            ]
   },
   
   {
-  "name": "Ocean Fox - Harbour Island",
-  "city": "Governor's Harbour",
-  "state": "Eleuthera",
+  "name": "Ocean Fox - HI",
+  "type": "activities",
+  "city": "Dunmore Town",
+  "state": "Harbour Island",
   "country": "Bahamas",
   "phone": "242-333-2323",
-  "website": "http://www.google.com",
-  "mapImage": "map_HI_oceanfoxHI.png",
-  "details": "Scuba and snorkel equipment rentals, training, and charters.",
-  "image": "add_image.png",
+  "details": "ACTIVITIES. Scuba and snorkel equipment rentals, training, and charters.",
   "coordinates": [25.490292,-76.63672],
   "tags": [
             "activities",
             "kayak",
-            "bike",
-            "bicycle",
-            "cycle",
             "fishing",
             "tours",
-            "Harbour",
+            "scuba",
+            "snorkeling",
             "Harbour Island",
             "HI",
             "Briland",
-            "Harbor",
-            "Harbor Island",
-            "Dunmore",
             "Dunmore Town"
            ]
   },
   
   {
   "name": "Valentine's Dive Shop",
+  "type": "activities",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-333-2080",
-  "website": "http://www.google.com",
-  "mapImage": "map_HI_valentinesdive.png",
-  "details": "Scuba and snorkel equipment rentals, training, and charters.",
+  "website": "http://www.valentinesdive.com/",
+  "details": "ACTIVITIES. Scuba and snorkel equipment rentals, training, and charters.",
   "coordinates": [25.497328,-76.637165],
   "tags": [
             "activities",
@@ -1780,55 +1870,49 @@
             "cycle",
             "fishing",
             "tours",
-            "Harbour",
             "Harbour Island",
             "HI",
-            "Briland",
-            "Harbor",
-            "Harbor Island"
+            "Briland"
            ]
   },
   
   {
   "name": "Captain Z's Fishing Charter",
+  "type": "activities",
   "city": "Gregory Town",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-551-0641",
-  "website": "http://www.google.com",
-  "mapImage": "map_GT2_CaptZ.png",
-  "details": "Fishing charters.",
+  "website": "http://www.captzeleuthera.com/",
+  "details": "ACTIVITIES. Fishing and boat charters.",
   "coordinates": [25.391204,-76.557251],
   "tags": [
             "activities",
-            "kayak",
-            "bike",
-            "bicycle",
-            "cycle",
             "fishing",
             "tours",
+            "Gregory Town",
             "GT",
-            "North Eleuthera",
-            "North",
-            "northern"
+            "north"
            ]
   },
   
   {
   "name": "Princess Theater",
+  "type": "activities",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2735",
-  "website": "http://www.google.com",
-  "mapImage": "add_image.png",
-  "details": "Nightly 8:15pm movie showings, except Thursday.",
+  "details": "ACTIVITIES. Nightly 8:15pm movie showings, except Thursday.",
   "coordinates": [25.192314,-76.241062],
   "tags": [
             "activities",
             "globe",
+            "cinema",
+            "film",
             "movies",
-            "movie",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
@@ -1836,17 +1920,18 @@
   
   {
   "name": "Friday Night Fish Fry",
+  "type": "activities",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_fishfry.png",
-  "details": "$$, Friday nights 6pm-12am.",
+  "details": "ACTIVITIES. Friday nights 6pm-12am.",
   "coordinates": [25.192651,-76.246791],
   "tags": [
             "activities",
             "music",
             "bbq",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
@@ -1854,19 +1939,19 @@
   
   {
   "name": "Oceanview Farm",
+  "type": "activities",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-357-4258",
-  "website": "http://www.google.com",
-  "mapImage": "map_BR_oceanviewfarms.png",
-  "details": "www.oceanview242.com, Mon-Sat 9a-4p, Horseback rides",
+  "website": "www.oceanview242.com",
+  "details": "ACTIVITIES. Mon-Sat 9a-4p, Horseback rides",
   "coordinates": [25.188826,-76.207636],
   "tags": [
             "activities",
-            "horse",
-            "horseback",
             "horseback rides",
+            "Governor's Harbour",
+            "Governors Harbour",
             "GH",
             "central"
            ]
@@ -1875,1016 +1960,914 @@
 
   {
   "name": "Cape Eleuthera Institute / Island School",
+  "type": "tours",
   "city": "Rock Sound",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-334-8552",
-  "website": "http://www.google.com",
-  "mapImage": "map_BR_fortys.png",
-  "details": "www.ceibahamas.org",
-  "image": "add_image.png",
+  "website": "www.ceibahamas.org",
+  "details": "TOURS. Hosts students for a semester of real world marine biology. Offers tours of the facilities on weekdays, call in advance.",
   "coordinates": [24.834317,-76.327761],
   "tags": [
             "activities",
-            "tour",
             "tours",
-            "island school",
-            "south",
-            "southern"
+            "CEI",
+            "south"
            ]
   },
 
   {
   "name": "Preacher's Cave",
+  "type": "sights",
   "city": "North",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "phone": "242-357-4258",
-  "website": "http://www.google.com",
-  "mapImage": "map_north_preacherscave.png",
-  "details": "-",
-  "image": "add_image.png",
+  "details": "SIGHTS. Said to have been used by the earliest settlers who crashed nearby. Has been studied extensively for it's historical significance.",
   "coordinates": [25.557329,-76.696061],
   "tags": [
             "sights",
-            "heritage",
-            "heritage site",
-            "north",
-            "northern",
-            "north eleuthera"
+            "north"
            ]
   
+  },
+
+  {
+  "name": "Current Cut",
+  "type": "sights",
+  "city": "Current",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "details": "SIGHTS. The changing tide forces water through this narrow passage at high speeds. Popular for snorkelers and divers.",
+  "coordinates": [25.402732,-76.79203],
+  "tags": [
+            "sights",
+            "north"
+           ]
   },
 
   {
   "name": "Glass Window Bridge",
+  "type": "sights",
   "city": "North",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_GWB_glasswindowbridge.png",
-  "details": "Formerly the narrowest land bridge in the world, the rebuilt road crosses the point where the deep raging Atlantic waters meet the calm shallow water of the Great Bahama Bank.",
-  "image": "add_image.png",
+  "details": "SIGHTS. Formerly the narrowest land bridge in the world, the rebuilt road crosses the point where the deep raging Atlantic waters meet the calm shallow water of the Great Bahama Bank.",
   "coordinates": [25.43752,-76.604211],
   "tags": [
             "sights",
-            "heritage",
             "heritage site",
-            "north",
-            "northern",
-            "north eleuthera"
+            "north"
            ]
-  
   },
 
   {
   "name": "Queen's Bath",
+  "type": "sights",
   "city": "North",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_GWB_queensbath.png",
-  "details": "Located adjacent to the Cow & Bull rock formation, the Queen's Bath's are shallow pools of water found at low tide that offer a place to cool off, and an unbeatable view.",
-  "image": "add_image.png",
+  "details": "SIGHTS. Located adjacent to the Cow & Bull rock formation, the Queen's Bath are shallow pools of water found at low tide that offer a place to cool off, and an unbeatable view.",
   "coordinates": [25.432389,-76.597635],
   "tags": [
             "sights",
-            "heritage",
             "heritage site",
-            "north",
-            "northern",
-            "north eleuthera"
+            "north"
            ]
-  
   },
 
   {
-  "name": "Cow & Bull",
+  "name": "Cow and Bull",
+  "type": "sights",
   "city": "North",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_GWB_cowandbull.png",
-  "details": "A rock formation overlooking the ocean. Erosion has given them their bovine-like shapes, further highlighted by a distinct roar through the air on a windy day.",
-  "image": "add_image.png",
+  "details": "SIGHTS. A rock formation overlooking the ocean. Erosion has given them their bovine-like shapes, further highlighted by a distinct roar through the air on a windy day.",
   "coordinates": [25.432065,-76.597061],
   "tags": [
             "sights",
-            "heritage",
             "heritage site",
-            "north",
-            "northern",
-            "north eleuthera"
+            "north"
            ]
-  
   },
 
   {
   "name": "Hatchet Bay Caves",
+  "type": "sights",
   "city": "Hatchet Bay",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_HB_caves.png",
-  "details": "-",
+  "details": "SIGHTS. Large cave complex can be visited with or without a guide. Bring a flashlight.",
   "coordinates": [25.366639,-76.520222],
   "tags": [
             "sights",
+            "Hatchet Bay",
             "HB",
-            "heritage",
             "heritage site",
-            "north",
-            "northern",
-            "north eleuthera"
+            "north"
            ]
-  
   },
 
   {
   "name": "Rainbow Cliffs",
+  "type": "sights",
   "city": "Rainbow Bay",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "NEED_MAP.png",
-  "details": "Towering cliffs over the Atlantic form a wave like pattern along the coast. Known for it's cliff diving (use caution) and natural infinity pools formed at low tide.",
-  "image": "add_image.png",
+  "details": "SIGHTS. Towering cliffs over the Atlantic form a wave like pattern along the coast. Known for it's cliff diving (use caution) and natural infinity pools formed at low tide.",
   "coordinates": [25.336361,-76.409027],
   "tags": [
             "sights",
+            "Rainbow Bay",
             "RB",
-            "cliff",
-            "cliffs",
-            "heritage",
             "heritage site",
-            "north",
-            "northern",
-            "north eleuthera"
+            "north"
            ]
-  
   },
 
   {
   "name": "Leon Levy Plant Preserve",
+  "type": "sights",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_BR_leonlevyplant.png",
-  "details": "www.levypreserve.org",
+  "website": "www.levypreserve.org",
+  "details": "SIGHTS. Numerous walking trails showing the indigenous plants of the Bahamas. Open daily 9a-5p, $5 adult admission.",
   "coordinates": [25.188098,-76.212394],
   "tags": [
             "sights",
-            "heritage",
-            "heritage site",
             "central"
            ]
-  
   },
 
   {
   "name": "Ocean Hole",
+  "type": "sights",
   "city": "Rock Sound",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_RS2_oceanhole.png",
-  "details": "-",
-  "image": "add_image.png",
+  "details": "SIGHTS. Salt water lake is stocked with various fish. Bring food to feed them or swim alongside, but no fishing allowed.",
   "coordinates": [24.863903477332855,-76.15557432174683],
   "tags": [
             "sights",
-            "rock sound",
-            "rock",
+            "Rock Sound",
             "RS",
-            "heritage",
             "heritage site",
-            "south",
-            "southern",
-            "south eleuthera"
+            "south"
            ]
-  
   },
 
   {
   "name": "Gully Hole",
+  "type": "sights",
   "city": "Deep Creek",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "NEED_MAP.png",
-  "details": "-",
+  "details": "SIGHTS. A small body of dark water. Listed to let you know it's not worth seeing.",
   "coordinates": [24.783072,-76.283612],
   "tags": [
             "sights",
-            "deep",
-            "deep creek",
+            "Deep Creek",
             "DC",
-            "creek",
-            "central"
+            "south"
            ]
-  
   },
 
   {
   "name": "The Lone Tree",
+  "type": "sights",
   "city": "Dunmore Town",
   "state": "Harbour Island",
   "country": "Bahamas",
-  "phone": "242-357-4258",
-  "website": "http://www.google.com",
-  "mapImage": "map_HI_thelonetree.png",
-  "details": "-",
+  "details": "SIGHTS. Iconic tree on the beach is a great photo opportunity.",
   "coordinates": [25.506881,-76.638817],
   "tags": [
             "sights",
-            "Harbour",
             "Harbour Island",
             "HI",
             "Briland",
-            "Harbor",
-            "Harbor Island",
-            "Dunmore",
             "Dunmore Town"
            ]
-  
   },
 
   {
   "name": "Hayne's Library",
+  "type": "library",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-332-2877",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_hayneslib.png",
-  "details": "www.hayneslibrary.org",
+  "website": "www.hayneslibrary.org",
+  "details": "LIBRARY. Has internet access, and also books, like most libraries.",
   "coordinates": [25.192775,-76.246316],
   "tags": [
-            "library",
+            "internet",
             "Governor's Harbour",
             "Governors Harbour",
-            "Governor's",
-            "Governors",
             "GH",
             "central"
            ]
-  
   },
 
   {
   "name": "Tarpum Bay Library",
+  "type": "library",
   "city": "Tarpum Bay",
   "state": "Eleuthera",
   "country": "Bahamas",
   "phone": "242-334-4603",
-  "website": "http://www.google.com",
-  "mapImage": "map_TB2_library.png",
-  "details": "tarpumbaylibrary@yahoo.com",
+  "website": "https://www.facebook.com/pages/Tarpum-Bay-Eleuthera/110148025681452",
+  "details": "LIBRARY. Has internet access, and also books, like most libraries.",
   "coordinates": [24.971718,-76.179902],
   "tags": [
             "library",
-            "Tarpum Bay",
+            "internet",
             "TB",
-            "Tarpum",
-            "south",
-            "southern"
+            "south"
            ]
-  
   },
 
   {
-  "name": "Texaco",
+  "name": "Texaco - ELH",
+  "type": "gas",
   "city": "North",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_north_texaco.png",
-  "details": "-",
+  "details": "GAS STATION. West of the airport, at the fork in the road. Useful as a landmark when traveling in the North, and also when filling the take before your departure.",
   "coordinates": [25.470002,-76.705191],
   "tags": [
-            "gas",
             "gas station",
-            "petrol",
             "petrol station",
             "move",
             "transportation",
             "texaco",
             "north"
            ]
-  
   },
 
   {
-  "name": "Shell - Governor's Harbour",
+  "name": "Shell - GH",
+  "type": "gas",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_shell.png",
-  "details": "-",
+  "details": "GAS STATION. Impossible to miss as you drive through town, directly in front of Eleuthera Supply grocery.",
   "coordinates": [25.195452,-76.243808],
   "tags": [
-            "gas",
             "gas station",
-            "petrol",
             "petrol station",
             "move",
             "transportation",
             "Governor's Harbour",
             "Governors Harbour",
-            "Governor's",
-            "Governors",
             "GH",
             "central"
            ]
-  
   },
 
   {
-  "name": "Esso",
+  "name": "Esso - GH",
+  "type": "gas",
   "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_esso.png",
-  "details": "-",
+  "details": "GAS STATION. Gas and service station that hopefully you'll never need.",
   "coordinates": [25.191794,-76.24052],
   "tags": [
-            "gas",
             "gas station",
-            "petrol",
             "petrol station",
             "move",
             "transportation",
             "esso",
+            "car repair",
             "Governor's Harbour",
             "Governors Harbour",
-            "Governor's",
-            "Governors",
             "GH",
             "central"
            ]
-  
   },
 
   {
-  "name": "Shell - Rock Sound",
+  "name": "Gas - TB",
+  "type": "gas",
+  "city": "Tarpum Bay",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "details": "GAS STATION. Just north of the Tarpum Bay Shopping Center.",
+  "coordinates": [24.959915,-76.18275],
+  "tags": [
+            "gas station",
+            "petrol station",
+            "move",
+            "transportation",
+            "Tarpum Bay",
+            "TB",
+            "south"
+           ]
+  },
+
+  {
+  "name": "Shell - RS",
+  "type": "gas",
   "city": "Rock Sound",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_RS2_marketgas.png",
-  "details": "-",
-  "image": "add_image.png",
+  "details": "GAS STATION. Located in the Market Place Shopping Center.",
   "coordinates": [24.873326,-76.162452],
   "tags": [
-            "gas",
             "gas station",
-            "petrol",
             "petrol station",
             "move",
             "transportation",
-            "shell",
+            "Rock Sound",
             "RS",
             "south"
            ]
-  
   },
 
   {
-  "name": "Gas - Rock Sound",
+  "name": "Gas - RS",
+  "type": "gas",
   "city": "Rock Sound",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_RS2_gas.png",
-  "details": "-",
+  "details": "GAS STATION. Great view of the Market Place from this gas station across the street.",
   "coordinates": [24.872284,-76.162012],
   "tags": [
-            "gas",
             "gas station",
-            "petrol",
             "petrol station",
             "move",
             "transportation",
+            "Rock Sound",
             "RS",
             "south"
            ]
-  
+  },
+
+  {
+  "name": "Gas - GT",
+  "type": "gas",
+  "city": "Gregory Town",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "details": "GAS STATION.  Across from the 7-Eleven in town.",
+  "coordinates": [25.393561,-76.556548],
+  "tags": [
+            "gas station",
+            "petrol station",
+            "move",
+            "transportation",
+            "Gregory Town",
+            "GT",
+            "north"
+           ]
   },
  
   {
-  "name": "Gas - James Cistern",
+  "name": "Gas - JC",
+  "type": "gas",
   "city": "North",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_JC_gas.png",
-  "details": "-",
-  "coordinates": [1, 2],
+  "details": "GAS STATION. Pump your gas with an ocean view, just north of the fishing pier.",
+  "coordinates": [25.325628,-76.365264],
   "tags": [
-            "gas",
             "gas station",
-            "petrol",
             "petrol station",
             "move",
             "transportation",
-            "texaco",
-            "james cistern",
-            "north"
+            "James Cistern",
+            "JC",
+            "central"
            ]
-  
   },
 
   {
-  "name": "Gas - Palmetto Point",
+  "name": "Gas - PP",
+  "type": "gas",
   "city": "Palmetto Point",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_PP_gas.png",
-  "details": "-",
-  "coordinates": [1, 2],
+  "details": "GAS STATION. On the main road.",
+  "coordinates": [25.160022,-76.185561],
   "tags": [
-            "gas",
             "gas station",
-            "petrol",
             "petrol station",
             "move",
             "transportation",
-            "texaco",
-            "Palmetto Point",
             "North Palmetto Point",
             "NPP",
-            "PP",
-            "Palmetto",
-            "Palmetto Point",
             "central"
            ]
-  
   },
   
   {
   "name": "Gusty's",
+  "type": "nightlife",
   "address": "Cocconut Grove Avenue",
   "city": "Dunmore Town",
   "state": "Harbour Island",
   "country": "Bahamas",
   "phone": "242-333-2165",
-  "website": "http://www.google.com",
-  "mapImage": "map_HI_gustys.png",
-  "details": "Tippy's serve awesome and overpriced food",
-  "coordinates": [1, 2],
+  "details": "NIGHTLIFE. Head to the sand dance floor where locals groove with millionaire vacationers.",
+  "coordinates": [25.505619,-76.63816],
   "tags": [
-            "night club",
+            "nightlife",
             "alcohol",
             "Harbour",
-            "Harbour Island",
             "HI",
             "Briland",
-            "Harbor",
-            "Harbor Island",
-            "Dunmore",
             "Dunmore Town"
            ]
   },
 
   {
   "name": "VicHum's",
+  "type": "nightlife",
   "address": "Barrack Street",
   "city": "Dunmore Town",
   "state": "Harbour Island",
   "country": "Bahamas",
   "phone": "242-333-2161",
-  "website": "http://www.google.com",
-  "mapImage": "map_HI_vichums.png",
-  "details": "Tippy's serve awesome and overpriced food",
+  "details": "NIGHTLIFE. By day, a lounge with food, ping-pong, and a basketball court, by night, a DJ turns it into a dance club.",
   "coordinates": [25.503353,-76.63654],
   "tags": [
             "night club",
             "alcohol",
             "Harbour",
-            "Harbour Island",
             "HI",
             "Briland",
-            "Harbor",
-            "Harbor Island",
-            "Dunmore",
             "Dunmore Town"
            ]
   },
   
   {
   "name": "Upper Cove Beach",
+  "type": "beach",
   "city": "North",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "NEED_MAP.png",
-  "details": "-",
-  "coordinates": [25.405988,-76.781012],
+  "details": "Adjacent to the road and well shaded, the shallow water is better suited for wading than swimming.",
+  "coordinates": [25.420408,-76.77038],
   "tags": [
-            "beach",
+            "beaches",
             "caribbean",
             "shade",
             "north"
            ]
   
   },
-
   
   {
   "name": "Tay Bay Beach",
+  "type": "beach",
   "city": "North",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_north_taybaybeach.png",
-  "details": "-",
+  "details": "Located on the north shore, behind Preacher's Cave, this beach is well off the main road, and therefore very quiet.",
   "coordinates": [25.559013,-76.695299],
   "tags": [
-            "beach",
-            "caribbean",
+            "beaches",
             "shade",
             "north"
            ]
-  
   },
   
   {
   "name": "Ben Bay Beach",
+  "type": "beach",
   "city": "North",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_north_benbaybeach.png",
-  "details": "-",
+  "details": "This north shore cove has calm waters that are ideal for swimming and snorkeling.",
   "coordinates": [25.558181,-76.724203],
   "tags": [
-            "beach",
-            "caribbean",
+            "beaches",
+            "atlantic",
             "shade",
+            "snorkeling",
             "north"
            ]
+  },
   
+  {
+  "name": "Cistern Cay Beach",
+  "type": "beach",
+  "city": "North",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "details": "Shallow water with excellent snorkeling at the cay.",
+  "coordinates": [25.464083,-76.649208],
+  "tags": [
+            "beaches",
+            "atlantic",
+            "shade",
+            "snorkeling",
+            "central"
+           ]
   },
 
-  
-  {
-  "name": "Salt Kettle Beach",
-  "city": "North",
-  "state": "Eleuthera",
-  "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_north_saltkettlebeach.png",
-  "details": "-",
-  "coordinates": [25.557939,-76.734052],
-  "tags": [
-            "beach",
-            "caribbean",
-            "shade",
-            "north"
-           ]
-  
-  },
-  
-  {
-  "name": "Current Bay Beach",
-  "city": "North",
-  "state": "Eleuthera",
-  "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_north_currentbaybeach.png",
-  "details": "-",
-  "coordinates": [25.556138,-76.686598],
-  "tags": [
-            "beach",
-            "caribbean",
-            "shade",
-            "north"
-           ]
-  
-  },
-  
-  {
-  "name": "Cistern Bay Beach",
-  "city": "North",
-  "state": "Eleuthera",
-  "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_north_cisternbaybeach.png",
-  "details": "-",
-  "coordinates": [1, 2],
-  "tags": [
-            "beach",
-            "caribbean",
-            "shade",
-            "north"
-           ]
-  
-  },
-  
-  {
-  "name": "Cotton Bay Beach",
-  "city": "North",
-  "state": "Eleuthera",
-  "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_south_cottonbaybeach.png",
-  "details": "-",
-  "coordinates": [1, 2],
-  "tags": [
-            "beach",
-            "caribbean",
-            "shade",
-            "north"
-           ]
-  
-  },
-  
-  {
-  "name": "Jack's Bay Beach",
-  "city": "North",
-  "state": "Eleuthera",
-  "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_south_jacksbaybeach.png",
-  "details": "-",
-  "coordinates": [1, 2],
-  "tags": [
-            "beach",
-            "caribbean",
-            "shade",
-            "north"
-           ]
-  
-  },
-  
   {
   "name": "Gaulding Cay Beach",
+  "type": "beach",
   "city": "North",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_GWB_gauldingcaybeach.png",
-  "details": "-",
+  "details": "Calm shallow water, and nice seashells at this quiet Caribbean beach. Great snorkeling just offshore at the cay.",
   "coordinates": [25.424056,-76.594668],
   "tags": [
-            "beach",
+            "beaches",
             "caribbean",
             "shade",
+            "shelling",
+            "snorkeling",
             "north"
            ]
-  
   },
   
   {
   "name": "Surfer's Beach",
-  "city": "North",
+  "type": "beach",
+  "city": "Gregory Town",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_GT_surfersbeach.png",
-  "details": "-",
-  "coordinates": [1, 2],
+  "details": "Known for it's waves, access requires adequate ground clearance and having a 4x4 is helpful.",
+  "coordinates": [25.38153,-76.525725],
   "tags": [
-            "beach",
+            "beaches",
             "caribbean",
             "shade",
+            "surfing",
             "north"
            ]
-  
   },
   
   {
   "name": "Rainbow Bay Beach",
-  "city": "North",
+  "type": "beach",
+  "city": "Rainbow Bay",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_RB_rainbowbeach.png",
-  "details": "-",
-  "coordinates": [1, 2],
+  "details": "Caribbean beach is well maintained by the Rainbow Bay vacation home community and is one of the most active.",
+  "coordinates": [25.333932,-76.431558],
   "tags": [
-            "beach",
+            "beaches",
             "caribbean",
             "shade",
+            "RB",
             "north"
            ]
-  
   },
-  
+   
   {
-  "name": "Twin Cove Beach",
-  "city": "North",
+  "name": "Twin Beach",
+  "type": "beach",
+  "city": "Rainbow Bay",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "NEED_MAP.png",
-  "details": "-",
-  "coordinates": [1, 2],
+  "details": "Scenic beach areas at the bottom of the soaring cliffs. Pedestrian access is difficult, but there are beautiful views from above.",
+  "coordinates": [25.34261,-76.442485],
   "tags": [
-            "beach",
-            "caribbean",
-            "shade",
-            "north"
+            "beaches",
+            "atlantic",
+            "central"
            ]
-  
-  },
-  
-  {
-  "name": "Twin Beaches",
-  "city": "North",
-  "state": "Eleuthera",
-  "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "NEED_MAP.png",
-  "details": "-",
-  "image": "add_image.png",
-  "coordinates": [25.336443,-76.419783],
-  "tags": [
-            "beach",
-            "caribbean",
-            "shade",
-            "north"
-           ]
-  
   },
   
   {
   "name": "James Point Beach",
-  "city": "North",
+  "type": "beach",
+  "city": "James Cistern",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_JC_jamespointbeach.png",
-  "details": "-",
-  "coordinates": [1, 2],
+  "details": "The point at the north end of this beach is known as one of the best surfing spots on the island. Sandy access road makes high ground clearance vehicles or 4x4s the preferred transportation.",
+  "coordinates": [25.333932,-76.353403],
   "tags": [
-            "beach",
-            "caribbean",
-            "shade",
-            "north"
+            "beaches",
+            "atlantic",
+            "surfing",
+            "central"
            ]
-  
   },
   
   {
   "name": "Airport Beach",
+  "type": "beach",
   "city": "North",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_GHB_airportbeach.png",
-  "details": "-",
+  "details": "One of largest beaches on the island, this Atlantic side sand is great for long walks.",
   "coordinates": [25.260998,-76.30228],
   "tags": [
-            "beach",
-            "caribbean",
-            "shade",
-            "north"
+            "beaches",
+            "atlantic",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "GH",
+            "central"
            ]
-  
   },
   
   {
   "name": "Alabaster Bay Beach",
-  "city": "North",
+  "type": "beach",
+  "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_GHB_alabasterbay.png",
-  "details": "-",
+  "details": "The sparkling shallow waters of Alabaster Bay have been enjoyed by many past Cocodimama visitors, and have made their way onto the cover of Conde Nast.",
   "coordinates": [25.262065,-76.318223],
   "tags": [
-            "beach",
+            "beaches",
             "caribbean",
+            "receiver's",
+            "receivers",
+            "cocodimama",
             "shade",
-            "north"
+            "Governor's Harbour",
+            "Governors Harbour",
+            "GH",
+            "central"
            ]
-  
   },
   
   {
   "name": "Sky Beach",
+  "type": "beach",
+  "city": "Governor's Harbour",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "details": "Home to Sky Beach Club and The Bistro restaurant, this clean Atlantic beach offers a large berm and is frequently used as a wedding site.",
+  "coordinates": [25.230643,-76.269944],
+  "tags": [
+            "beaches",
+            "atlantic",
+            "shade",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "GH",
+            "central"
+           ]
+  },
+
+  {
+  "name": "Twin Cove Beach",
+  "type": "beach",
   "city": "North",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_GH_skybeach.png",
-  "details": "-",
-  "image": "add_image.png",
-  "coordinates": [25.230643,-76.269944],
+  "details": "Two beaches in one, the coast is shielded from waves and snorkeling in the area is good.",
+  "coordinates": [25.216017,-76.246501],
   "tags": [
-            "beach",
-            "caribbean",
-            "shade",
-            "north"
+            "beaches",
+            "atlantic",
+            "snorkeling",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "GH",
+            "central"
            ]
-  
   },
  
   {
   "name": "French Leave Beach",
-  "city": "North",
+  "type": "beach",
+  "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_BR_frenchleavebeach.png",
-  "details": "-",
-  "image": "add_image.png",
+  "details": "The former home of Club Med, this Atlantic crescent has a gentle slope keeping water shallow near the beach. Dining is available at The Beach House Restaurant.",
   "coordinates": [25.201155,-76.23117],
   "tags": [
-            "beach",
-            "caribbean",
+            "beaches",
+            "atlantic",
             "shade",
-            "north"
+            "Governor's Harbour",
+            "Governors Harbour",
+            "GH",
+            "central"
            ]
-  
   },
 
   {
   "name": "Tippy's Beach",
-  "city": "-",
+  "type": "beach",
+  "city": "Governor's Harbour",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_BR_tippysbeach.png",
-  "details": "-",
-  "image": "add_image.png",
-  "coordinates": [1, 2],
+  "details": "Atlantic beach is Overlooked by Tippy's restaurant, has shallow colorful water and a long coastline that's great for walking.",
+  "coordinates": [25.190491,-76.208838],
   "tags": [
-            "beach",
+            "beaches",
             "atlantic",
-            "shade",
-            "-"
+            "pineapple fields",
+            "tippys",
+            "Governor's Harbour",
+            "Governors Harbour",
+            "GH",
+            "central"
            ]
-  
   },  
 
   {
   "name": "Poponi Beach",
-  "city": "North",
+  "type": "beach",
+  "city": "North Palmetto Point",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_PP_Poponibeach.png",
-  "details": "-",
-  "coordinates": [1, 2],
+  "details": "Atlantic beach has a seemingly endless pink sand shoreline with snorkeling opportunities. In a popular vacation rental community, but a relatively quiet beach.",
+  "coordinates": [25.171116,-76.171238],
   "tags": [
-            "beach",
-            "caribbean",
-            "shade",
-            "north"
+            "beaches",
+            "atlantic",
+            "North Palmetto Point",
+            "NPP",
+            "central"
            ]
+  },
   
+  {
+  "name": "Papaw Beach",
+  "type": "beach",
+  "city": "South Palmetto Point",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "details": "Caribbean beach is somewhat rocky, but has good snorkeling and fishing. Nearby cays can be reached by kayak.",
+  "coordinates": [25.150063,-76.181989],
+  "tags": [
+            "beaches",
+            "caribbean",
+            "South Palmetto Point",
+            "central"
+           ]
   },
   
   {
   "name": "Double Bay Beach",
-  "city": "North",
+  "type": "beach",
+  "city": "Double Bay",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "NEED_MAP.png",
-  "details": "-",
+  "details": "Atlantic side beach is in a popular vacation rental community, however, it is large and there is plenty of beach to share.",
   "coordinates": [25.135728,-76.127615],
   "tags": [
-            "beach",
-            "caribbean",
+            "beaches",
+            "atlantic",
             "shade",
-            "north"
+            "DB",
+            "central"
            ]
-  
   },
   
   {
   "name": "Winding Bay Beach",
-  "city": "North",
+  "type": "beach",
+  "city": "Winding Bay",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "NEED_MAP.png",
-  "details": "-",
-  "coordinates": [1, 2],
+  "details": "Atlantic beach is somewhat sheltered from the waves and has plenty of trees for shade. Beautiful landscape for excellent pictures.",
+  "coordinates": [24.959546,-76.158535],
   "tags": [
-            "beach",
-            "caribbean",
+            "beaches",
+            "atlantic",
             "shade",
-            "north"
+            "WB",
+            "south"
            ]
-  
   },
   
   {
   "name": "Whiteland Beach",
-  "city": "North",
+  "type": "beach",
+  "city": "Rock Sound",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_RSD_whitelandbeach.png",
-  "details": "-",
+  "details": "Atlantic beach, at the north end you'll find the rock formation known as the 'Blue Window' where the sky is framed by the land.",
   "coordinates": [24.841347,-76.140651],
   "tags": [
-            "beach",
+            "beaches",
             "atlantic",
-            "shade",
-            "north"
+            "Rock Sound",
+            "RS",
+            "south"
            ]
-  
   },
+
+  {
+  "name": "Jack's Bay Beach",
+  "type": "beach",
+  "city": "South",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "details": "Atlantic beach, just North of Cotton Bay, this crescent has some shade and a gentle entry into the water.",
+  "coordinates": [24.78879,-76.168771],
+  "tags": [
+            "beaches",
+            "atlantic",
+            "south"
+           ]
+  },
+
+  {
+  "name": "Cotton Bay Beach",
+  "type": "beach",
+  "city": "South",
+  "state": "Eleuthera",
+  "country": "Bahamas",
+  "details": "Atlantic beach, located behind the only (decaying) golf course on the island.",
+  "coordinates": [24.753885,-76.191001],
+  "tags": [
+            "beaches",
+            "atlantic",
+            "south"
+           ]
+  }, 
   
   {
   "name": "Lighthouse Bay Beach",
-  "city": "North",
+  "type": "beach",
+  "city": "Bannerman Town",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_LH_lhb.png",
-  "details": "-",
-  "image": "add_image.png",
+  "details": "Atlantic beach, located just prior to the better known Lighthouse Beach, Lighthouse Bay is a crescent of pink sand and bright water at the southern tip of the island with sunshine all day. High ground clearance vehicle preferred for easier access.",
   "coordinates": [24.616511,-76.150875],
   "tags": [
-            "beach",
-            "caribbean",
-            "shade",
-            "north"
+            "beaches",
+            "atlantic",
+            "Bannerman Town",
+            "BT",
+            "south"
            ]
-  
   },
   
   {
   "name": "Lighthouse Beach",
-  "city": "North",
+  "type": "beach",
+  "city": "Bannerman Town",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_LH_lh.png",
-  "details": "-",
-  "image": "add_image.png",
+  "details": "Atlantic beach with interesting rock formations and the lighthouse on top of the hill make it one of the most picturesque spots on the island. High ground clearance vehicle preferred for easier access.",
   "coordinates": [24.616999,-76.145425],
   "tags": [
-            "beach",
-            "caribbean",
+            "beaches",
+            "atlantic",
             "shade",
-            "north"
+            "Bannerman Town",
+            "BT",
+            "south"
            ]
-  
   },
   
   {
   "name": "Northside Beach",
-  "city": "North",
+  "type": "beach",
+  "city": "Rock Sound",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_RS_northsidebeach.png",
-  "details": "-",
+  "details": "Atlantic beach, extends north and south of the Northside Inn & Restaurant. Afternoon shade from trees and hillside.",
   "coordinates": [24.870893,-76.134996],
   "tags": [
-            "beach",
+            "beaches",
             "atlantic",
             "shade",
-            "north"
+            "Rock Sound",
+            "RS",
+            "south"
            ]
-  
   },
   
   {
   "name": "Pink Sands Beach",
+  "type": "beach",
   "city": "Dunmore Town",
   "state": "Harbour Island",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_HI_pinksandsbeach.png",
-  "details": "-",
+  "details": "Harbour Island Beach of abundant pink sand, regularly voted as one of the best in the world. Food and drink at many hill side restaurants, showers and changing facilities are not.",
   "coordinates": [25.50079,-76.631248],
   "tags": [
-            "beach",
+            "beaches",
             "caribbean",
-            "shade",
+            "Harbour Island",
+            "HI",
+            "Dunmore Town",
             "north"
            ]
-  
   },
 
   {
   "name": "Princess Cays",
-  "city": "-",
+  "type": "beach",
+  "city": "Bannerman Town",
   "state": "Eleuthera",
   "country": "Bahamas",
-  "website": "http://www.google.com",
-  "mapImage": "map_LH_pc.png",
-  "details": "-",
+  "website": "http://www.princess.com/excursion/exlistfordestination.do?portid=RSD&t=C&exType=S",
+  "details": "PRIVATE. This small area is restricted to Princess Cruise passengers who are free to arrange transport to a quieter part of the island where the non-ship travelers are enjoying the peaceful and non-commercialized beaches.",
   "coordinates": [24.636739,-76.174468],
   "tags": [
-            "beach",
+            "beaches",
             "caribbean",
             "shade",
-            "-"
+            "Bannerman Town",
+            "BT",
+            "south"
            ]
-  
   }  
   
   

@@ -7,27 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3520863D1876472B00BB6778 /* Places.json in CopyFiles */ = {isa = PBXBuildFile; fileRef = 35A2E907187643CD0052F40D /* Places.json */; };
 		35208648187647FE00BB6778 /* Tag.m in Sources */ = {isa = PBXBuildFile; fileRef = 35208645187647FE00BB6778 /* Tag.m */; };
 		35208649187647FE00BB6778 /* Place.m in Sources */ = {isa = PBXBuildFile; fileRef = 35208647187647FE00BB6778 /* Place.m */; };
 		3520864B1876480600BB6778 /* Places.xcdatamodel in Sources */ = {isa = PBXBuildFile; fileRef = 3520864A1876480600BB6778 /* Places.xcdatamodel */; };
+		3520866918764F5100BB6778 /* EleutheraDataImport.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 35B2B5B9179B88C900492121 /* EleutheraDataImport.1 */; };
 		35A2E8F718763B100052F40D /* TagMgr.m in Sources */ = {isa = PBXBuildFile; fileRef = 35A2E8F418763B100052F40D /* TagMgr.m */; };
 		35A2E8F818763B100052F40D /* PlaceMgr.m in Sources */ = {isa = PBXBuildFile; fileRef = 35A2E8F618763B100052F40D /* PlaceMgr.m */; };
 		35B2B5AE179B88C900492121 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35B2B5AD179B88C900492121 /* CoreData.framework */; };
 		35B2B5B0179B88C900492121 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35B2B5AF179B88C900492121 /* Foundation.framework */; };
 		35B2B5B3179B88C900492121 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 35B2B5B2179B88C900492121 /* main.m */; };
-		35B2B5BA179B88C900492121 /* EleutheraDataImport.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 35B2B5B9179B88C900492121 /* EleutheraDataImport.1 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
 		354D0C8917E7FE0E00D3A1CA /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
+			buildActionMask = 8;
 			dstPath = "";
-			dstSubfolderSpec = 7;
+			dstSubfolderSpec = 10;
 			files = (
 			);
-			runOnlyForDeploymentPostprocessing = 0;
+			runOnlyForDeploymentPostprocessing = 1;
 		};
 		35B2B5A8179B88C900492121 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -35,8 +34,7 @@
 			dstPath = /usr/share/man/man1/;
 			dstSubfolderSpec = 0;
 			files = (
-				3520863D1876472B00BB6778 /* Places.json in CopyFiles */,
-				35B2B5BA179B88C900492121 /* EleutheraDataImport.1 in CopyFiles */,
+				3520866918764F5100BB6778 /* EleutheraDataImport.1 in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
@@ -48,11 +46,11 @@
 		35208646187647FE00BB6778 /* Place.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Place.h; sourceTree = "<group>"; };
 		35208647187647FE00BB6778 /* Place.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Place.m; sourceTree = "<group>"; };
 		3520864A1876480600BB6778 /* Places.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Places.xcdatamodel; sourceTree = "<group>"; };
+		355FCA1618E330CE00873609 /* Places.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Places.json; sourceTree = "<group>"; };
 		35A2E8F318763B100052F40D /* TagMgr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TagMgr.h; sourceTree = "<group>"; };
 		35A2E8F418763B100052F40D /* TagMgr.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TagMgr.m; sourceTree = "<group>"; };
 		35A2E8F518763B100052F40D /* PlaceMgr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlaceMgr.h; sourceTree = "<group>"; };
 		35A2E8F618763B100052F40D /* PlaceMgr.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlaceMgr.m; sourceTree = "<group>"; };
-		35A2E907187643CD0052F40D /* Places.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Places.json; sourceTree = "<group>"; };
 		35B2B5AA179B88C900492121 /* EleutheraDataImport */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = EleutheraDataImport; sourceTree = BUILT_PRODUCTS_DIR; };
 		35B2B5AD179B88C900492121 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		35B2B5AF179B88C900492121 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -85,7 +83,6 @@
 				35A2E8F418763B100052F40D /* TagMgr.m */,
 				35A2E8F518763B100052F40D /* PlaceMgr.h */,
 				35A2E8F618763B100052F40D /* PlaceMgr.m */,
-				35A2E907187643CD0052F40D /* Places.json */,
 				3520864A1876480600BB6778 /* Places.xcdatamodel */,
 			);
 			name = "ELeuthera Model";
@@ -131,6 +128,7 @@
 		35B2B5B4179B88C900492121 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				355FCA1618E330CE00873609 /* Places.json */,
 				35B2B5B5179B88C900492121 /* EleutheraDataImport-Prefix.pch */,
 			);
 			name = "Supporting Files";
@@ -262,6 +260,10 @@
 		35B2B5BE179B88C900492121 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/yiwang1982/Documents/iOS/EleutheraDataImport,
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "EleutheraDataImport/EleutheraDataImport-Prefix.pch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -271,6 +273,10 @@
 		35B2B5BF179B88C900492121 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/yiwang1982/Documents/iOS/EleutheraDataImport,
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "EleutheraDataImport/EleutheraDataImport-Prefix.pch";
 				PRODUCT_NAME = "$(TARGET_NAME)";

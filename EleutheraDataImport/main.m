@@ -17,6 +17,9 @@
 #import "PlaceMgr.h"
 #import "TagMgr.h"
 
+
+
+
 static NSManagedObjectModel *managedObjectModel()
 {
     
@@ -68,8 +71,13 @@ static NSManagedObjectContext *managedObjectContext()
 
 int main(int argc, const char * argv[])
 {
+        
     
     @autoreleasepool {
+        
+        
+
+        
         // Create the managed object context
         NSManagedObjectContext *context = managedObjectContext();
         
@@ -84,8 +92,16 @@ int main(int argc, const char * argv[])
         
         
         
+        
+        
         NSError* err = nil;
         NSString* dataPath = [[NSBundle mainBundle] pathForResource:@"Places" ofType:@"json"];
+        
+        if ([[NSFileManager defaultManager] fileExistsAtPath:dataPath]){
+            NSLog(@"file exists......");
+        }
+        
+        
         NSArray* places = [NSJSONSerialization JSONObjectWithData:[NSData dataWithContentsOfFile:dataPath]
                                                           options:kNilOptions
                                                             error:&err];
@@ -110,6 +126,7 @@ int main(int argc, const char * argv[])
             [fetchRequest setPredicate:pred];
             NSError *error = nil;
             NSArray *fetchedPlaces = [context executeFetchRequest:fetchRequest error:&error];
+            
             if (![fetchedPlaces count]){ //only insert this place into data store if it does not already exist
                 
                 Place *place = [NSEntityDescription insertNewObjectForEntityForName:@"Place" inManagedObjectContext:context];
