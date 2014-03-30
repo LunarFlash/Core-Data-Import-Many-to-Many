@@ -47,6 +47,7 @@
 		35208647187647FE00BB6778 /* Place.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Place.m; sourceTree = "<group>"; };
 		3520864A1876480600BB6778 /* Places.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Places.xcdatamodel; sourceTree = "<group>"; };
 		355FCA1618E330CE00873609 /* Places.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Places.json; sourceTree = "<group>"; };
+		35813FB918E8B49300D80D12 /* Model.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Model.png; sourceTree = "<group>"; };
 		35A2E8F318763B100052F40D /* TagMgr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TagMgr.h; sourceTree = "<group>"; };
 		35A2E8F418763B100052F40D /* TagMgr.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TagMgr.m; sourceTree = "<group>"; };
 		35A2E8F518763B100052F40D /* PlaceMgr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlaceMgr.h; sourceTree = "<group>"; };
@@ -84,6 +85,7 @@
 				35A2E8F518763B100052F40D /* PlaceMgr.h */,
 				35A2E8F618763B100052F40D /* PlaceMgr.m */,
 				3520864A1876480600BB6778 /* Places.xcdatamodel */,
+				35813FB918E8B49300D80D12 /* Model.png */,
 			);
 			name = "ELeuthera Model";
 			sourceTree = "<group>";
